@@ -18,6 +18,7 @@ they consist of **nodes/vertices**, and **edges**
 
 edges start at a node and end at a node, **they must have a start/end**
 there can be more than one edge between two same nodes, and an edge can start and end at the same node aswell!
+
 ![graph that shows nodes do not need to be connected, edges can start and end on nodes that already have another edge between them, and edges can go back to the same node it started from](_resources/d9fd6b162151d9902df76904194482fa.png)
 
 edges can also have a singular direction, which is represented as an arrow instead of a line!
