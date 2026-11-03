@@ -14,12 +14,11 @@
 graphs are just another way of representing information
 they consist of **nodes/vertices**, and **edges**
 
-![doodle of edge and nodes](_resources/8a8d03a55ed65fa3cfc0b26336dc89f9.png)
+![doodle of edge and nodes](:/5bc4ffec5b9449abb5a0ef82afab89f2)
 
 edges start at a node and end at a node, **they must have a start/end**
 there can be more than one edge between two same nodes, and an edge can start and end at the same node aswell!
-
-![graph that shows nodes do not need to be connected, edges can start and end on nodes that already have another edge between them, and edges can go back to the same node it started from](_resources/d9fd6b162151d9902df76904194482fa.png)
+![graph that shows nodes do not need to be connected, edges can start and end on nodes that already have another edge between them, and edges can go back to the same node it started from](:/123159efd6ef4a9fb1ef9c0b8cdc488b)
 
 edges can also have a singular direction, which is represented as an arrow instead of a line!
 graphs where edges are directed/arrows are also called digraphs (directed graphs)
@@ -28,7 +27,7 @@ when theres an arrow from node A to node B, that means node A can go to node B, 
 
 nodes do not need to be connected to the rest of the graph to still be included in the graph
 
-a graph that does not have any split up parts, or nodes that arent connected to the rest of the graph, and have only one edge between two of the same nodes, and do not have any edges that start and end at the same node, are considered simple
+a graph where its edges connect only different vertices, and that there are only one edge between any pair of vertices are considered simple
 
 # relations
 
@@ -48,7 +47,7 @@ if an element x relates to y with some relation called R, then you can also writ
 
 another way to represent relations is as a graph, where each element is a node, and the relation being represented as an edge between two elements
 
-![a relation graph for the smaller than equal to relation (<=) where node 1 is related to itself, node 2, 3, and 4, node 2 is related to itself and node 3, and 4, node 3 is related to itself and node 4, node 4 is related to itself and nothing else](_resources/b02363f8e5da535f94eb9ec66e7c88c0.png)
+![a relation graph for the smaller than equal to relation (<=) where node 1 is related to itself, node 2, 3, and 4, node 2 is related to itself and node 3, and 4, node 3 is related to itself and node 4, node 4 is related to itself and nothing else](:/decbf8d36f8e4e29844de89afc09fc03)
 
 so here this would be an example of the relation <= for a set of elements that consist of just 1, 2, 3, 4
 notice the directed edges (arrows), as 1 is smaller than equal to 2, but not vice versa
@@ -74,7 +73,7 @@ you can imagine a node with an arrow that goes back to itself. so for the exampl
 
 to remember why its called reflexivity, you can think of reflexive pronouns (myself, yourself, him/her/itself, ourselves, yourselves, themselves)
 
-![a relation graph where node 1 is related to itself and nothing else, and node 2 is related to itself and nothing else](_resources/ea6ea4bb1504d65609bc2f42666ed65f.png)
+![a relation graph where node 1 is related to itself and nothing else, and node 2 is related to itself and nothing else](:/966c4113567548f88c5d3a50f89f6be0)
 
 ## symmetry
 
@@ -86,7 +85,7 @@ for example, the 'is classmate of' relation is symmetric, where if A is a classm
 
 in our example of <=, this relation is NOT symmetric, as 2 <= 1 is not part of the relation, but 1 <= 2 is.
 
-![two relation graphs showing node A related to node B and node B related to node A, or alternatively, a line between A and B. It is less confusing to use the first form](_resources/3a0df456cecb76dd01600a927b17a0fb.png)
+![two relation graphs showing node A related to node B and node B related to node A, or alternatively, a line between A and B. It is less confusing to use the first form](:/85e34ea718754ae3abdc22b086254abd)
 
 ## antisymmetry
 
@@ -99,9 +98,9 @@ you can be both not symmetric and not antisymmetric either!! for example, take t
 
 there cannot be any relations that go both ways in antisymmetry
 
-in our example, <= is antisymmetric, as there are no relations in the set of elements that go both ways
+in our example, <= is antisymmetric, as there are no relations in the set of elements that go both ways between distinct elements
 
-![three relation graphs showing antisymmetry (where node A goes to B, B goes to C), symmetry (where node A goes to B and vice versa, node B goes to C and vice versa), not symmetric nor antisymmetric (where node A goes to B and vice versa, and B goes to C but not the other way round.png](_resources/a66cc1a8489ea7ddb040204646f1c474.png)
+![three relation graphs showing antisymmetry (where node A goes to B, B goes to C), symmetry (where node A goes to B and vice versa, node B goes to C and vice versa), not symmetric nor antisymmetric (where node A goes to B and vice versa, and B goes to C but not the other way round.png](:/566b60d0e74842c2b8444c8c416c8e12)
 
 ## transitivity
 
@@ -116,7 +115,7 @@ you can imagine this means, if a nodes on a graph go from one to another then to
 
 in our example, <= is also transitive, as it if 1 <= 2, and 2 <= 3, then 1 <= 3 aswell
 
-![a relation graph showing node A to B, B to C, A to C, B to C, C to D, B to D, A to D.png](_resources/03960219a45a9f44a093ec86b1ef0de7.png)
+![a relation graph showing node A to B, B to C, A to C, B to C, C to D, B to D, A to D.png](:/d0803b765dd5417eb845b3ad06629c40)
 
 # equivalence relations and classes
 
@@ -155,7 +154,7 @@ recall that congruent modulo n is just some relation, and relations are just set
 
 consider congruent modulo 3 on the set of integers from 0 to 6
 in graph form it becomes something like this
-![an example of congruent modulo 3 as a relation graph on 0,1,2...6](_resources/75f61b01d448af7bb771df0ef6767297.png)
+![an example of congruent modulo 3 as a relation graph on 0,1,2...6](:/02e51ad4d4604e2899c563e455e5decf)
 
 remembering that each arrow from node A to node B represents that theres a relation between A and B
 
@@ -167,7 +166,7 @@ when the domain of the equivalence class of some x under the congruence modulo n
 
 so for our example instead of S, being the domain now we set it to Z (standing for integers)
 
-we call that the set of integers modulo n for some x, where now we can write it as x with a bar on top, standing for the set of numbers that is x + k*n where k is some integer, and n is from the integers modulo n
+we call that the set of integers modulo n for some x, where now we can write it as x with a bar on top, standing for the set of numbers that is x + k*n where k is some integer.
 
 BOOM basic overview done!!
 
@@ -178,7 +177,7 @@ one of the principle of combinatorics is the rule of product, which is simple bu
 
 say i have some number N of items, and another number M of items
 how many different ways can i pair the first group of items to the other group?
-![a diagram showing N items, each paired with M items, giving M number of pairs per item, where there are N items, therefore total pairs being N times M](_resources/2c706e292b730ca67a55f9576a8fddda.png)
+![a diagram showing N items, each paired with M items, giving M number of pairs per item, where there are N items, therefore total pairs being N times M](:/3774ef91111f4ae48a899f1ce507464f)
 
 well the first item in the top group could be paired with any of the M number of items, so theres M possibilities in the first item, another M possiblities in the next, and so on so forth N times.
 
@@ -202,7 +201,7 @@ how many ways is there to reorder the alphabet? in other words, how many permuta
 well we have 26 characters, so the first spot could be any one of 26
 now that we chose one, we only have 25 characters left to pick from for the second letter, 24 characters for the third, and so on so forth until the last letter and we've got just the one last
 
-![a diagram showing A to Z, and 26 spots, where the first spot has 26 letter choices, second spot has 25, all the way until last spot has only 1 choice left, giving 26 times 25 ... times 2 times 1 choices in total](_resources/cb422c4f5b66115aea1e5c324fe0885f.png)
+![a diagram showing A to Z, and 26 spots, where the first spot has 26 letter choices, second spot has 25, all the way until last spot has only 1 choice left, giving 26 times 25 ... times 2 times 1 choices in total](:/33861e9a211744b8b9d7ac8115966212)
 
 woah
 
@@ -216,7 +215,7 @@ ok but what if we get greedy here?
 my favourite letter is C because C is for cheese
 so lets add say 7 more Cs to our new alphabet to make 8 Cs! how fortuitous!
 
-![a diagram showing A to Z, except now theres 8 Cs, and showing theres 33 times 32, all the way to times 2 times 1 choices... but is this right??](_resources/1dc34b8c713d5df18f31f51d0cf9bb81.png)
+![a diagram showing A to Z, except now theres 8 Cs, and showing theres 33 times 32, all the way to times 2 times 1 choices... but is this right??](:/fc8f144b1c8b41a89453a5b1ccc901ce)
 
 so now we have 8683317618811886495518194401280000000 rather than 403291461126605635584000000 possible orders of the alphabet!! mama mia
 
@@ -225,7 +224,7 @@ but wait is that really the case?
 say we now have some alphabet ordering like GEFCACCBCCZC.......
 if we initially labelled each of our additional Cs with numbers, it happens to be the case that we've also considered the following alphabet orderings
 
-![diagram showing how there are duplicates of orders, due to a shuffling of the Cs.png](_resources/7a73afb5cd8cd002b384607aaf8f81f8.png)
+![diagram showing how there are duplicates of orders, due to a shuffling of the Cs.png](:/3a9ca7c9ee324969b90e68f01991fde1)
 
 but these labels are lwk from our own cheese filled delusions 🤤 mm cheese
 
@@ -242,16 +241,16 @@ so for every possible unique ordering, right now what we've done is we're essent
 
 man factorial gets pretty big pretty fast
 
-anyways in fact, whats happening is to get the number of unique shuffles in any group of items, you would be dividing by the factorial of each item type, to prevent duplicates of orders, when dividing by 8! in the example, i'm neglecting the fact im implicitly also dividing by 1! 32 times for each of the other letters
+anyways in fact, whats happening is to get the number of unique shuffles in any group of items, you would be dividing by the factorial of each item type, to prevent duplicates of orders, when dividing by 8! in the example, i'm neglecting the fact im implicitly also dividing by 1! 25 times for each of the other letters
 
 # combinations
 ok now that we've seen permutations, what if i wanted to get 6 different types of flowers for a pretty bouquet, and the flower shop had a good selection of 9 different flowers?
 
 well we have 6 spots to choose from 9 flowers
-so the first spot could be any flower from 9, then second is chosen from the 8 left, then third 7, etc etc until last spot left and theres only 4 flowers to choose from, so 9\*8\*7\*6\*5\*4 possible combinations of flowers
+so the first spot could be any flower from 9, then second is chosen from the 8 left, then third 7, etc etc until last spot left and theres only 4 flowers to choose from, so 9\*8\*7\*6\*5\*4 possible combinations of flowers... but is this correct?
 
 ok, so say we have some grouping, lily, daisy, tulip, .....
-![a drawing of two groups of flowers, where the first shows lily, daisy and tulip, and second shows daisy, lily, tulip](_resources/8bb9ab4978b2f8d90c0aecd3c5da24c7.png)
+![a drawing of two groups of flowers, where the first shows lily, daisy and tulip, and second shows daisy, lily, tulip](:/6c0431a2976546b1aa4347108825cec5)
 its also possible in our calculations that we have another possible group being daisy, lily, and tulip
 
 but the types of flowers chosen hasnt changed, just the ordering, which we don't care about!!
@@ -264,7 +263,7 @@ so we just do 9\*8\*7\*6\*4 divided by 6!
 in general, given n items in total, and we're trying to choose k items
 
 to derive this we can take inspiration from our flower example and see
-![derivation of n!/(k!(n-k)!) the general choose function formula](_resources/IMG-20261016-WA0011.jpg)
+![derivation of n!/(k!(n-k)!) the general choose function formula](:/252d78c1bd694bedb61fcf3cd6441e42)
 
 a more simplified calculation friendly formula is n!/(k! * (n-k)!)
 
@@ -284,7 +283,7 @@ heres one way i could do it
 say, instead of putting them directly into the bags, we put 2 dividers between the bars of gold so that theres 3 groupings of gold neatly formed so as to sweep them right into our bags in one fell swoop
 
 so now we have 10 bars of gold alongside 2 extra dividers to consider
-![drawing of 10 bars of gold, split into three groups using 2 dividers](_resources/IMG-20261016-WA0012.jpg)
+![drawing of 10 bars of gold, split into three groups using 2 dividers](:/348802ea0bdd44b1a5d538746ed7ea05)
 
 
 ou shiii but now we can just think of this like a combinations problem
@@ -313,16 +312,17 @@ and so, by the pigeonhole principle, we might not be fine afterall
 
 the pigeonhole principle essentially states
 
-given that we have n pigeons that are to be placed into m holes, where theres less pigeons than holes, so n < m, then at least one hole must contain atleast the ceiling of n/m
+given that we have n pigeons that are to be placed into m holes, then at least one hole must contain atleast the ceiling of n/m
+when n is larger than m, then this guarantees atleast 2 in some hole.
 
 some very cool stuff comes from this! such as 
 
 ## hair doppelganger
-given 100,000 hairs is on a persons head on average, and we dont consider bald people
+given at most 100,000 hairs is on a persons head, and we dont consider bald people
 
 and say there is 11 million people in london, it is by the pigeonhole principle, that there has to be people with the same amount of hair on their head
 
-in fact, there has to be atleast 11 mil / 100,000 ceiling-ed, so per hair count, 110 people would have the same amount in london
+in fact, there has to be atleast 11 mil / 100,000 ceiling-ed, so per hair count, atleast 110 people would have the same amount in london
 
 # lossless compression
 another one is
@@ -352,7 +352,7 @@ one style of questions is take this for example
 
 # two elements sum to ten
 
-prove that any subset of size six from the set S = {1,2,3,...,9} must contain two elements that sum exactly to 10. note that the 2 elements may be the same thing twice
+prove that any subset of size six from the set S = {1,2,3,...,9} must contain two elements that sum exactly to 10.
 
 this is tricky to think about... whats the pigeons? whats the holes?
 
@@ -377,3 +377,11 @@ first things first, what are the pigeons and what are the holes?
 for pigeonhole principle, always find a group of N number of things that can be labelled/ placed into a M number of categories/ spaces such that N is strictly smaller than M
 
 a hint for this question is, how can you split up the space where darts can be thrown?
+
+
+
+
+
+
+
+# prepare sumin on propositional logic, specifically demorgans
