@@ -1,0 +1,19 @@
+Adversary seed: 1367852636
+Traceback (most recent call last):
+  File "headless.py", line 27, in <module>
+    run()
+  File "headless.py", line 19, in run
+    for move in board.run(player, adversary):
+  File "C:\Users\biggie\Documents\Projects\tetris\board.py", line 533, in run
+    yield from self.run_player(player)
+  File "C:\Users\biggie\Documents\Projects\tetris\board.py", line 492, in run_player
+    for action in actions:
+  File "C:\Users\biggie\Documents\Projects\tetris\player.py", line 494, in choose_action
+    first_moves, second_moves = self.simulate_iterations(board)
+  File "C:\Users\biggie\Documents\Projects\tetris\player.py", line 363, in simulate_iterations
+    second_score, second_moves = self.simulate_iterations(newer_board, True)
+  File "C:\Users\biggie\Documents\Projects\tetris\player.py", line 342, in simulate_iterations
+    if new_board.rotate(Rotation.Anticlockwise):
+  File "C:\Users\biggie\Documents\Projects\tetris\board.py", line 581, in rotate
+    raise NoBlockException
+exceptions.NoBlockException: This board has no block to manipulate.

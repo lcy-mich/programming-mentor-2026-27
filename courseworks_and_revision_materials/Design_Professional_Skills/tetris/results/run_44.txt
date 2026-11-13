@@ -1,0 +1,3 @@
+Adversary seed: 1285233539
+Out of blocks
+Score= 12234

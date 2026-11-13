@@ -1,0 +1,3941 @@
+Adversary seed: 153193297
+0
+best score, score -1e+24, -6.738346 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -6.738346, -8.6570225 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -6.738346, -10.391215000000003 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -6.738346, -6.556262 best moves, rot -4, -1 current moves, rot -1, -1
+0
+best score, score -6.556262, -6.926030000000001 best moves, rot -1, -1 current moves, rot 0, -1
+0
+best score, score -6.556262, -6.926830000000001 best moves, rot -1, -1 current moves, rot 1, -1
+0
+best score, score -6.556262, -206.92763 best moves, rot -1, -1 current moves, rot 2, -1
+0
+best score, score -6.556262, -306.559462 best moves, rot -1, -1 current moves, rot 3, -1
+0
+best score, score -6.556262, -6.737546 best moves, rot -1, -1 current moves, rot -5, 0
+0
+best score, score -6.556262, -7.291798000000001 best moves, rot -1, -1 current moves, rot -4, 0
+0
+best score, score -6.556262, -9.0259905 best moves, rot -1, -1 current moves, rot -3, 0
+0
+best score, score -6.556262, -6.5554619999999995 best moves, rot -1, -1 current moves, rot -2, 0
+0
+best score, score -6.5554619999999995, -7.2941980000000015 best moves, rot -2, 0 current moves, rot -1, 0
+0
+best score, score -6.5554619999999995, -7.294998000000001 best moves, rot -2, 0 current moves, rot 0, 0
+0
+best score, score -6.5554619999999995, -7.295798000000001 best moves, rot -2, 0 current moves, rot 1, 0
+0
+best score, score -6.5554619999999995, -107.29659800000002 best moves, rot -2, 0 current moves, rot 2, 0
+0
+best score, score -6.5554619999999995, -407.112914 best moves, rot -2, 0 current moves, rot 3, 0
+0
+best score, score -6.5554619999999995, -8.286855000000001 best moves, rot -2, 0 current moves, rot -4, 1
+0
+best score, score -6.5554619999999995, -10.390015000000002 best moves, rot -2, 0 current moves, rot -3, 1
+0
+best score, score -6.5554619999999995, -12.124207 best moves, rot -2, 0 current moves, rot -2, 1
+0
+best score, score -6.5554619999999995, -7.920287 best moves, rot -2, 0 current moves, rot -1, 1
+0
+best score, score -6.5554619999999995, -8.659023 best moves, rot -2, 0 current moves, rot 0, 1
+0
+best score, score -6.5554619999999995, -8.659823 best moves, rot -2, 0 current moves, rot 1, 1
+0
+best score, score -6.5554619999999995, -208.66062300000004 best moves, rot -2, 0 current moves, rot 2, 1
+0
+best score, score -6.5554619999999995, -408.29245599999996 best moves, rot -2, 0 current moves, rot 3, 1
+0
+best score, score -6.5554619999999995, -8.471340499999998 best moves, rot -2, 0 current moves, rot -4, 2
+0
+best score, score -6.5554619999999995, -9.0255905 best moves, rot -2, 0 current moves, rot -3, 2
+0
+best score, score -6.5554619999999995, -6.5550619999999995 best moves, rot -2, 0 current moves, rot -2, 2
+0
+best score, score -6.5550619999999995, -8.2892585 best moves, rot -2, 2 current moves, rot -1, 2
+0
+best score, score -6.5550619999999995, -9.0279905 best moves, rot -2, 2 current moves, rot 0, 2
+0
+best score, score -6.5550619999999995, -9.0287905 best moves, rot -2, 2 current moves, rot 1, 2
+0
+best score, score -6.5550619999999995, -9.0295905 best moves, rot -2, 2 current moves, rot 2, 2
+0
+best score, score -6.5550619999999995, -309.03039049999995 best moves, rot -2, 2 current moves, rot 3, 2
+0
+best score, score -6.5550619999999995, -608.4777385000001 best moves, rot -2, 2 current moves, rot 4, 2
+0
+best score, score -1e+24, -10.698690000000001 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -1e+24, -8.4725395 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -8.4725395, -7.293397000000001 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -7.293397000000001, -9.0275895 best moves, rot -3, -1 current moves, rot -2, -1
+0
+best score, score -7.293397000000001, -10.761782 best moves, rot -3, -1 current moves, rot -1, -1
+0
+best score, score -7.293397000000001, -6.926829000000001 best moves, rot -3, -1 current moves, rot 0, -1
+0
+best score, score -6.926829000000001, -7.296597000000001 best moves, rot 0, -1 current moves, rot 1, -1
+0
+best score, score -6.926829000000001, -207.297397 best moves, rot 0, -1 current moves, rot 2, -1
+0
+best score, score -6.926829000000001, -306.92922899999996 best moves, rot 0, -1 current moves, rot 3, -1
+0
+best score, score -6.926829000000001, -8.4717395 best moves, rot 0, -1 current moves, rot -5, 0
+0
+best score, score -6.926829000000001, -7.6615649999999995 best moves, rot 0, -1 current moves, rot -4, 0
+0
+best score, score -6.926829000000001, -7.662364999999999 best moves, rot 0, -1 current moves, rot -3, 0
+0
+best score, score -6.926829000000001, -9.3965575 best moves, rot 0, -1 current moves, rot -2, 0
+0
+best score, score -6.926829000000001, -6.926029000000001 best moves, rot 0, -1 current moves, rot -1, 0
+0
+best score, score -6.926029000000001, -7.664765 best moves, rot -1, 0 current moves, rot 0, 0
+0
+best score, score -6.926029000000001, -7.665565 best moves, rot -1, 0 current moves, rot 1, 0
+0
+best score, score -6.926029000000001, -107.66636500000001 best moves, rot -1, 0 current moves, rot 2, 0
+0
+best score, score -6.926029000000001, -407.48268099999996 best moves, rot -1, 0 current moves, rot 3, 0
+0
+best score, score -6.926029000000001, -7.236474500000001 best moves, rot -1, 0 current moves, rot -4, 1
+0
+best score, score -6.926029000000001, -9.02639 best moves, rot -1, 0 current moves, rot -3, 1
+0
+best score, score -6.926029000000001, -10.760582 best moves, rot -1, 0 current moves, rot -2, 1
+0
+best score, score -6.926029000000001, -12.494774 best moves, rot -1, 0 current moves, rot -1, 1
+0
+best score, score -6.926029000000001, -8.290854000000001 best moves, rot -1, 0 current moves, rot 0, 1
+0
+best score, score -6.926029000000001, -9.029589999999999 best moves, rot -1, 0 current moves, rot 1, 1
+0
+best score, score -6.926029000000001, -209.03039000000004 best moves, rot -1, 0 current moves, rot 2, 1
+0
+best score, score -6.926029000000001, -408.6622229999999 best moves, rot -1, 0 current moves, rot 3, 1
+0
+best score, score -6.926029000000001, -10.205533500000001 best moves, rot -1, 0 current moves, rot -4, 2
+0
+best score, score -6.926029000000001, -9.3953575 best moves, rot -1, 0 current moves, rot -3, 2
+0
+best score, score -6.926029000000001, -9.3961575 best moves, rot -1, 0 current moves, rot -2, 2
+0
+best score, score -6.926029000000001, -6.925629000000001 best moves, rot -1, 0 current moves, rot -1, 2
+0
+best score, score -6.925629000000001, -8.659825499999998 best moves, rot -1, 2 current moves, rot 0, 2
+0
+best score, score -6.925629000000001, -9.398557499999999 best moves, rot -1, 2 current moves, rot 1, 2
+0
+best score, score -6.925629000000001, -9.399357499999999 best moves, rot -1, 2 current moves, rot 2, 2
+0
+best score, score -6.925629000000001, -309.4001574999999 best moves, rot -1, 2 current moves, rot 3, 2
+0
+best score, score -6.925629000000001, -608.8475055 best moves, rot -1, 2 current moves, rot 4, 2
+0
+best score, score -10.698690000000001, -11.439024 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -1e+24, -10.206732000000002 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -10.206732000000002, -9.0275895 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -9.0275895, -7.294997000000001 best moves, rot -3, -1 current moves, rot -2, -1
+0
+best score, score -7.294997000000001, -9.0291895 best moves, rot -2, -1 current moves, rot -1, -1
+0
+best score, score -7.294997000000001, -10.763382 best moves, rot -2, -1 current moves, rot 0, -1
+0
+best score, score -7.294997000000001, -6.928429 best moves, rot -2, -1 current moves, rot 1, -1
+0
+best score, score -6.928429, -207.298197 best moves, rot 1, -1 current moves, rot 2, -1
+0
+best score, score -6.928429, -306.930029 best moves, rot 1, -1 current moves, rot 3, -1
+0
+best score, score -6.928429, -6.739147 best moves, rot 1, -1 current moves, rot -5, 0
+0
+best score, score -6.739147, -9.3957575 best moves, rot -5, 0 current moves, rot -4, 0
+0
+best score, score -6.739147, -7.663165 best moves, rot -5, 0 current moves, rot -3, 0
+0
+best score, score -6.739147, -7.663965 best moves, rot -5, 0 current moves, rot -2, 0
+0
+best score, score -6.739147, -9.3981575 best moves, rot -5, 0 current moves, rot -1, 0
+0
+best score, score -6.739147, -6.9276290000000005 best moves, rot -5, 0 current moves, rot 0, 0
+0
+best score, score -6.739147, -7.666365 best moves, rot -5, 0 current moves, rot 1, 0
+0
+best score, score -6.739147, -107.66716500000001 best moves, rot -5, 0 current moves, rot 2, 0
+0
+best score, score -6.739147, -407.483481 best moves, rot -5, 0 current moves, rot 3, 0
+0
+best score, score -6.739147, -8.970669000000001 best moves, rot -5, 0 current moves, rot -4, 1
+0
+best score, score -6.739147, -7.7915255000000005 best moves, rot -5, 0 current moves, rot -3, 1
+0
+best score, score -6.739147, -9.027989999999999 best moves, rot -5, 0 current moves, rot -2, 1
+0
+best score, score -6.739147, -10.762182 best moves, rot -5, 0 current moves, rot -1, 1
+0
+best score, score -6.739147, -12.496374 best moves, rot -5, 0 current moves, rot 0, 1
+0
+best score, score -6.739147, -8.292454000000001 best moves, rot -5, 0 current moves, rot 1, 1
+0
+best score, score -6.739147, -209.03119000000004 best moves, rot -5, 0 current moves, rot 2, 1
+0
+best score, score -6.739147, -408.66302299999995 best moves, rot -5, 0 current moves, rot 3, 1
+0
+best score, score -6.739147, -8.1039735 best moves, rot -5, 0 current moves, rot -4, 2
+0
+best score, score -6.739147, -11.1295495 best moves, rot -5, 0 current moves, rot -3, 2
+0
+best score, score -6.739147, -9.3969575 best moves, rot -5, 0 current moves, rot -2, 2
+0
+best score, score -6.739147, -9.397757499999999 best moves, rot -5, 0 current moves, rot -1, 2
+0
+best score, score -6.739147, -6.9272290000000005 best moves, rot -5, 0 current moves, rot 0, 2
+0
+best score, score -6.739147, -8.661425499999998 best moves, rot -5, 0 current moves, rot 1, 2
+0
+best score, score -6.739147, -9.400157499999999 best moves, rot -5, 0 current moves, rot 2, 2
+0
+best score, score -6.739147, -309.40095749999995 best moves, rot -5, 0 current moves, rot 3, 2
+0
+best score, score -6.739147, -608.8483055 best moves, rot -5, 0 current moves, rot 4, 2
+0
+best score, score -10.698690000000001, -11.253342 best moves, rot -5, -1 current moves, rot -3, -1
+0
+best score, score -1e+24, -6.371779 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -6.371779, -10.761782 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -6.371779, -9.0291895 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -6.371779, -7.296597000000001 best moves, rot -4, -1 current moves, rot -1, -1
+0
+best score, score -6.371779, -9.0307895 best moves, rot -4, -1 current moves, rot 0, -1
+0
+best score, score -6.371779, -10.764982 best moves, rot -4, -1 current moves, rot 1, -1
+0
+best score, score -6.371779, -206.930029 best moves, rot -4, -1 current moves, rot 2, -1
+0
+best score, score -6.371779, -306.93082899999996 best moves, rot -4, -1 current moves, rot 3, -1
+0
+best score, score -6.371779, -7.108913 best moves, rot -4, -1 current moves, rot -5, 0
+0
+best score, score -6.371779, -7.294199000000001 best moves, rot -4, -1 current moves, rot -4, 0
+0
+best score, score -6.371779, -9.3973575 best moves, rot -4, -1 current moves, rot -3, 0
+0
+best score, score -6.371779, -7.664765 best moves, rot -4, -1 current moves, rot -2, 0
+0
+best score, score -6.371779, -7.665565 best moves, rot -4, -1 current moves, rot -1, 0
+0
+best score, score -6.371779, -9.3997575 best moves, rot -4, -1 current moves, rot 0, 0
+0
+best score, score -6.371779, -6.929229 best moves, rot -4, -1 current moves, rot 1, 0
+0
+best score, score -6.371779, -107.66796500000002 best moves, rot -4, -1 current moves, rot 2, 0
+0
+best score, score -6.371779, -407.48428099999995 best moves, rot -4, -1 current moves, rot 3, 0
+0
+best score, score -6.371779, -7.920287999999999 best moves, rot -4, -1 current moves, rot -4, 1
+0
+best score, score -6.371779, -9.52572 best moves, rot -4, -1 current moves, rot -3, 1
+0
+best score, score -6.371779, -7.793125500000001 best moves, rot -4, -1 current moves, rot -2, 1
+0
+best score, score -6.371779, -9.029589999999999 best moves, rot -4, -1 current moves, rot -1, 1
+0
+best score, score -6.371779, -10.763781999999999 best moves, rot -4, -1 current moves, rot 0, 1
+0
+best score, score -6.371779, -12.497974 best moves, rot -4, -1 current moves, rot 1, 1
+0
+best score, score -6.371779, -208.29405400000002 best moves, rot -4, -1 current moves, rot 2, 1
+0
+best score, score -6.371779, -408.6638229999999 best moves, rot -4, -1 current moves, rot 3, 1
+0
+best score, score -6.371779, -8.8427075 best moves, rot -4, -1 current moves, rot -4, 2
+0
+best score, score -6.371779, -8.659023499999998 best moves, rot -4, -1 current moves, rot -3, 2
+0
+best score, score -6.371779, -11.1311495 best moves, rot -4, -1 current moves, rot -2, 2
+0
+best score, score -6.371779, -9.398557499999999 best moves, rot -4, -1 current moves, rot -1, 2
+0
+best score, score -6.371779, -9.399357499999999 best moves, rot -4, -1 current moves, rot 0, 2
+0
+best score, score -6.371779, -6.928829 best moves, rot -4, -1 current moves, rot 1, 2
+0
+best score, score -6.371779, -8.6630255 best moves, rot -4, -1 current moves, rot 2, 2
+0
+best score, score -6.371779, -309.4017574999999 best moves, rot -4, -1 current moves, rot 3, 2
+0
+best score, score -6.371779, -608.8491055000001 best moves, rot -4, -1 current moves, rot 4, 2
+0
+best score, score -10.698690000000001, -10.886773999999999 best moves, rot -5, -1 current moves, rot -2, -1
+0
+best score, score -1e+24, -7.110513000000001 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -7.110513000000001, -6.557863 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -6.557863, -10.763382 best moves, rot -3, -1 current moves, rot -2, -1
+0
+best score, score -6.557863, -9.0307895 best moves, rot -3, -1 current moves, rot -1, -1
+0
+best score, score -6.557863, -7.298197000000001 best moves, rot -3, -1 current moves, rot 0, -1
+0
+best score, score -6.557863, -9.032389499999999 best moves, rot -3, -1 current moves, rot 1, -1
+0
+best score, score -6.557863, -410.7665819999999 best moves, rot -3, -1 current moves, rot 2, -1
+0
+best score, score -6.557863, -306.562661 best moves, rot -3, -1 current moves, rot 3, -1
+0
+best score, score -6.557863, -7.109713000000001 best moves, rot -3, -1 current moves, rot -5, 0
+0
+best score, score -6.557863, -7.663965 best moves, rot -3, -1 current moves, rot -4, 0
+0
+best score, score -6.557863, -7.295799000000001 best moves, rot -3, -1 current moves, rot -3, 0
+0
+best score, score -6.557863, -9.3989575 best moves, rot -3, -1 current moves, rot -2, 0
+0
+best score, score -6.557863, -7.666365 best moves, rot -3, -1 current moves, rot -1, 0
+0
+best score, score -6.557863, -7.667165 best moves, rot -3, -1 current moves, rot 0, 0
+0
+best score, score -6.557863, -9.4013575 best moves, rot -3, -1 current moves, rot 1, 0
+0
+best score, score -6.557863, -106.93082900000002 best moves, rot -3, -1 current moves, rot 2, 0
+0
+best score, score -6.557863, -407.485081 best moves, rot -3, -1 current moves, rot 3, 0
+0
+best score, score -6.557863, -8.659022 best moves, rot -3, -1 current moves, rot -4, 1
+0
+best score, score -6.557863, -8.290856000000002 best moves, rot -3, -1 current moves, rot -3, 1
+0
+best score, score -6.557863, -9.52732 best moves, rot -3, -1 current moves, rot -2, 1
+0
+best score, score -6.557863, -7.794725500000001 best moves, rot -3, -1 current moves, rot -1, 1
+0
+best score, score -6.557863, -9.031189999999999 best moves, rot -3, -1 current moves, rot 0, 1
+0
+best score, score -6.557863, -10.765382 best moves, rot -3, -1 current moves, rot 1, 1
+0
+best score, score -6.557863, -412.49957399999994 best moves, rot -3, -1 current moves, rot 2, 1
+0
+best score, score -6.557863, -407.92668699999996 best moves, rot -3, -1 current moves, rot 3, 1
+0
+best score, score -6.557863, -8.8435075 best moves, rot -3, -1 current moves, rot -4, 2
+0
+best score, score -6.557863, -9.397757499999999 best moves, rot -3, -1 current moves, rot -3, 2
+0
+best score, score -6.557863, -8.660623499999998 best moves, rot -3, -1 current moves, rot -2, 2
+0
+best score, score -6.557863, -11.1327495 best moves, rot -3, -1 current moves, rot -1, 2
+0
+best score, score -6.557863, -9.400157499999999 best moves, rot -3, -1 current moves, rot 0, 2
+0
+best score, score -6.557863, -9.4009575 best moves, rot -3, -1 current moves, rot 1, 2
+0
+best score, score -6.557863, -6.930429 best moves, rot -3, -1 current moves, rot 2, 2
+0
+best score, score -6.557863, -308.66462549999994 best moves, rot -3, -1 current moves, rot 3, 2
+0
+best score, score -6.557863, -608.8499055000001 best moves, rot -3, -1 current moves, rot 4, 2
+0
+best score, score -10.698690000000001, -11.073658 best moves, rot -5, -1 current moves, rot -1, -1
+0
+best score, score -1e+24, -7.111313000000001 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -7.111313000000001, -7.296597000000001 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -7.111313000000001, -6.559463 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -6.559463, -10.764982 best moves, rot -2, -1 current moves, rot -1, -1
+0
+best score, score -6.559463, -9.032389499999999 best moves, rot -2, -1 current moves, rot 0, -1
+0
+best score, score -6.559463, -7.299797000000001 best moves, rot -2, -1 current moves, rot 1, -1
+0
+best score, score -6.559463, -409.03398949999996 best moves, rot -2, -1 current moves, rot 2, -1
+0
+best score, score -6.559463, -710.030248 best moves, rot -2, -1 current moves, rot 3, -1
+0
+best score, score -6.559463, -7.110513000000001 best moves, rot -2, -1 current moves, rot -5, 0
+0
+best score, score -6.559463, -7.664765 best moves, rot -2, -1 current moves, rot -4, 0
+0
+best score, score -6.559463, -7.665565 best moves, rot -2, -1 current moves, rot -3, 0
+0
+best score, score -6.559463, -7.297399 best moves, rot -2, -1 current moves, rot -2, 0
+0
+best score, score -6.559463, -9.4005575 best moves, rot -2, -1 current moves, rot -1, 0
+0
+best score, score -6.559463, -7.667965 best moves, rot -2, -1 current moves, rot 0, 0
+0
+best score, score -6.559463, -7.668765 best moves, rot -2, -1 current moves, rot 1, 0
+0
+best score, score -6.559463, -309.40295749999996 best moves, rot -2, -1 current moves, rot 2, 0
+0
+best score, score -6.559463, -406.74794499999996 best moves, rot -2, -1 current moves, rot 3, 0
+0
+best score, score -6.559463, -8.659822 best moves, rot -2, -1 current moves, rot -4, 1
+0
+best score, score -6.559463, -9.029589999999999 best moves, rot -2, -1 current moves, rot -3, 1
+0
+best score, score -6.559463, -8.292456000000001 best moves, rot -2, -1 current moves, rot -2, 1
+0
+best score, score -6.559463, -9.52892 best moves, rot -2, -1 current moves, rot -1, 1
+0
+best score, score -6.559463, -7.796325500000001 best moves, rot -2, -1 current moves, rot 0, 1
+0
+best score, score -6.559463, -9.03279 best moves, rot -2, -1 current moves, rot 1, 1
+0
+best score, score -6.559463, -410.7669819999999 best moves, rot -2, -1 current moves, rot 2, 1
+0
+best score, score -6.559463, -811.763241 best moves, rot -2, -1 current moves, rot 3, 1
+0
+best score, score -6.559463, -8.8443075 best moves, rot -2, -1 current moves, rot -4, 2
+0
+best score, score -6.559463, -9.398557499999999 best moves, rot -2, -1 current moves, rot -3, 2
+0
+best score, score -6.559463, -9.399357499999999 best moves, rot -2, -1 current moves, rot -2, 2
+0
+best score, score -6.559463, -8.662223499999998 best moves, rot -2, -1 current moves, rot -1, 2
+0
+best score, score -6.559463, -11.1343495 best moves, rot -2, -1 current moves, rot 0, 2
+0
+best score, score -6.559463, -9.4017575 best moves, rot -2, -1 current moves, rot 1, 2
+0
+best score, score -6.559463, -9.4025575 best moves, rot -2, -1 current moves, rot 2, 2
+0
+best score, score -6.559463, -306.93202899999994 best moves, rot -2, -1 current moves, rot 3, 2
+0
+best score, score -6.559463, -608.1127735 best moves, rot -2, -1 current moves, rot 4, 2
+0
+best score, score -10.698690000000001, -11.076058 best moves, rot -5, -1 current moves, rot 0, -1
+0
+best score, score -1e+24, -207.112113 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -207.112113, -207.297397 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -207.112113, -207.298197 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -207.112113, -206.561063 best moves, rot -4, -1 current moves, rot -1, -1
+0
+best score, score -206.561063, -210.76658200000003 best moves, rot -1, -1 current moves, rot 0, -1
+0
+best score, score -206.561063, -209.0339895 best moves, rot -1, -1 current moves, rot 1, -1
+0
+best score, score -206.561063, -407.30139699999995 best moves, rot -1, -1 current moves, rot 2, -1
+0
+best score, score -206.561063, -708.2976555 best moves, rot -1, -1 current moves, rot 3, -1
+0
+best score, score -206.561063, -207.111313 best moves, rot -1, -1 current moves, rot -5, 0
+0
+best score, score -206.561063, -207.665565 best moves, rot -1, -1 current moves, rot -4, 0
+0
+best score, score -206.561063, -207.66636499999998 best moves, rot -1, -1 current moves, rot -3, 0
+0
+best score, score -206.561063, -207.66716499999998 best moves, rot -1, -1 current moves, rot -2, 0
+0
+best score, score -206.561063, -207.29899899999998 best moves, rot -1, -1 current moves, rot -1, 0
+0
+best score, score -206.561063, -209.4021575 best moves, rot -1, -1 current moves, rot 0, 0
+0
+best score, score -206.561063, -207.66956499999998 best moves, rot -1, -1 current moves, rot 1, 0
+0
+best score, score -206.561063, -307.67036499999995 best moves, rot -1, -1 current moves, rot 2, 0
+0
+best score, score -206.561063, -808.8511075 best moves, rot -1, -1 current moves, rot 3, 0
+0
+best score, score -206.561063, -208.66062200000005 best moves, rot -1, -1 current moves, rot -4, 1
+0
+best score, score -206.561063, -209.03039000000004 best moves, rot -1, -1 current moves, rot -3, 1
+0
+best score, score -206.561063, -209.03119000000004 best moves, rot -1, -1 current moves, rot -2, 1
+0
+best score, score -206.561063, -208.29405600000004 best moves, rot -1, -1 current moves, rot -1, 1
+0
+best score, score -206.561063, -209.53052000000002 best moves, rot -1, -1 current moves, rot 0, 1
+0
+best score, score -206.561063, -207.7979255 best moves, rot -1, -1 current moves, rot 1, 1
+0
+best score, score -206.561063, -409.0343899999999 best moves, rot -1, -1 current moves, rot 2, 1
+0
+best score, score -206.561063, -810.0306489999999 best moves, rot -1, -1 current moves, rot 3, 1
+0
+best score, score -206.561063, -208.8451075 best moves, rot -1, -1 current moves, rot -4, 2
+0
+best score, score -206.561063, -209.3993575 best moves, rot -1, -1 current moves, rot -3, 2
+0
+best score, score -206.561063, -209.4001575 best moves, rot -1, -1 current moves, rot -2, 2
+0
+best score, score -206.561063, -209.4009575 best moves, rot -1, -1 current moves, rot -1, 2
+0
+best score, score -206.561063, -208.6638235 best moves, rot -1, -1 current moves, rot 0, 2
+0
+best score, score -206.561063, -211.1359495 best moves, rot -1, -1 current moves, rot 1, 2
+0
+best score, score -206.561063, -209.4033575 best moves, rot -1, -1 current moves, rot 2, 2
+0
+best score, score -206.561063, -509.40415749999994 best moves, rot -1, -1 current moves, rot 3, 2
+0
+best score, score -206.561063, -606.3801769999999 best moves, rot -1, -1 current moves, rot 4, 2
+0
+best score, score -10.698690000000001, -411.07845799999996 best moves, rot -5, -1 current moves, rot 1, -1
+0
+best score, score -1e+24, -406.743945 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -406.743945, -406.92922899999996 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -406.743945, -406.930029 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -406.743945, -406.93082899999996 best moves, rot -4, -1 current moves, rot -1, -1
+0
+best score, score -406.743945, -406.193695 best moves, rot -4, -1 current moves, rot 0, -1
+0
+best score, score -406.193695, -410.3992139999999 best moves, rot 0, -1 current moves, rot 1, -1
+0
+best score, score -406.193695, -608.6666215 best moves, rot 0, -1 current moves, rot 2, -1
+0
+best score, score -406.193695, -706.5650609999999 best moves, rot 0, -1 current moves, rot 3, -1
+0
+best score, score -406.193695, -406.74314499999997 best moves, rot 0, -1 current moves, rot -5, 0
+0
+best score, score -406.193695, -407.297397 best moves, rot 0, -1 current moves, rot -4, 0
+0
+best score, score -406.193695, -407.29819699999996 best moves, rot 0, -1 current moves, rot -3, 0
+0
+best score, score -406.193695, -407.298997 best moves, rot 0, -1 current moves, rot -2, 0
+0
+best score, score -406.193695, -407.29979699999996 best moves, rot 0, -1 current moves, rot -1, 0
+0
+best score, score -406.193695, -406.931631 best moves, rot 0, -1 current moves, rot 0, 0
+0
+best score, score -406.193695, -409.03478949999993 best moves, rot 0, -1 current moves, rot 1, 0
+0
+best score, score -406.193695, -507.302197 best moves, rot 0, -1 current moves, rot 2, 0
+0
+best score, score -406.193695, -807.1185129999999 best moves, rot 0, -1 current moves, rot 3, 0
+0
+best score, score -406.193695, -408.29245399999996 best moves, rot 0, -1 current moves, rot -4, 1
+0
+best score, score -406.193695, -408.66222199999993 best moves, rot 0, -1 current moves, rot -3, 1
+0
+best score, score -406.193695, -408.66302199999996 best moves, rot 0, -1 current moves, rot -2, 1
+0
+best score, score -406.193695, -408.6638219999999 best moves, rot 0, -1 current moves, rot -1, 1
+0
+best score, score -406.193695, -407.92668799999996 best moves, rot 0, -1 current moves, rot 0, 1
+0
+best score, score -406.193695, -409.1631519999999 best moves, rot 0, -1 current moves, rot 1, 1
+0
+best score, score -406.193695, -507.43055749999996 best moves, rot 0, -1 current moves, rot 2, 1
+0
+best score, score -406.193695, -808.298055 best moves, rot 0, -1 current moves, rot 3, 1
+0
+best score, score -406.193695, -408.47693949999996 best moves, rot 0, -1 current moves, rot -4, 2
+0
+best score, score -406.193695, -409.0311894999999 best moves, rot 0, -1 current moves, rot -3, 2
+0
+best score, score -406.193695, -409.03198949999995 best moves, rot 0, -1 current moves, rot -2, 2
+0
+best score, score -406.193695, -409.0327894999999 best moves, rot 0, -1 current moves, rot -1, 2
+0
+best score, score -406.193695, -409.03358949999995 best moves, rot 0, -1 current moves, rot 0, 2
+0
+best score, score -406.193695, -408.2964554999999 best moves, rot 0, -1 current moves, rot 1, 2
+0
+best score, score -406.193695, -410.7685814999999 best moves, rot 0, -1 current moves, rot 2, 2
+0
+best score, score -406.193695, -709.0359895 best moves, rot 0, -1 current moves, rot 3, 2
+0
+best score, score -406.193695, -1008.4833375000001 best moves, rot 0, -1 current moves, rot 4, 2
+0
+best score, score -10.698690000000001, -810.342922 best moves, rot -5, -1 current moves, rot 2, -1
+0
+best score, score -1e+24, -9.522518999999999 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -9.522518999999999, -10.943465 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -9.522518999999999, -5.37512 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -5.37512, -5.7448879999999996 best moves, rot -2, -1 current moves, rot -1, -1
+0
+best score, score -5.37512, -5.745688 best moves, rot -2, -1 current moves, rot 0, -1
+0
+best score, score -5.37512, -5.746488 best moves, rot -2, -1 current moves, rot 1, -1
+0
+best score, score -5.37512, -205.747288 best moves, rot -2, -1 current moves, rot 2, -1
+0
+best score, score -5.37512, -305.37912 best moves, rot -2, -1 current moves, rot 3, -1
+0
+best score, score -5.37512, -6.921630500000001 best moves, rot -2, -1 current moves, rot -5, 0
+0
+best score, score -5.37512, -8.7115445 best moves, rot -2, -1 current moves, rot -4, 0
+0
+best score, score -5.37512, -5.005351999999999 best moves, rot -2, -1 current moves, rot -3, 0
+0
+best score, score -5.005351999999999, -6.113055999999999 best moves, rot -3, 0 current moves, rot -2, 0
+0
+best score, score -5.005351999999999, -6.113855999999999 best moves, rot -3, 0 current moves, rot -1, 0
+0
+best score, score -5.005351999999999, -6.114656 best moves, rot -3, 0 current moves, rot 0, 0
+0
+best score, score -5.005351999999999, -6.115456 best moves, rot -3, 0 current moves, rot 1, 0
+0
+best score, score -5.005351999999999, -106.116256 best moves, rot -3, 0 current moves, rot 2, 0
+0
+best score, score -5.005351999999999, -405.932572 best moves, rot -3, 0 current moves, rot 3, 0
+0
+best score, score -5.005351999999999, -8.286454 best moves, rot -3, 0 current moves, rot -4, 1
+0
+best score, score -5.005351999999999, -12.676457000000001 best moves, rot -3, 0 current moves, rot -3, 1
+0
+best score, score -5.005351999999999, -6.739145 best moves, rot -3, 0 current moves, rot -2, 1
+0
+best score, score -5.005351999999999, -7.477881 best moves, rot -3, 0 current moves, rot -1, 1
+0
+best score, score -5.005351999999999, -7.478681000000001 best moves, rot -3, 0 current moves, rot 0, 1
+0
+best score, score -5.005351999999999, -7.479481000000001 best moves, rot -3, 0 current moves, rot 1, 1
+0
+best score, score -5.005351999999999, -207.480281 best moves, rot -3, 0 current moves, rot 2, 1
+0
+best score, score -5.005351999999999, -407.11211399999996 best moves, rot -3, 0 current moves, rot 3, 1
+0
+best score, score -5.005351999999999, -8.655424499999999 best moves, rot -3, 0 current moves, rot -4, 2
+0
+best score, score -5.005351999999999, -6.240616500000001 best moves, rot -3, 0 current moves, rot -3, 2
+0
+best score, score -5.005351999999999, -6.739148500000001 best moves, rot -3, 0 current moves, rot -2, 2
+0
+best score, score -5.005351999999999, -7.8468485 best moves, rot -3, 0 current moves, rot -1, 2
+0
+best score, score -5.005351999999999, -7.847648500000001 best moves, rot -3, 0 current moves, rot 0, 2
+0
+best score, score -5.005351999999999, -7.848448500000001 best moves, rot -3, 0 current moves, rot 1, 2
+0
+best score, score -5.005351999999999, -7.849248500000001 best moves, rot -3, 0 current moves, rot 2, 2
+0
+best score, score -5.005351999999999, -307.85004849999996 best moves, rot -3, 0 current moves, rot 3, 2
+0
+best score, score -5.005351999999999, -607.2973965 best moves, rot -3, 0 current moves, rot 4, 2
+0
+best score, score -10.698690000000001, -7.9686379999999986 best moves, rot -5, -1 current moves, rot -5, 0
+0
+best score, score -1e+24, -9.52332 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -9.52332, -10.262052999999998 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -9.52332, -11.129548999999999 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -9.52332, -5.561204000000001 best moves, rot -4, -1 current moves, rot -1, -1
+0
+best score, score -5.561204000000001, -5.930972 best moves, rot -1, -1 current moves, rot 0, -1
+0
+best score, score -5.561204000000001, -5.931772 best moves, rot -1, -1 current moves, rot 1, -1
+0
+best score, score -5.561204000000001, -205.932572 best moves, rot -1, -1 current moves, rot 2, -1
+0
+best score, score -5.561204000000001, -305.56440399999997 best moves, rot -1, -1 current moves, rot 3, -1
+0
+best score, score -5.561204000000001, -6.0557335000000005 best moves, rot -1, -1 current moves, rot -5, 0
+0
+best score, score -5.561204000000001, -8.0301325 best moves, rot -1, -1 current moves, rot -4, 0
+0
+best score, score -5.561204000000001, -8.8976285 best moves, rot -1, -1 current moves, rot -3, 0
+0
+best score, score -5.561204000000001, -5.1914359999999995 best moves, rot -1, -1 current moves, rot -2, 0
+0
+best score, score -5.1914359999999995, -6.29914 best moves, rot -2, 0 current moves, rot -1, 0
+0
+best score, score -5.1914359999999995, -6.29994 best moves, rot -2, 0 current moves, rot 0, 0
+0
+best score, score -5.1914359999999995, -6.30074 best moves, rot -2, 0 current moves, rot 1, 0
+0
+best score, score -5.1914359999999995, -106.30154 best moves, rot -2, 0 current moves, rot 2, 0
+0
+best score, score -5.1914359999999995, -406.11785599999996 best moves, rot -2, 0 current moves, rot 3, 0
+0
+best score, score -5.1914359999999995, -8.287257 best moves, rot -2, 0 current moves, rot -4, 1
+0
+best score, score -5.1914359999999995, -9.025989 best moves, rot -2, 0 current moves, rot -3, 1
+0
+best score, score -5.1914359999999995, -12.862541 best moves, rot -2, 0 current moves, rot -2, 1
+0
+best score, score -5.1914359999999995, -6.925229000000001 best moves, rot -2, 0 current moves, rot -1, 1
+0
+best score, score -5.1914359999999995, -7.663965 best moves, rot -2, 0 current moves, rot 0, 1
+0
+best score, score -5.1914359999999995, -7.664765 best moves, rot -2, 0 current moves, rot 1, 1
+0
+best score, score -5.1914359999999995, -207.665565 best moves, rot -2, 0 current moves, rot 2, 1
+0
+best score, score -5.1914359999999995, -407.297398 best moves, rot -2, 0 current moves, rot 3, 1
+0
+best score, score -5.1914359999999995, -7.4205595 best moves, rot -2, 0 current moves, rot -4, 2
+0
+best score, score -5.1914359999999995, -9.7639245 best moves, rot -2, 0 current moves, rot -3, 2
+0
+best score, score -5.1914359999999995, -6.4267005 best moves, rot -2, 0 current moves, rot -2, 2
+0
+best score, score -5.1914359999999995, -6.925232500000001 best moves, rot -2, 0 current moves, rot -1, 2
+0
+best score, score -5.1914359999999995, -8.032932500000001 best moves, rot -2, 0 current moves, rot 0, 2
+0
+best score, score -5.1914359999999995, -8.033732500000001 best moves, rot -2, 0 current moves, rot 1, 2
+0
+best score, score -5.1914359999999995, -8.034532500000001 best moves, rot -2, 0 current moves, rot 2, 2
+0
+best score, score -5.1914359999999995, -308.03533250000004 best moves, rot -2, 0 current moves, rot 3, 2
+0
+best score, score -5.1914359999999995, -607.4826805 best moves, rot -2, 0 current moves, rot 4, 2
+0
+best score, score -7.9686379999999986, -8.340005999999999 best moves, rot -5, 0 current moves, rot -4, 0
+0
+best score, score -1e+24, -6.5550619999999995 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -6.5550619999999995, -10.262852999999998 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -6.5550619999999995, -10.263652999999998 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -6.5550619999999995, -11.131148999999999 best moves, rot -4, -1 current moves, rot -1, -1
+0
+best score, score -6.5550619999999995, -5.562804000000001 best moves, rot -4, -1 current moves, rot 0, -1
+0
+best score, score -5.562804000000001, -5.9325719999999995 best moves, rot 0, -1 current moves, rot 1, -1
+0
+best score, score -5.562804000000001, -205.933372 best moves, rot 0, -1 current moves, rot 2, -1
+0
+best score, score -5.562804000000001, -305.565204 best moves, rot 0, -1 current moves, rot 3, -1
+0
+best score, score -5.562804000000001, -5.37432 best moves, rot 0, -1 current moves, rot -5, 0
+0
+best score, score -5.37432, -6.7952685 best moves, rot -5, 0 current moves, rot -4, 0
+0
+best score, score -5.37432, -8.0317325 best moves, rot -5, 0 current moves, rot -3, 0
+0
+best score, score -5.37432, -8.8992285 best moves, rot -5, 0 current moves, rot -2, 0
+0
+best score, score -5.37432, -5.193036 best moves, rot -5, 0 current moves, rot -1, 0
+0
+best score, score -5.193036, -6.30074 best moves, rot -1, 0 current moves, rot 0, 0
+0
+best score, score -5.193036, -6.30154 best moves, rot -1, 0 current moves, rot 1, 0
+0
+best score, score -5.193036, -106.30234 best moves, rot -1, 0 current moves, rot 2, 0
+0
+best score, score -5.193036, -406.118656 best moves, rot -1, 0 current moves, rot 3, 0
+0
+best score, score -5.193036, -5.6879665 best moves, rot -1, 0 current moves, rot -4, 1
+0
+best score, score -5.193036, -9.026791 best moves, rot -1, 0 current moves, rot -3, 1
+0
+best score, score -5.193036, -9.027588999999999 best moves, rot -1, 0 current moves, rot -2, 1
+0
+best score, score -5.193036, -12.864141 best moves, rot -1, 0 current moves, rot -1, 1
+0
+best score, score -5.193036, -6.926829000000001 best moves, rot -1, 0 current moves, rot 0, 1
+0
+best score, score -5.193036, -7.665565 best moves, rot -1, 0 current moves, rot 1, 1
+0
+best score, score -5.193036, -207.66636499999998 best moves, rot -1, 0 current moves, rot 2, 1
+0
+best score, score -5.193036, -407.29819799999996 best moves, rot -1, 0 current moves, rot 3, 1
+0
+best score, score -5.193036, -7.108114500000001 best moves, rot -1, 0 current moves, rot -4, 2
+0
+best score, score -5.193036, -8.1600925 best moves, rot -1, 0 current moves, rot -3, 2
+0
+best score, score -5.193036, -9.7655245 best moves, rot -1, 0 current moves, rot -2, 2
+0
+best score, score -5.193036, -6.428300500000001 best moves, rot -1, 0 current moves, rot -1, 2
+0
+best score, score -5.193036, -6.926832500000001 best moves, rot -1, 0 current moves, rot 0, 2
+0
+best score, score -5.193036, -8.034532500000001 best moves, rot -1, 0 current moves, rot 1, 2
+0
+best score, score -5.193036, -8.0353325 best moves, rot -1, 0 current moves, rot 2, 2
+0
+best score, score -5.193036, -308.0361325 best moves, rot -1, 0 current moves, rot 3, 2
+0
+best score, score -5.193036, -607.4834804999999 best moves, rot -1, 0 current moves, rot 4, 2
+0
+best score, score -7.9686379999999986, -8.342406 best moves, rot -5, 0 current moves, rot -3, 0
+0
+best score, score -1e+24, -5.37592 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -5.37592, -6.925629000000001 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -5.37592, -10.264452999999998 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -5.37592, -10.265252999999998 best moves, rot -4, -1 current moves, rot -1, -1
+0
+best score, score -5.37592, -11.132748999999999 best moves, rot -4, -1 current moves, rot 0, -1
+0
+best score, score -5.37592, -5.564404000000001 best moves, rot -4, -1 current moves, rot 1, -1
+0
+best score, score -5.37592, -205.934172 best moves, rot -4, -1 current moves, rot 2, -1
+0
+best score, score -5.37592, -305.56600399999996 best moves, rot -4, -1 current moves, rot 3, -1
+0
+best score, score -5.37592, -5.744088 best moves, rot -4, -1 current moves, rot -5, 0
+0
+best score, score -5.37592, -5.929371999999999 best moves, rot -4, -1 current moves, rot -4, 0
+0
+best score, score -5.37592, -6.7968685 best moves, rot -4, -1 current moves, rot -3, 0
+0
+best score, score -5.37592, -8.0333325 best moves, rot -4, -1 current moves, rot -2, 0
+0
+best score, score -5.37592, -8.9008285 best moves, rot -4, -1 current moves, rot -1, 0
+0
+best score, score -5.37592, -5.194636 best moves, rot -4, -1 current moves, rot 0, 0
+0
+best score, score -5.194636, -6.30234 best moves, rot 0, 0 current moves, rot 1, 0
+0
+best score, score -5.194636, -106.30314 best moves, rot 0, 0 current moves, rot 2, 0
+0
+best score, score -5.194636, -406.11945599999996 best moves, rot 0, 0 current moves, rot 3, 0
+0
+best score, score -5.194636, -6.924431 best moves, rot 0, 0 current moves, rot -4, 1
+0
+best score, score -5.194636, -6.058534500000001 best moves, rot 0, 0 current moves, rot -3, 1
+0
+best score, score -5.194636, -9.028391 best moves, rot 0, 0 current moves, rot -2, 1
+0
+best score, score -5.194636, -9.029188999999999 best moves, rot 0, 0 current moves, rot -1, 1
+0
+best score, score -5.194636, -12.865741 best moves, rot 0, 0 current moves, rot 0, 1
+0
+best score, score -5.194636, -6.928429 best moves, rot 0, 0 current moves, rot 1, 1
+0
+best score, score -5.194636, -207.66716499999998 best moves, rot 0, 0 current moves, rot 2, 1
+0
+best score, score -5.194636, -407.298998 best moves, rot 0, 0 current moves, rot 3, 1
+0
+best score, score -5.194636, -7.4778825 best moves, rot 0, 0 current moves, rot -4, 2
+0
+best score, score -5.194636, -7.663164500000001 best moves, rot 0, 0 current moves, rot -3, 2
+0
+best score, score -5.194636, -8.1616925 best moves, rot 0, 0 current moves, rot -2, 2
+0
+best score, score -5.194636, -9.7671245 best moves, rot 0, 0 current moves, rot -1, 2
+0
+best score, score -5.194636, -6.4299005000000005 best moves, rot 0, 0 current moves, rot 0, 2
+0
+best score, score -5.194636, -6.9284325 best moves, rot 0, 0 current moves, rot 1, 2
+0
+best score, score -5.194636, -8.0361325 best moves, rot 0, 0 current moves, rot 2, 2
+0
+best score, score -5.194636, -308.03693250000003 best moves, rot 0, 0 current moves, rot 3, 2
+0
+best score, score -5.194636, -607.4842805 best moves, rot 0, 0 current moves, rot 4, 2
+0
+best score, score -7.9686379999999986, -8.344806 best moves, rot -5, 0 current moves, rot -2, 0
+0
+best score, score -1e+24, -5.745688 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -5.745688, -5.562004000000001 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -5.562004000000001, -6.9272290000000005 best moves, rot -3, -1 current moves, rot -2, -1
+0
+best score, score -5.562004000000001, -10.266052999999998 best moves, rot -3, -1 current moves, rot -1, -1
+0
+best score, score -5.562004000000001, -10.266852999999998 best moves, rot -3, -1 current moves, rot 0, -1
+0
+best score, score -5.562004000000001, -11.134349 best moves, rot -3, -1 current moves, rot 1, -1
+0
+best score, score -5.562004000000001, -205.566004 best moves, rot -3, -1 current moves, rot 2, -1
+0
+best score, score -5.562004000000001, -305.566804 best moves, rot -3, -1 current moves, rot 3, -1
+0
+best score, score -5.562004000000001, -5.7448879999999996 best moves, rot -3, -1 current moves, rot -5, 0
+0
+best score, score -5.562004000000001, -6.29914 best moves, rot -3, -1 current moves, rot -4, 0
+0
+best score, score -5.562004000000001, -5.930972 best moves, rot -3, -1 current moves, rot -3, 0
+0
+best score, score -5.562004000000001, -6.7984685 best moves, rot -3, -1 current moves, rot -2, 0
+0
+best score, score -5.562004000000001, -8.0349325 best moves, rot -3, -1 current moves, rot -1, 0
+0
+best score, score -5.562004000000001, -8.9024285 best moves, rot -3, -1 current moves, rot 0, 0
+0
+best score, score -5.562004000000001, -5.196236 best moves, rot -3, -1 current moves, rot 1, 0
+0
+best score, score -5.196236, -106.30394000000001 best moves, rot 1, 0 current moves, rot 2, 0
+0
+best score, score -5.196236, -406.120256 best moves, rot 1, 0 current moves, rot 3, 0
+0
+best score, score -5.196236, -7.294197000000001 best moves, rot 1, 0 current moves, rot -4, 1
+0
+best score, score -5.196236, -7.294999000000001 best moves, rot 1, 0 current moves, rot -3, 1
+0
+best score, score -5.196236, -6.060134500000001 best moves, rot 1, 0 current moves, rot -2, 1
+0
+best score, score -5.196236, -9.029990999999999 best moves, rot 1, 0 current moves, rot -1, 1
+0
+best score, score -5.196236, -9.030788999999999 best moves, rot 1, 0 current moves, rot 0, 1
+0
+best score, score -5.196236, -12.867341 best moves, rot 1, 0 current moves, rot 1, 1
+0
+best score, score -5.196236, -206.930029 best moves, rot 1, 0 current moves, rot 2, 1
+0
+best score, score -5.196236, -407.29979799999995 best moves, rot 1, 0 current moves, rot 3, 1
+0
+best score, score -5.196236, -7.478682500000001 best moves, rot 1, 0 current moves, rot -4, 2
+0
+best score, score -5.196236, -8.032932500000001 best moves, rot 1, 0 current moves, rot -3, 2
+0
+best score, score -5.196236, -7.6647645 best moves, rot 1, 0 current moves, rot -2, 2
+0
+best score, score -5.196236, -8.163292499999999 best moves, rot 1, 0 current moves, rot -1, 2
+0
+best score, score -5.196236, -9.7687245 best moves, rot 1, 0 current moves, rot 0, 2
+0
+best score, score -5.196236, -6.4315005 best moves, rot 1, 0 current moves, rot 1, 2
+0
+best score, score -5.196236, -6.9300325 best moves, rot 1, 0 current moves, rot 2, 2
+0
+best score, score -5.196236, -308.0377325 best moves, rot 1, 0 current moves, rot 3, 2
+0
+best score, score -5.196236, -607.4850805 best moves, rot 1, 0 current moves, rot 4, 2
+0
+best score, score -7.9686379999999986, -8.347206 best moves, rot -5, 0 current moves, rot -1, 0
+0
+best score, score -1e+24, -5.746488 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -5.746488, -5.931772 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -5.746488, -5.563604000000001 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -5.563604000000001, -6.928829 best moves, rot -2, -1 current moves, rot -1, -1
+0
+best score, score -5.563604000000001, -10.267653 best moves, rot -2, -1 current moves, rot 0, -1
+0
+best score, score -5.563604000000001, -10.268453 best moves, rot -2, -1 current moves, rot 1, -1
+0
+best score, score -5.563604000000001, -511.1359489999999 best moves, rot -2, -1 current moves, rot 2, -1
+0
+best score, score -5.563604000000001, -305.19863599999996 best moves, rot -2, -1 current moves, rot 3, -1
+0
+best score, score -5.563604000000001, -5.745688 best moves, rot -2, -1 current moves, rot -5, 0
+0
+best score, score -5.563604000000001, -6.29994 best moves, rot -2, -1 current moves, rot -4, 0
+0
+best score, score -5.563604000000001, -6.30074 best moves, rot -2, -1 current moves, rot -3, 0
+0
+best score, score -5.563604000000001, -5.9325719999999995 best moves, rot -2, -1 current moves, rot -2, 0
+0
+best score, score -5.563604000000001, -6.8000685 best moves, rot -2, -1 current moves, rot -1, 0
+0
+best score, score -5.563604000000001, -8.036532500000002 best moves, rot -2, -1 current moves, rot 0, 0
+0
+best score, score -5.563604000000001, -8.9040285 best moves, rot -2, -1 current moves, rot 1, 0
+0
+best score, score -5.563604000000001, -105.19783600000001 best moves, rot -2, -1 current moves, rot 2, 0
+0
+best score, score -5.563604000000001, -406.12105599999995 best moves, rot -2, -1 current moves, rot 3, 0
+0
+best score, score -5.563604000000001, -7.294997000000001 best moves, rot -2, -1 current moves, rot -4, 1
+0
+best score, score -5.563604000000001, -7.664765 best moves, rot -2, -1 current moves, rot -3, 1
+0
+best score, score -5.563604000000001, -7.2965990000000005 best moves, rot -2, -1 current moves, rot -2, 1
+0
+best score, score -5.563604000000001, -6.061734500000001 best moves, rot -2, -1 current moves, rot -1, 1
+0
+best score, score -5.563604000000001, -9.031590999999999 best moves, rot -2, -1 current moves, rot 0, 1
+0
+best score, score -5.563604000000001, -9.032388999999998 best moves, rot -2, -1 current moves, rot 1, 1
+0
+best score, score -5.563604000000001, -512.868941 best moves, rot -2, -1 current moves, rot 2, 1
+0
+best score, score -5.563604000000001, -406.562662 best moves, rot -2, -1 current moves, rot 3, 1
+0
+best score, score -5.563604000000001, -7.4794825000000005 best moves, rot -2, -1 current moves, rot -4, 2
+0
+best score, score -5.563604000000001, -8.033732500000001 best moves, rot -2, -1 current moves, rot -3, 2
+0
+best score, score -5.563604000000001, -8.034532500000001 best moves, rot -2, -1 current moves, rot -2, 2
+0
+best score, score -5.563604000000001, -7.6663645 best moves, rot -2, -1 current moves, rot -1, 2
+0
+best score, score -5.563604000000001, -8.164892499999999 best moves, rot -2, -1 current moves, rot 0, 2
+0
+best score, score -5.563604000000001, -9.7703245 best moves, rot -2, -1 current moves, rot 1, 2
+0
+best score, score -5.563604000000001, -6.4331005 best moves, rot -2, -1 current moves, rot 2, 2
+0
+best score, score -5.563604000000001, -306.9316325 best moves, rot -2, -1 current moves, rot 3, 2
+0
+best score, score -5.563604000000001, -607.4858805 best moves, rot -2, -1 current moves, rot 4, 2
+0
+best score, score -7.9686379999999986, -8.715374 best moves, rot -5, 0 current moves, rot 0, 0
+0
+best score, score -1e+24, -5.747288 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -5.747288, -5.9325719999999995 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -5.747288, -5.933371999999999 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -5.747288, -5.5652040000000005 best moves, rot -4, -1 current moves, rot -1, -1
+0
+best score, score -5.5652040000000005, -6.930429 best moves, rot -1, -1 current moves, rot 0, -1
+0
+best score, score -5.5652040000000005, -10.269252999999999 best moves, rot -1, -1 current moves, rot 1, -1
+0
+best score, score -5.5652040000000005, -510.2700529999999 best moves, rot -1, -1 current moves, rot 2, -1
+0
+best score, score -5.5652040000000005, -910.2151319999999 best moves, rot -1, -1 current moves, rot 3, -1
+0
+best score, score -5.5652040000000005, -5.746488 best moves, rot -1, -1 current moves, rot -5, 0
+0
+best score, score -5.5652040000000005, -6.30074 best moves, rot -1, -1 current moves, rot -4, 0
+0
+best score, score -5.5652040000000005, -6.30154 best moves, rot -1, -1 current moves, rot -3, 0
+0
+best score, score -5.5652040000000005, -6.30234 best moves, rot -1, -1 current moves, rot -2, 0
+0
+best score, score -5.5652040000000005, -5.934171999999999 best moves, rot -1, -1 current moves, rot -1, 0
+0
+best score, score -5.5652040000000005, -6.8016685 best moves, rot -1, -1 current moves, rot 0, 0
+0
+best score, score -5.5652040000000005, -8.038132500000001 best moves, rot -1, -1 current moves, rot 1, 0
+0
+best score, score -5.5652040000000005, -408.9056285 best moves, rot -1, -1 current moves, rot 2, 0
+0
+best score, score -5.5652040000000005, -405.014952 best moves, rot -1, -1 current moves, rot 3, 0
+0
+best score, score -5.5652040000000005, -7.295797000000001 best moves, rot -1, -1 current moves, rot -4, 1
+0
+best score, score -5.5652040000000005, -7.665565 best moves, rot -1, -1 current moves, rot -3, 1
+0
+best score, score -5.5652040000000005, -7.666365 best moves, rot -1, -1 current moves, rot -2, 1
+0
+best score, score -5.5652040000000005, -7.298199 best moves, rot -1, -1 current moves, rot -1, 1
+0
+best score, score -5.5652040000000005, -6.063334500000001 best moves, rot -1, -1 current moves, rot 0, 1
+0
+best score, score -5.5652040000000005, -9.033190999999999 best moves, rot -1, -1 current moves, rot 1, 1
+0
+best score, score -5.5652040000000005, -409.03398899999996 best moves, rot -1, -1 current moves, rot 2, 1
+0
+best score, score -5.5652040000000005, -1011.948125 best moves, rot -1, -1 current moves, rot 3, 1
+0
+best score, score -5.5652040000000005, -7.4802825 best moves, rot -1, -1 current moves, rot -4, 2
+0
+best score, score -5.5652040000000005, -8.034532500000001 best moves, rot -1, -1 current moves, rot -3, 2
+0
+best score, score -5.5652040000000005, -8.0353325 best moves, rot -1, -1 current moves, rot -2, 2
+0
+best score, score -5.5652040000000005, -8.0361325 best moves, rot -1, -1 current moves, rot -1, 2
+0
+best score, score -5.5652040000000005, -7.6679645 best moves, rot -1, -1 current moves, rot 0, 2
+0
+best score, score -5.5652040000000005, -8.166492499999999 best moves, rot -1, -1 current moves, rot 1, 2
+0
+best score, score -5.5652040000000005, -9.771924499999999 best moves, rot -1, -1 current moves, rot 2, 2
+0
+best score, score -5.5652040000000005, -406.43470049999996 best moves, rot -1, -1 current moves, rot 3, 2
+0
+best score, score -5.5652040000000005, -606.3797804999999 best moves, rot -1, -1 current moves, rot 4, 2
+0
+best score, score -7.9686379999999986, -8.717774 best moves, rot -5, 0 current moves, rot 1, 0
+0
+best score, score -1e+24, -305.748088 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -305.748088, -305.93337199999996 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -305.748088, -305.934172 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -305.748088, -305.93497199999996 best moves, rot -4, -1 current moves, rot -1, -1
+0
+best score, score -305.748088, -305.566804 best moves, rot -4, -1 current moves, rot 0, -1
+0
+best score, score -305.566804, -306.93202899999994 best moves, rot 0, -1 current moves, rot 1, -1
+0
+best score, score -305.566804, -510.27085299999993 best moves, rot 0, -1 current moves, rot 2, -1
+0
+best score, score -305.566804, -909.3492359999999 best moves, rot 0, -1 current moves, rot 3, -1
+0
+best score, score -305.566804, -305.74728799999997 best moves, rot 0, -1 current moves, rot -5, 0
+0
+best score, score -305.566804, -306.30154000000005 best moves, rot 0, -1 current moves, rot -4, 0
+0
+best score, score -305.566804, -306.30234 best moves, rot 0, -1 current moves, rot -3, 0
+0
+best score, score -305.566804, -306.30314000000004 best moves, rot 0, -1 current moves, rot -2, 0
+0
+best score, score -305.566804, -306.30394 best moves, rot 0, -1 current moves, rot -1, 0
+0
+best score, score -305.566804, -305.935772 best moves, rot 0, -1 current moves, rot 0, 0
+0
+best score, score -305.566804, -306.80326849999994 best moves, rot 0, -1 current moves, rot 1, 0
+0
+best score, score -305.566804, -408.0397325 best moves, rot 0, -1 current moves, rot 2, 0
+0
+best score, score -305.566804, -1008.1692955 best moves, rot 0, -1 current moves, rot 3, 0
+0
+best score, score -305.566804, -307.29659699999996 best moves, rot 0, -1 current moves, rot -4, 1
+0
+best score, score -305.566804, -307.666365 best moves, rot 0, -1 current moves, rot -3, 1
+0
+best score, score -305.566804, -307.66716499999995 best moves, rot 0, -1 current moves, rot -2, 1
+0
+best score, score -305.566804, -307.667965 best moves, rot 0, -1 current moves, rot -1, 1
+0
+best score, score -305.566804, -307.29979899999995 best moves, rot 0, -1 current moves, rot 0, 1
+0
+best score, score -305.566804, -306.0649345 best moves, rot 0, -1 current moves, rot 1, 1
+0
+best score, score -305.566804, -409.0347909999999 best moves, rot 0, -1 current moves, rot 2, 1
+0
+best score, score -305.566804, -808.297656 best moves, rot 0, -1 current moves, rot 3, 1
+0
+best score, score -305.566804, -307.48108249999996 best moves, rot 0, -1 current moves, rot -4, 2
+0
+best score, score -305.566804, -308.03533250000004 best moves, rot 0, -1 current moves, rot -3, 2
+0
+best score, score -305.566804, -308.0361325 best moves, rot 0, -1 current moves, rot -2, 2
+0
+best score, score -305.566804, -308.03693250000003 best moves, rot 0, -1 current moves, rot -1, 2
+0
+best score, score -305.566804, -308.0377325 best moves, rot 0, -1 current moves, rot 0, 2
+0
+best score, score -305.566804, -307.6695645 best moves, rot 0, -1 current moves, rot 1, 2
+0
+best score, score -305.566804, -308.16809249999994 best moves, rot 0, -1 current moves, rot 2, 2
+0
+best score, score -305.566804, -609.7735245 best moves, rot 0, -1 current moves, rot 3, 2
+0
+best score, score -305.566804, -805.6983655 best moves, rot 0, -1 current moves, rot 4, 2
+0
+best score, score -7.9686379999999986, -608.7201739999999 best moves, rot -5, 0 current moves, rot 2, 0
+0
+best score, score -1e+24, -405.195436 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -405.195436, -405.38072 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -405.195436, -405.38151999999997 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -405.195436, -405.38232 best moves, rot -4, -1 current moves, rot -1, -1
+0
+best score, score -405.195436, -405.38311999999996 best moves, rot -4, -1 current moves, rot 0, -1
+0
+best score, score -405.195436, -405.014952 best moves, rot -4, -1 current moves, rot 1, -1
+0
+best score, score -405.014952, -606.3801769999999 best moves, rot 1, -1 current moves, rot 2, -1
+0
+best score, score -405.014952, -909.3500329999999 best moves, rot 1, -1 current moves, rot 3, -1
+0
+best score, score -405.014952, -405.194636 best moves, rot 1, -1 current moves, rot -5, 0
+0
+best score, score -405.014952, -405.74888799999997 best moves, rot 1, -1 current moves, rot -4, 0
+0
+best score, score -405.014952, -405.749688 best moves, rot 1, -1 current moves, rot -3, 0
+0
+best score, score -405.014952, -405.75048799999996 best moves, rot 1, -1 current moves, rot -2, 0
+0
+best score, score -405.014952, -405.751288 best moves, rot 1, -1 current moves, rot -1, 0
+0
+best score, score -405.014952, -405.75208799999996 best moves, rot 1, -1 current moves, rot 0, 0
+0
+best score, score -405.014952, -405.38392 best moves, rot 1, -1 current moves, rot 1, 0
+0
+best score, score -405.014952, -506.2514165 best moves, rot 1, -1 current moves, rot 2, 0
+0
+best score, score -405.014952, -1007.3033965 best moves, rot 1, -1 current moves, rot 3, 0
+0
+best score, score -405.014952, -406.743945 best moves, rot 1, -1 current moves, rot -4, 1
+0
+best score, score -405.014952, -407.11371299999996 best moves, rot 1, -1 current moves, rot -3, 1
+0
+best score, score -405.014952, -407.114513 best moves, rot 1, -1 current moves, rot -2, 1
+0
+best score, score -405.014952, -407.11531299999996 best moves, rot 1, -1 current moves, rot -1, 1
+0
+best score, score -405.014952, -407.116113 best moves, rot 1, -1 current moves, rot 0, 1
+0
+best score, score -405.014952, -406.74794699999995 best moves, rot 1, -1 current moves, rot 1, 1
+0
+best score, score -405.014952, -505.5130825 best moves, rot 1, -1 current moves, rot 2, 1
+0
+best score, score -405.014952, -808.298455 best moves, rot 1, -1 current moves, rot 3, 1
+0
+best score, score -405.014952, -406.9284305 best moves, rot 1, -1 current moves, rot -4, 2
+0
+best score, score -405.014952, -407.48268049999996 best moves, rot 1, -1 current moves, rot -3, 2
+0
+best score, score -405.014952, -407.4834805 best moves, rot 1, -1 current moves, rot -2, 2
+0
+best score, score -405.014952, -407.48428049999995 best moves, rot 1, -1 current moves, rot -1, 2
+0
+best score, score -405.014952, -407.4850805 best moves, rot 1, -1 current moves, rot 0, 2
+0
+best score, score -405.014952, -407.48588049999995 best moves, rot 1, -1 current moves, rot 1, 2
+0
+best score, score -405.014952, -407.1177125 best moves, rot 1, -1 current moves, rot 2, 2
+0
+best score, score -405.014952, -707.6162405 best moves, rot 1, -1 current moves, rot 3, 2
+0
+best score, score -405.014952, -1208.6682204999997 best moves, rot 1, -1 current moves, rot 4, 2
+0
+best score, score -7.9686379999999986, -807.6156699999999 best moves, rot -5, 0 current moves, rot 3, 0
+0
+best score, score -1e+24, -6.737945 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -6.737945, -5.6875645 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -5.6875645, -6.924029 best moves, rot -3, -1 current moves, rot -2, -1
+0
+best score, score -5.6875645, -4.822467999999999 best moves, rot -3, -1 current moves, rot -1, -1
+0
+best score, score -4.822467999999999, -5.192236 best moves, rot -1, -1 current moves, rot 0, -1
+0
+best score, score -4.822467999999999, -5.193036 best moves, rot -1, -1 current moves, rot 1, -1
+0
+best score, score -4.822467999999999, -205.193836 best moves, rot -1, -1 current moves, rot 2, -1
+0
+best score, score -4.822467999999999, -304.825668 best moves, rot -1, -1 current moves, rot 3, -1
+0
+best score, score -4.822467999999999, -5.8704485 best moves, rot -1, -1 current moves, rot -5, 0
+0
+best score, score -4.822467999999999, -5.189036 best moves, rot -1, -1 current moves, rot -4, 0
+0
+best score, score -4.822467999999999, -6.4255005 best moves, rot -1, -1 current moves, rot -3, 0
+0
+best score, score -4.822467999999999, -5.190636 best moves, rot -1, -1 current moves, rot -2, 0
+0
+best score, score -4.822467999999999, -5.560404 best moves, rot -1, -1 current moves, rot -1, 0
+0
+best score, score -4.822467999999999, -5.561204000000001 best moves, rot -1, -1 current moves, rot 0, 0
+0
+best score, score -4.822467999999999, -5.562004000000001 best moves, rot -1, -1 current moves, rot 1, 0
+0
+best score, score -4.822467999999999, -105.562804 best moves, rot -1, -1 current moves, rot 2, 0
+0
+best score, score -4.822467999999999, -405.37912 best moves, rot -1, -1 current moves, rot 3, 0
+0
+best score, score -4.822467999999999, -8.286453000000002 best moves, rot -1, -1 current moves, rot -4, 1
+0
+best score, score -4.822467999999999, -7.420557 best moves, rot -1, -1 current moves, rot -3, 1
+0
+best score, score -4.822467999999999, -8.657021 best moves, rot -1, -1 current moves, rot -2, 1
+0
+best score, score -4.822467999999999, -6.555460999999999 best moves, rot -1, -1 current moves, rot -1, 1
+0
+best score, score -4.822467999999999, -6.925229000000001 best moves, rot -1, -1 current moves, rot 0, 1
+0
+best score, score -4.822467999999999, -6.926029000000001 best moves, rot -1, -1 current moves, rot 1, 1
+0
+best score, score -4.822467999999999, -206.926829 best moves, rot -1, -1 current moves, rot 2, 1
+0
+best score, score -4.822467999999999, -406.55866199999997 best moves, rot -1, -1 current moves, rot 3, 1
+0
+best score, score -4.822467999999999, -5.6863655 best moves, rot -1, -1 current moves, rot -4, 2
+0
+best score, score -4.822467999999999, -6.922830500000001 best moves, rot -1, -1 current moves, rot -3, 2
+0
+best score, score -4.822467999999999, -6.0569325 best moves, rot -1, -1 current moves, rot -2, 2
+0
+best score, score -4.822467999999999, -6.924430500000001 best moves, rot -1, -1 current moves, rot -1, 2
+0
+best score, score -4.822467999999999, -7.294196500000002 best moves, rot -1, -1 current moves, rot 0, 2
+0
+best score, score -4.822467999999999, -7.294996500000002 best moves, rot -1, -1 current moves, rot 1, 2
+0
+best score, score -4.822467999999999, -7.295796500000002 best moves, rot -1, -1 current moves, rot 2, 2
+0
+best score, score -4.822467999999999, -307.29659649999996 best moves, rot -1, -1 current moves, rot 3, 2
+0
+best score, score -4.822467999999999, -606.7439445 best moves, rot -1, -1 current moves, rot 4, 2
+0
+best score, score -7.9686379999999986, -7.232301999999999 best moves, rot -5, 0 current moves, rot -5, 1
+0
+best score, score -1e+24, -7.605443 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -7.605443, -7.292997000000001 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -7.292997000000001, -6.0581325 best moves, rot -3, -1 current moves, rot -2, -1
+0
+best score, score -6.0581325, -7.294597000000001 best moves, rot -2, -1 current moves, rot -1, -1
+0
+best score, score -6.0581325, -5.193036 best moves, rot -2, -1 current moves, rot 0, -1
+0
+best score, score -5.193036, -5.562804000000001 best moves, rot 0, -1 current moves, rot 1, -1
+0
+best score, score -5.193036, -205.563604 best moves, rot 0, -1 current moves, rot 2, -1
+0
+best score, score -5.193036, -305.195436 best moves, rot 0, -1 current moves, rot 3, -1
+0
+best score, score -5.193036, -6.7379465000000005 best moves, rot 0, -1 current moves, rot -5, 0
+0
+best score, score -5.193036, -6.7944685 best moves, rot 0, -1 current moves, rot -4, 0
+0
+best score, score -5.193036, -5.559604 best moves, rot 0, -1 current moves, rot -3, 0
+0
+best score, score -5.193036, -6.7960685 best moves, rot 0, -1 current moves, rot -2, 0
+0
+best score, score -5.193036, -5.561204000000001 best moves, rot 0, -1 current moves, rot -1, 0
+0
+best score, score -5.193036, -5.930972 best moves, rot 0, -1 current moves, rot 0, 0
+0
+best score, score -5.193036, -5.931772 best moves, rot 0, -1 current moves, rot 1, 0
+0
+best score, score -5.193036, -105.93257200000001 best moves, rot 0, -1 current moves, rot 2, 0
+0
+best score, score -5.193036, -405.74888799999997 best moves, rot 0, -1 current moves, rot 3, 0
+0
+best score, score -5.193036, -6.369377999999999 best moves, rot 0, -1 current moves, rot -4, 1
+0
+best score, score -5.193036, -9.025989 best moves, rot 0, -1 current moves, rot -3, 1
+0
+best score, score -5.193036, -7.791125 best moves, rot 0, -1 current moves, rot -2, 1
+0
+best score, score -5.193036, -9.027588999999999 best moves, rot 0, -1 current moves, rot -1, 1
+0
+best score, score -5.193036, -6.926029000000001 best moves, rot 0, -1 current moves, rot 0, 1
+0
+best score, score -5.193036, -7.295797000000001 best moves, rot 0, -1 current moves, rot 1, 1
+0
+best score, score -5.193036, -207.296597 best moves, rot 0, -1 current moves, rot 2, 1
+0
+best score, score -5.193036, -406.92843 best moves, rot 0, -1 current moves, rot 3, 1
+0
+best score, score -5.193036, -8.4717405 best moves, rot 0, -1 current moves, rot -4, 2
+0
+best score, score -5.193036, -6.4259005 best moves, rot 0, -1 current moves, rot -3, 2
+0
+best score, score -5.193036, -7.2933985 best moves, rot 0, -1 current moves, rot -2, 2
+0
+best score, score -5.193036, -6.427500500000001 best moves, rot 0, -1 current moves, rot -1, 2
+0
+best score, score -5.193036, -7.294998500000001 best moves, rot 0, -1 current moves, rot 0, 2
+0
+best score, score -5.193036, -7.6647645 best moves, rot 0, -1 current moves, rot 1, 2
+0
+best score, score -5.193036, -7.6655645 best moves, rot 0, -1 current moves, rot 2, 2
+0
+best score, score -5.193036, -307.6663645 best moves, rot 0, -1 current moves, rot 3, 2
+0
+best score, score -5.193036, -607.1137125 best moves, rot 0, -1 current moves, rot 4, 2
+0
+best score, score -7.232301999999999, -7.972638 best moves, rot -5, 1 current moves, rot -4, 1
+0
+best score, score -1e+24, -8.472938999999998 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -8.472938999999998, -8.160492999999999 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -8.160492999999999, -7.294597000000001 best moves, rot -3, -1 current moves, rot -2, -1
+0
+best score, score -7.294597000000001, -6.059732500000001 best moves, rot -2, -1 current moves, rot -1, -1
+0
+best score, score -6.059732500000001, -7.296197000000001 best moves, rot -1, -1 current moves, rot 0, -1
+0
+best score, score -6.059732500000001, -5.194636 best moves, rot -1, -1 current moves, rot 1, -1
+0
+best score, score -5.194636, -205.564404 best moves, rot 1, -1 current moves, rot 2, -1
+0
+best score, score -5.194636, -305.196236 best moves, rot 1, -1 current moves, rot 3, -1
+0
+best score, score -5.194636, -5.005351999999999 best moves, rot 1, -1 current moves, rot -5, 0
+0
+best score, score -5.005351999999999, -7.6619645 best moves, rot -5, 0 current moves, rot -4, 0
+0
+best score, score -5.005351999999999, -6.7960685 best moves, rot -5, 0 current moves, rot -3, 0
+0
+best score, score -5.005351999999999, -5.561204000000001 best moves, rot -5, 0 current moves, rot -2, 0
+0
+best score, score -5.005351999999999, -6.7976685 best moves, rot -5, 0 current moves, rot -1, 0
+0
+best score, score -5.005351999999999, -5.562804000000001 best moves, rot -5, 0 current moves, rot 0, 0
+0
+best score, score -5.005351999999999, -5.9325719999999995 best moves, rot -5, 0 current moves, rot 1, 0
+0
+best score, score -5.005351999999999, -105.933372 best moves, rot -5, 0 current moves, rot 2, 0
+0
+best score, score -5.005351999999999, -405.749688 best moves, rot -5, 0 current moves, rot 3, 0
+0
+best score, score -5.005351999999999, -7.2368760000000005 best moves, rot -5, 0 current moves, rot -4, 1
+0
+best score, score -5.005351999999999, -6.924429 best moves, rot -5, 0 current moves, rot -3, 1
+0
+best score, score -5.005351999999999, -9.027588999999999 best moves, rot -5, 0 current moves, rot -2, 1
+0
+best score, score -5.005351999999999, -7.792725000000001 best moves, rot -5, 0 current moves, rot -1, 1
+0
+best score, score -5.005351999999999, -9.029188999999999 best moves, rot -5, 0 current moves, rot 0, 1
+0
+best score, score -5.005351999999999, -6.9276290000000005 best moves, rot -5, 0 current moves, rot 1, 1
+0
+best score, score -5.005351999999999, -207.297397 best moves, rot -5, 0 current moves, rot 2, 1
+0
+best score, score -5.005351999999999, -406.92922999999996 best moves, rot -5, 0 current moves, rot 3, 1
+0
+best score, score -5.005351999999999, -6.3701785 best moves, rot -5, 0 current moves, rot -4, 2
+0
+best score, score -5.005351999999999, -9.3957565 best moves, rot -5, 0 current moves, rot -3, 2
+0
+best score, score -5.005351999999999, -6.427500500000001 best moves, rot -5, 0 current moves, rot -2, 2
+0
+best score, score -5.005351999999999, -7.294998500000001 best moves, rot -5, 0 current moves, rot -1, 2
+0
+best score, score -5.005351999999999, -6.4291005000000006 best moves, rot -5, 0 current moves, rot 0, 2
+0
+best score, score -5.005351999999999, -7.296598500000001 best moves, rot -5, 0 current moves, rot 1, 2
+0
+best score, score -5.005351999999999, -7.6663645 best moves, rot -5, 0 current moves, rot 2, 2
+0
+best score, score -5.005351999999999, -307.66716449999996 best moves, rot -5, 0 current moves, rot 3, 2
+0
+best score, score -5.005351999999999, -607.1145124999999 best moves, rot -5, 0 current moves, rot 4, 2
+0
+best score, score -7.232301999999999, -7.785754 best moves, rot -5, 1 current moves, rot -3, 1
+0
+best score, score -1e+24, -4.637983999999999 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -4.637983999999999, -9.027988999999998 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -4.637983999999999, -8.162092999999999 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -4.637983999999999, -7.296197000000001 best moves, rot -4, -1 current moves, rot -1, -1
+0
+best score, score -4.637983999999999, -6.061332500000001 best moves, rot -4, -1 current moves, rot 0, -1
+0
+best score, score -4.637983999999999, -7.297797000000001 best moves, rot -4, -1 current moves, rot 1, -1
+0
+best score, score -4.637983999999999, -205.196236 best moves, rot -4, -1 current moves, rot 2, -1
+0
+best score, score -4.637983999999999, -305.19703599999997 best moves, rot -4, -1 current moves, rot 3, -1
+0
+best score, score -4.637983999999999, -5.37512 best moves, rot -4, -1 current moves, rot -5, 0
+0
+best score, score -4.637983999999999, -5.560404 best moves, rot -4, -1 current moves, rot -4, 0
+0
+best score, score -4.637983999999999, -7.663564500000001 best moves, rot -4, -1 current moves, rot -3, 0
+0
+best score, score -4.637983999999999, -6.7976685 best moves, rot -4, -1 current moves, rot -2, 0
+0
+best score, score -4.637983999999999, -5.562804000000001 best moves, rot -4, -1 current moves, rot -1, 0
+0
+best score, score -4.637983999999999, -6.7992685 best moves, rot -4, -1 current moves, rot 0, 0
+0
+best score, score -4.637983999999999, -5.564404000000001 best moves, rot -4, -1 current moves, rot 1, 0
+0
+best score, score -4.637983999999999, -105.934172 best moves, rot -4, -1 current moves, rot 2, 0
+0
+best score, score -4.637983999999999, -405.75048799999996 best moves, rot -4, -1 current moves, rot 3, 0
+0
+best score, score -4.637983999999999, -6.186495 best moves, rot -4, -1 current moves, rot -4, 1
+0
+best score, score -4.637983999999999, -7.791927000000001 best moves, rot -4, -1 current moves, rot -3, 1
+0
+best score, score -4.637983999999999, -6.926029000000001 best moves, rot -4, -1 current moves, rot -2, 1
+0
+best score, score -4.637983999999999, -9.029188999999999 best moves, rot -4, -1 current moves, rot -1, 1
+0
+best score, score -4.637983999999999, -7.794325000000001 best moves, rot -4, -1 current moves, rot 0, 1
+0
+best score, score -4.637983999999999, -9.030788999999999 best moves, rot -4, -1 current moves, rot 1, 1
+0
+best score, score -4.637983999999999, -206.929229 best moves, rot -4, -1 current moves, rot 2, 1
+0
+best score, score -4.637983999999999, -406.93003 best moves, rot -4, -1 current moves, rot 3, 1
+0
+best score, score -4.637983999999999, -7.108914500000001 best moves, rot -4, -1 current moves, rot -4, 2
+0
+best score, score -4.637983999999999, -6.925228500000001 best moves, rot -4, -1 current moves, rot -3, 2
+0
+best score, score -4.637983999999999, -9.397356499999999 best moves, rot -4, -1 current moves, rot -2, 2
+0
+best score, score -4.637983999999999, -6.4291005000000006 best moves, rot -4, -1 current moves, rot -1, 2
+0
+best score, score -4.637983999999999, -7.296598500000001 best moves, rot -4, -1 current moves, rot 0, 2
+0
+best score, score -4.637983999999999, -6.4307005 best moves, rot -4, -1 current moves, rot 1, 2
+0
+best score, score -4.637983999999999, -7.298198500000001 best moves, rot -4, -1 current moves, rot 2, 2
+0
+best score, score -4.637983999999999, -307.6679645 best moves, rot -4, -1 current moves, rot 3, 2
+0
+best score, score -4.637983999999999, -607.1153125 best moves, rot -4, -1 current moves, rot 4, 2
+0
+best score, score -7.232301999999999, -7.419186 best moves, rot -5, 1 current moves, rot -2, 1
+0
+best score, score -1e+24, -5.376720000000001 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -5.376720000000001, -4.824068 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -4.824068, -9.029588999999998 best moves, rot -3, -1 current moves, rot -2, -1
+0
+best score, score -4.824068, -8.163692999999999 best moves, rot -3, -1 current moves, rot -1, -1
+0
+best score, score -4.824068, -7.297797000000001 best moves, rot -3, -1 current moves, rot 0, -1
+0
+best score, score -4.824068, -6.0629325000000005 best moves, rot -3, -1 current moves, rot 1, -1
+0
+best score, score -4.824068, -307.29939699999994 best moves, rot -3, -1 current moves, rot 2, -1
+0
+best score, score -4.824068, -304.828868 best moves, rot -3, -1 current moves, rot 3, -1
+0
+best score, score -4.824068, -5.37592 best moves, rot -3, -1 current moves, rot -5, 0
+0
+best score, score -4.824068, -5.930172 best moves, rot -3, -1 current moves, rot -4, 0
+0
+best score, score -4.824068, -5.562004000000001 best moves, rot -3, -1 current moves, rot -3, 0
+0
+best score, score -4.824068, -7.6651645 best moves, rot -3, -1 current moves, rot -2, 0
+0
+best score, score -4.824068, -6.7992685 best moves, rot -3, -1 current moves, rot -1, 0
+0
+best score, score -4.824068, -5.564404000000001 best moves, rot -3, -1 current moves, rot 0, 0
+0
+best score, score -4.824068, -6.8008685 best moves, rot -3, -1 current moves, rot 1, 0
+0
+best score, score -4.824068, -105.566004 best moves, rot -3, -1 current moves, rot 2, 0
+0
+best score, score -4.824068, -405.751288 best moves, rot -3, -1 current moves, rot 3, 0
+0
+best score, score -4.824068, -6.925229000000001 best moves, rot -3, -1 current moves, rot -4, 1
+0
+best score, score -4.824068, -6.557063 best moves, rot -3, -1 current moves, rot -3, 1
+0
+best score, score -4.824068, -7.793527000000001 best moves, rot -3, -1 current moves, rot -2, 1
+0
+best score, score -4.824068, -6.9276290000000005 best moves, rot -3, -1 current moves, rot -1, 1
+0
+best score, score -4.824068, -9.030788999999999 best moves, rot -3, -1 current moves, rot 0, 1
+0
+best score, score -4.824068, -7.795925 best moves, rot -3, -1 current moves, rot 1, 1
+0
+best score, score -4.824068, -309.03238899999997 best moves, rot -3, -1 current moves, rot 2, 1
+0
+best score, score -4.824068, -406.56186199999996 best moves, rot -3, -1 current moves, rot 3, 1
+0
+best score, score -4.824068, -7.109714500000002 best moves, rot -3, -1 current moves, rot -4, 2
+0
+best score, score -4.824068, -7.6639645000000005 best moves, rot -3, -1 current moves, rot -3, 2
+0
+best score, score -4.824068, -6.926828500000001 best moves, rot -3, -1 current moves, rot -2, 2
+0
+best score, score -4.824068, -9.398956499999999 best moves, rot -3, -1 current moves, rot -1, 2
+0
+best score, score -4.824068, -6.4307005 best moves, rot -3, -1 current moves, rot 0, 2
+0
+best score, score -4.824068, -7.298198500000001 best moves, rot -3, -1 current moves, rot 1, 2
+0
+best score, score -4.824068, -6.4323005 best moves, rot -3, -1 current moves, rot 2, 2
+0
+best score, score -4.824068, -307.29979849999995 best moves, rot -3, -1 current moves, rot 3, 2
+0
+best score, score -4.824068, -607.1161125 best moves, rot -3, -1 current moves, rot 4, 2
+0
+best score, score -7.232301999999999, -7.60607 best moves, rot -5, 1 current moves, rot -1, 1
+0
+best score, score -1e+24, -5.3775200000000005 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -5.3775200000000005, -5.562804000000001 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -5.3775200000000005, -4.825667999999999 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -4.825667999999999, -9.031188999999998 best moves, rot -2, -1 current moves, rot -1, -1
+0
+best score, score -4.825667999999999, -8.165293 best moves, rot -2, -1 current moves, rot 0, -1
+0
+best score, score -4.825667999999999, -7.299397000000001 best moves, rot -2, -1 current moves, rot 1, -1
+0
+best score, score -4.825667999999999, -306.0645325 best moves, rot -2, -1 current moves, rot 2, -1
+0
+best score, score -4.825667999999999, -506.74754599999994 best moves, rot -2, -1 current moves, rot 3, -1
+0
+best score, score -4.825667999999999, -5.376720000000001 best moves, rot -2, -1 current moves, rot -5, 0
+0
+best score, score -4.825667999999999, -5.930972 best moves, rot -2, -1 current moves, rot -4, 0
+0
+best score, score -4.825667999999999, -5.931772 best moves, rot -2, -1 current moves, rot -3, 0
+0
+best score, score -4.825667999999999, -5.563604000000001 best moves, rot -2, -1 current moves, rot -2, 0
+0
+best score, score -4.825667999999999, -7.6667645 best moves, rot -2, -1 current moves, rot -1, 0
+0
+best score, score -4.825667999999999, -6.8008685 best moves, rot -2, -1 current moves, rot 0, 0
+0
+best score, score -4.825667999999999, -5.566004 best moves, rot -2, -1 current moves, rot 1, 0
+0
+best score, score -4.825667999999999, -206.8024685 best moves, rot -2, -1 current moves, rot 2, 0
+0
+best score, score -4.825667999999999, -405.38311999999996 best moves, rot -2, -1 current moves, rot 3, 0
+0
+best score, score -4.825667999999999, -6.926029000000001 best moves, rot -2, -1 current moves, rot -4, 1
+0
+best score, score -4.825667999999999, -7.295797000000001 best moves, rot -2, -1 current moves, rot -3, 1
+0
+best score, score -4.825667999999999, -6.558663 best moves, rot -2, -1 current moves, rot -2, 1
+0
+best score, score -4.825667999999999, -7.795127000000001 best moves, rot -2, -1 current moves, rot -1, 1
+0
+best score, score -4.825667999999999, -6.929229 best moves, rot -2, -1 current moves, rot 0, 1
+0
+best score, score -4.825667999999999, -9.032388999999998 best moves, rot -2, -1 current moves, rot 1, 1
+0
+best score, score -4.825667999999999, -307.79752499999995 best moves, rot -2, -1 current moves, rot 2, 1
+0
+best score, score -4.825667999999999, -608.480539 best moves, rot -2, -1 current moves, rot 3, 1
+0
+best score, score -4.825667999999999, -7.110514500000002 best moves, rot -2, -1 current moves, rot -4, 2
+0
+best score, score -4.825667999999999, -7.6647645 best moves, rot -2, -1 current moves, rot -3, 2
+0
+best score, score -4.825667999999999, -7.6655645 best moves, rot -2, -1 current moves, rot -2, 2
+0
+best score, score -4.825667999999999, -6.928428500000001 best moves, rot -2, -1 current moves, rot -1, 2
+0
+best score, score -4.825667999999999, -9.400556499999999 best moves, rot -2, -1 current moves, rot 0, 2
+0
+best score, score -4.825667999999999, -6.4323005 best moves, rot -2, -1 current moves, rot 1, 2
+0
+best score, score -4.825667999999999, -7.2997985000000005 best moves, rot -2, -1 current moves, rot 2, 2
+0
+best score, score -4.825667999999999, -306.4339005 best moves, rot -2, -1 current moves, rot 3, 2
+0
+best score, score -4.825667999999999, -606.7479465 best moves, rot -2, -1 current moves, rot 4, 2
+0
+best score, score -7.232301999999999, -7.60847 best moves, rot -5, 1 current moves, rot 0, 1
+0
+best score, score -1e+24, -105.37832 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -105.37832, -105.563604 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -105.37832, -105.564404 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -105.37832, -104.827268 best moves, rot -4, -1 current moves, rot -1, -1
+0
+best score, score -104.827268, -109.032789 best moves, rot -1, -1 current moves, rot 0, -1
+0
+best score, score -104.827268, -108.166893 best moves, rot -1, -1 current moves, rot 1, -1
+0
+best score, score -104.827268, -407.30099699999994 best moves, rot -1, -1 current moves, rot 2, -1
+0
+best score, score -104.827268, -505.5126815 best moves, rot -1, -1 current moves, rot 3, -1
+0
+best score, score -104.827268, -105.37752 best moves, rot -1, -1 current moves, rot -5, 0
+0
+best score, score -104.827268, -105.93177200000001 best moves, rot -1, -1 current moves, rot -4, 0
+0
+best score, score -104.827268, -105.93257200000001 best moves, rot -1, -1 current moves, rot -3, 0
+0
+best score, score -104.827268, -105.933372 best moves, rot -1, -1 current moves, rot -2, 0
+0
+best score, score -104.827268, -105.565204 best moves, rot -1, -1 current moves, rot -1, 0
+0
+best score, score -104.827268, -107.66836450000002 best moves, rot -1, -1 current moves, rot 0, 0
+0
+best score, score -104.827268, -106.8024685 best moves, rot -1, -1 current moves, rot 1, 0
+0
+best score, score -104.827268, -205.567604 best moves, rot -1, -1 current moves, rot 2, 0
+0
+best score, score -104.827268, -606.4351015 best moves, rot -1, -1 current moves, rot 3, 0
+0
+best score, score -104.827268, -106.92682900000001 best moves, rot -1, -1 current moves, rot -4, 1
+0
+best score, score -104.827268, -107.296597 best moves, rot -1, -1 current moves, rot -3, 1
+0
+best score, score -104.827268, -107.297397 best moves, rot -1, -1 current moves, rot -2, 1
+0
+best score, score -104.827268, -106.560263 best moves, rot -1, -1 current moves, rot -1, 1
+0
+best score, score -104.827268, -107.796727 best moves, rot -1, -1 current moves, rot 0, 1
+0
+best score, score -104.827268, -106.93082900000002 best moves, rot -1, -1 current moves, rot 1, 1
+0
+best score, score -104.827268, -409.03398899999996 best moves, rot -1, -1 current moves, rot 2, 1
+0
+best score, score -104.827268, -607.245675 best moves, rot -1, -1 current moves, rot 3, 1
+0
+best score, score -104.827268, -107.11131450000002 best moves, rot -1, -1 current moves, rot -4, 2
+0
+best score, score -104.827268, -107.66556450000002 best moves, rot -1, -1 current moves, rot -3, 2
+0
+best score, score -104.827268, -107.66636450000001 best moves, rot -1, -1 current moves, rot -2, 2
+0
+best score, score -104.827268, -107.66716450000001 best moves, rot -1, -1 current moves, rot -1, 2
+0
+best score, score -104.827268, -106.93002850000002 best moves, rot -1, -1 current moves, rot 0, 2
+0
+best score, score -104.827268, -109.4021565 best moves, rot -1, -1 current moves, rot 1, 2
+0
+best score, score -104.827268, -106.4339005 best moves, rot -1, -1 current moves, rot 2, 2
+0
+best score, score -104.827268, -407.30139849999995 best moves, rot -1, -1 current moves, rot 3, 2
+0
+best score, score -104.827268, -605.8820485 best moves, rot -1, -1 current moves, rot 4, 2
+0
+best score, score -7.232301999999999, -207.61086999999998 best moves, rot -5, 1 current moves, rot 1, 1
+0
+best score, score -1e+24, -205.194636 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -205.194636, -205.37992 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -205.194636, -205.38072 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -205.194636, -205.38152 best moves, rot -4, -1 current moves, rot -1, -1
+0
+best score, score -205.194636, -204.64438399999997 best moves, rot -4, -1 current moves, rot 0, -1
+0
+best score, score -204.64438399999997, -208.849905 best moves, rot 0, -1 current moves, rot 1, -1
+0
+best score, score -204.64438399999997, -507.98400899999996 best moves, rot 0, -1 current moves, rot 2, -1
+0
+best score, score -204.64438399999997, -706.5646619999999 best moves, rot 0, -1 current moves, rot 3, -1
+0
+best score, score -204.64438399999997, -205.193836 best moves, rot 0, -1 current moves, rot -5, 0
+0
+best score, score -204.64438399999997, -205.748088 best moves, rot 0, -1 current moves, rot -4, 0
+0
+best score, score -204.64438399999997, -205.748888 best moves, rot 0, -1 current moves, rot -3, 0
+0
+best score, score -204.64438399999997, -205.749688 best moves, rot 0, -1 current moves, rot -2, 0
+0
+best score, score -204.64438399999997, -205.750488 best moves, rot 0, -1 current moves, rot -1, 0
+0
+best score, score -204.64438399999997, -205.38232 best moves, rot 0, -1 current moves, rot 0, 0
+0
+best score, score -204.64438399999997, -207.4854805 best moves, rot 0, -1 current moves, rot 1, 0
+0
+best score, score -204.64438399999997, -406.6195845 best moves, rot 0, -1 current moves, rot 2, 0
+0
+best score, score -204.64438399999997, -605.2002359999999 best moves, rot 0, -1 current moves, rot 3, 0
+0
+best score, score -204.64438399999997, -206.74314499999997 best moves, rot 0, -1 current moves, rot -4, 1
+0
+best score, score -204.64438399999997, -207.112913 best moves, rot 0, -1 current moves, rot -3, 1
+0
+best score, score -204.64438399999997, -207.113713 best moves, rot 0, -1 current moves, rot -2, 1
+0
+best score, score -204.64438399999997, -207.114513 best moves, rot 0, -1 current moves, rot -1, 1
+0
+best score, score -204.64438399999997, -206.37737899999996 best moves, rot 0, -1 current moves, rot 0, 1
+0
+best score, score -204.64438399999997, -207.61384299999997 best moves, rot 0, -1 current moves, rot 1, 1
+0
+best score, score -204.64438399999997, -406.74794499999996 best moves, rot 0, -1 current moves, rot 2, 1
+0
+best score, score -204.64438399999997, -808.297655 best moves, rot 0, -1 current moves, rot 3, 1
+0
+best score, score -204.64438399999997, -206.9276305 best moves, rot 0, -1 current moves, rot -4, 2
+0
+best score, score -204.64438399999997, -207.4818805 best moves, rot 0, -1 current moves, rot -3, 2
+0
+best score, score -204.64438399999997, -207.4826805 best moves, rot 0, -1 current moves, rot -2, 2
+0
+best score, score -204.64438399999997, -207.48348049999998 best moves, rot 0, -1 current moves, rot -1, 2
+0
+best score, score -204.64438399999997, -207.48428049999998 best moves, rot 0, -1 current moves, rot 0, 2
+0
+best score, score -204.64438399999997, -206.74714449999996 best moves, rot 0, -1 current moves, rot 1, 2
+0
+best score, score -204.64438399999997, -209.2192725 best moves, rot 0, -1 current moves, rot 2, 2
+0
+best score, score -204.64438399999997, -506.2510165 best moves, rot 0, -1 current moves, rot 3, 2
+0
+best score, score -204.64438399999997, -806.5650625 best moves, rot 0, -1 current moves, rot 4, 2
+0
+best score, score -7.232301999999999, -407.24430199999995 best moves, rot -5, 1 current moves, rot 2, 1
+0
+best score, score -1e+24, -9.522117000000001 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -9.522117000000001, -12.3074895 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -9.522117000000001, -6.7391465 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -6.7391465, -7.108912500000001 best moves, rot -2, -1 current moves, rot -1, -1
+0
+best score, score -6.7391465, -7.109712500000001 best moves, rot -2, -1 current moves, rot 0, -1
+0
+best score, score -6.7391465, -7.110512500000001 best moves, rot -2, -1 current moves, rot 1, -1
+0
+best score, score -6.7391465, -207.1113125 best moves, rot -2, -1 current moves, rot 2, -1
+0
+best score, score -6.7391465, -306.74314449999997 best moves, rot -2, -1 current moves, rot 3, -1
+0
+best score, score -6.7391465, -6.921228500000001 best moves, rot -2, -1 current moves, rot -5, 0
+0
+best score, score -6.7391465, -10.075569 best moves, rot -2, -1 current moves, rot -4, 0
+0
+best score, score -6.7391465, -6.3693805 best moves, rot -2, -1 current moves, rot -3, 0
+0
+best score, score -6.3693805, -7.4770805000000005 best moves, rot -3, 0 current moves, rot -2, 0
+0
+best score, score -6.3693805, -7.4778805 best moves, rot -3, 0 current moves, rot -1, 0
+0
+best score, score -6.3693805, -7.478680500000001 best moves, rot -3, 0 current moves, rot 0, 0
+0
+best score, score -6.3693805, -7.479480500000001 best moves, rot -3, 0 current moves, rot 1, 0
+0
+best score, score -6.3693805, -107.48028050000002 best moves, rot -3, 0 current moves, rot 2, 0
+0
+best score, score -6.3693805, -407.29659649999996 best moves, rot -3, 0 current moves, rot 3, 0
+0
+best score, score -6.3693805, -11.070625500000002 best moves, rot -3, 0 current moves, rot -4, 1
+0
+best score, score -6.3693805, -14.0404815 best moves, rot -3, 0 current moves, rot -3, 1
+0
+best score, score -6.3693805, -8.1031735 best moves, rot -3, 0 current moves, rot -2, 1
+0
+best score, score -6.3693805, -8.8419055 best moves, rot -3, 0 current moves, rot -1, 1
+0
+best score, score -6.3693805, -8.8427055 best moves, rot -3, 0 current moves, rot 0, 1
+0
+best score, score -6.3693805, -8.8435055 best moves, rot -3, 0 current moves, rot 1, 1
+0
+best score, score -6.3693805, -208.8443055 best moves, rot -3, 0 current moves, rot 2, 1
+0
+best score, score -6.3693805, -408.47613849999993 best moves, rot -3, 0 current moves, rot 3, 1
+0
+best score, score -6.3693805, -8.655022999999998 best moves, rot -3, 0 current moves, rot -4, 2
+0
+best score, score -6.3693805, -7.604643 best moves, rot -3, 0 current moves, rot -3, 2
+0
+best score, score -6.3693805, -8.103173 best moves, rot -3, 0 current moves, rot -2, 2
+0
+best score, score -6.3693805, -9.210873 best moves, rot -3, 0 current moves, rot -1, 2
+0
+best score, score -6.3693805, -9.211673 best moves, rot -3, 0 current moves, rot 0, 2
+0
+best score, score -6.3693805, -9.212473 best moves, rot -3, 0 current moves, rot 1, 2
+0
+best score, score -6.3693805, -9.213273 best moves, rot -3, 0 current moves, rot 2, 2
+0
+best score, score -6.3693805, -309.2140729999999 best moves, rot -3, 0 current moves, rot 3, 2
+0
+best score, score -6.3693805, -608.661421 best moves, rot -3, 0 current moves, rot 4, 2
+0
+best score, score -7.232301999999999, -10.696691000000001 best moves, rot -5, 1 current moves, rot -6, 2
+0
+best score, score -1e+24, -9.522920000000001 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -9.522920000000001, -10.261652999999999 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -9.522920000000001, -12.8625415 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -9.522920000000001, -7.294198500000001 best moves, rot -4, -1 current moves, rot -1, -1
+0
+best score, score -7.294198500000001, -7.6639645000000005 best moves, rot -1, -1 current moves, rot 0, -1
+0
+best score, score -7.294198500000001, -7.6647645 best moves, rot -1, -1 current moves, rot 1, -1
+0
+best score, score -7.294198500000001, -207.6655645 best moves, rot -1, -1 current moves, rot 2, -1
+0
+best score, score -7.294198500000001, -307.2973965 best moves, rot -1, -1 current moves, rot 3, -1
+0
+best score, score -7.294198500000001, -9.522120000000001 best moves, rot -1, -1 current moves, rot -5, 0
+0
+best score, score -7.294198500000001, -8.029732500000001 best moves, rot -1, -1 current moves, rot -4, 0
+0
+best score, score -7.294198500000001, -10.630621 best moves, rot -1, -1 current moves, rot -3, 0
+0
+best score, score -7.294198500000001, -6.9244325 best moves, rot -1, -1 current moves, rot -2, 0
+0
+best score, score -6.9244325, -8.032132500000001 best moves, rot -2, 0 current moves, rot -1, 0
+0
+best score, score -6.9244325, -8.032932500000001 best moves, rot -2, 0 current moves, rot 0, 0
+0
+best score, score -6.9244325, -8.033732500000001 best moves, rot -2, 0 current moves, rot 1, 0
+0
+best score, score -6.9244325, -108.03453250000001 best moves, rot -2, 0 current moves, rot 2, 0
+0
+best score, score -6.9244325, -407.8508485 best moves, rot -2, 0 current moves, rot 3, 0
+0
+best score, score -6.9244325, -8.286855000000001 best moves, rot -2, 0 current moves, rot -4, 1
+0
+best score, score -6.9244325, -11.9946455 best moves, rot -2, 0 current moves, rot -3, 1
+0
+best score, score -6.9244325, -14.5955335 best moves, rot -2, 0 current moves, rot -2, 1
+0
+best score, score -6.9244325, -8.658225499999999 best moves, rot -2, 0 current moves, rot -1, 1
+0
+best score, score -6.9244325, -9.3969575 best moves, rot -2, 0 current moves, rot 0, 1
+0
+best score, score -6.9244325, -9.397757499999999 best moves, rot -2, 0 current moves, rot 1, 1
+0
+best score, score -6.9244325, -209.3985575 best moves, rot -2, 0 current moves, rot 2, 1
+0
+best score, score -6.9244325, -409.03039049999995 best moves, rot -2, 0 current moves, rot 3, 1
+0
+best score, score -6.9244325, -11.255914000000002 best moves, rot -2, 0 current moves, rot -4, 2
+0
+best score, score -6.9244325, -9.763525 best moves, rot -2, 0 current moves, rot -3, 2
+0
+best score, score -6.9244325, -8.159695 best moves, rot -2, 0 current moves, rot -2, 2
+0
+best score, score -6.9244325, -8.658224999999998 best moves, rot -2, 0 current moves, rot -1, 2
+0
+best score, score -6.9244325, -9.765925 best moves, rot -2, 0 current moves, rot 0, 2
+0
+best score, score -6.9244325, -9.766725 best moves, rot -2, 0 current moves, rot 1, 2
+0
+best score, score -6.9244325, -9.767525 best moves, rot -2, 0 current moves, rot 2, 2
+0
+best score, score -6.9244325, -309.768325 best moves, rot -2, 0 current moves, rot 3, 2
+0
+best score, score -6.9244325, -609.215673 best moves, rot -2, 0 current moves, rot 4, 2
+0
+best score, score -7.232301999999999, -11.805995 best moves, rot -5, 1 current moves, rot -5, 2
+0
+best score, score -1e+24, -12.1238085 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -12.1238085, -10.262452999999999 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -10.262452999999999, -10.263252999999999 best moves, rot -3, -1 current moves, rot -2, -1
+0
+best score, score -10.262452999999999, -12.8641415 best moves, rot -3, -1 current moves, rot -1, -1
+0
+best score, score -10.262452999999999, -7.295798500000001 best moves, rot -3, -1 current moves, rot 0, -1
+0
+best score, score -7.295798500000001, -7.6655645 best moves, rot 0, -1 current moves, rot 1, -1
+0
+best score, score -7.295798500000001, -207.6663645 best moves, rot 0, -1 current moves, rot 2, -1
+0
+best score, score -7.295798500000001, -307.29819649999996 best moves, rot 0, -1 current moves, rot 3, -1
+0
+best score, score -7.295798500000001, -7.107312500000001 best moves, rot 0, -1 current moves, rot -5, 0
+0
+best score, score -7.107312500000001, -10.630621 best moves, rot -5, 0 current moves, rot -4, 0
+0
+best score, score -7.107312500000001, -8.031332500000001 best moves, rot -5, 0 current moves, rot -3, 0
+0
+best score, score -7.107312500000001, -10.632221 best moves, rot -5, 0 current moves, rot -2, 0
+0
+best score, score -7.107312500000001, -6.926032500000001 best moves, rot -5, 0 current moves, rot -1, 0
+0
+best score, score -6.926032500000001, -8.033732500000001 best moves, rot -1, 0 current moves, rot 0, 0
+0
+best score, score -6.926032500000001, -8.034532500000001 best moves, rot -1, 0 current moves, rot 1, 0
+0
+best score, score -6.926032500000001, -108.03533250000001 best moves, rot -1, 0 current moves, rot 2, 0
+0
+best score, score -6.926032500000001, -407.85164849999995 best moves, rot -1, 0 current moves, rot 3, 0
+0
+best score, score -6.926032500000001, -10.887745500000001 best moves, rot -1, 0 current moves, rot -4, 1
+0
+best score, score -6.926032500000001, -9.026388999999998 best moves, rot -1, 0 current moves, rot -3, 1
+0
+best score, score -6.926032500000001, -11.9962455 best moves, rot -1, 0 current moves, rot -2, 1
+0
+best score, score -6.926032500000001, -14.5971335 best moves, rot -1, 0 current moves, rot -1, 1
+0
+best score, score -6.926032500000001, -8.659825499999998 best moves, rot -1, 0 current moves, rot 0, 1
+0
+best score, score -6.926032500000001, -9.398557499999999 best moves, rot -1, 0 current moves, rot 1, 1
+0
+best score, score -6.926032500000001, -209.3993575 best moves, rot -1, 0 current moves, rot 2, 1
+0
+best score, score -6.926032500000001, -409.0311904999999 best moves, rot -1, 0 current moves, rot 3, 1
+0
+best score, score -6.926032500000001, -8.103171 best moves, rot -1, 0 current moves, rot -4, 2
+0
+best score, score -6.926032500000001, -12.364413 best moves, rot -1, 0 current moves, rot -3, 2
+0
+best score, score -6.926032500000001, -9.765125 best moves, rot -1, 0 current moves, rot -2, 2
+0
+best score, score -6.926032500000001, -8.161294999999999 best moves, rot -1, 0 current moves, rot -1, 2
+0
+best score, score -6.926032500000001, -8.659824999999998 best moves, rot -1, 0 current moves, rot 0, 2
+0
+best score, score -6.926032500000001, -9.767525 best moves, rot -1, 0 current moves, rot 1, 2
+0
+best score, score -6.926032500000001, -9.768324999999999 best moves, rot -1, 0 current moves, rot 2, 2
+0
+best score, score -6.926032500000001, -309.769125 best moves, rot -1, 0 current moves, rot 3, 2
+0
+best score, score -6.926032500000001, -609.216473 best moves, rot -1, 0 current moves, rot 4, 2
+0
+best score, score -7.232301999999999, -11.808395 best moves, rot -5, 1 current moves, rot -4, 2
+0
+best score, score -1e+24, -6.7399445 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -6.7399445, -12.8633415 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -6.7399445, -10.264052999999999 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -6.7399445, -10.264852999999999 best moves, rot -4, -1 current moves, rot -1, -1
+0
+best score, score -6.7399445, -12.8657415 best moves, rot -4, -1 current moves, rot 0, -1
+0
+best score, score -6.7399445, -7.297398500000001 best moves, rot -4, -1 current moves, rot 1, -1
+0
+best score, score -6.7399445, -207.66716449999998 best moves, rot -4, -1 current moves, rot 2, -1
+0
+best score, score -6.7399445, -307.2989965 best moves, rot -4, -1 current moves, rot 3, -1
+0
+best score, score -6.7399445, -7.4770805000000005 best moves, rot -4, -1 current moves, rot -5, 0
+0
+best score, score -6.7399445, -7.6623645 best moves, rot -4, -1 current moves, rot -4, 0
+0
+best score, score -6.7399445, -10.632221 best moves, rot -4, -1 current moves, rot -3, 0
+0
+best score, score -6.7399445, -8.032932500000001 best moves, rot -4, -1 current moves, rot -2, 0
+0
+best score, score -6.7399445, -10.633821 best moves, rot -4, -1 current moves, rot -1, 0
+0
+best score, score -6.7399445, -6.9276325000000005 best moves, rot -4, -1 current moves, rot 0, 0
+0
+best score, score -6.7399445, -8.0353325 best moves, rot -4, -1 current moves, rot 1, 0
+0
+best score, score -6.7399445, -108.03613250000001 best moves, rot -4, -1 current moves, rot 2, 0
+0
+best score, score -6.7399445, -407.8524485 best moves, rot -4, -1 current moves, rot 3, 0
+0
+best score, score -6.7399445, -8.288455500000001 best moves, rot -4, -1 current moves, rot -4, 1
+0
+best score, score -6.7399445, -11.6272795 best moves, rot -4, -1 current moves, rot -3, 1
+0
+best score, score -6.7399445, -9.027988999999998 best moves, rot -4, -1 current moves, rot -2, 1
+0
+best score, score -6.7399445, -11.9978455 best moves, rot -4, -1 current moves, rot -1, 1
+0
+best score, score -6.7399445, -14.5987335 best moves, rot -4, -1 current moves, rot 0, 1
+0
+best score, score -6.7399445, -8.661425499999998 best moves, rot -4, -1 current moves, rot 1, 1
+0
+best score, score -6.7399445, -209.4001575 best moves, rot -4, -1 current moves, rot 2, 1
+0
+best score, score -6.7399445, -409.03199049999995 best moves, rot -4, -1 current moves, rot 3, 1
+0
+best score, score -6.7399445, -9.210875 best moves, rot -4, -1 current moves, rot -4, 2
+0
+best score, score -6.7399445, -8.658221 best moves, rot -4, -1 current moves, rot -3, 2
+0
+best score, score -6.7399445, -12.366013 best moves, rot -4, -1 current moves, rot -2, 2
+0
+best score, score -6.7399445, -9.766725 best moves, rot -4, -1 current moves, rot -1, 2
+0
+best score, score -6.7399445, -8.162894999999999 best moves, rot -4, -1 current moves, rot 0, 2
+0
+best score, score -6.7399445, -8.661424999999998 best moves, rot -4, -1 current moves, rot 1, 2
+0
+best score, score -6.7399445, -9.769124999999999 best moves, rot -4, -1 current moves, rot 2, 2
+0
+best score, score -6.7399445, -309.769925 best moves, rot -4, -1 current moves, rot 3, 2
+0
+best score, score -6.7399445, -609.217273 best moves, rot -4, -1 current moves, rot 4, 2
+0
+best score, score -7.232301999999999, -11.623107000000001 best moves, rot -5, 1 current moves, rot -3, 2
+0
+best score, score -1e+24, -7.478680500000001 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -7.478680500000001, -6.926028500000001 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -6.926028500000001, -12.8649415 best moves, rot -3, -1 current moves, rot -2, -1
+0
+best score, score -6.926028500000001, -10.265652999999999 best moves, rot -3, -1 current moves, rot -1, -1
+0
+best score, score -6.926028500000001, -10.266452999999998 best moves, rot -3, -1 current moves, rot 0, -1
+0
+best score, score -6.926028500000001, -12.8673415 best moves, rot -3, -1 current moves, rot 1, -1
+0
+best score, score -6.926028500000001, -207.29899849999998 best moves, rot -3, -1 current moves, rot 2, -1
+0
+best score, score -6.926028500000001, -307.29979649999996 best moves, rot -3, -1 current moves, rot 3, -1
+0
+best score, score -6.926028500000001, -7.4778805 best moves, rot -3, -1 current moves, rot -5, 0
+0
+best score, score -6.926028500000001, -8.032132500000001 best moves, rot -3, -1 current moves, rot -4, 0
+0
+best score, score -6.926028500000001, -7.6639645000000005 best moves, rot -3, -1 current moves, rot -3, 0
+0
+best score, score -6.926028500000001, -10.633821 best moves, rot -3, -1 current moves, rot -2, 0
+0
+best score, score -6.926028500000001, -8.034532500000001 best moves, rot -3, -1 current moves, rot -1, 0
+0
+best score, score -6.926028500000001, -10.635421 best moves, rot -3, -1 current moves, rot 0, 0
+0
+best score, score -6.926028500000001, -6.9292325 best moves, rot -3, -1 current moves, rot 1, 0
+0
+best score, score -6.926028500000001, -108.03693250000002 best moves, rot -3, -1 current moves, rot 2, 0
+0
+best score, score -6.926028500000001, -407.85324849999995 best moves, rot -3, -1 current moves, rot 3, 0
+0
+best score, score -6.926028500000001, -9.027189499999999 best moves, rot -3, -1 current moves, rot -4, 1
+0
+best score, score -6.926028500000001, -8.659023499999998 best moves, rot -3, -1 current moves, rot -3, 1
+0
+best score, score -6.926028500000001, -11.6288795 best moves, rot -3, -1 current moves, rot -2, 1
+0
+best score, score -6.926028500000001, -9.029588999999998 best moves, rot -3, -1 current moves, rot -1, 1
+0
+best score, score -6.926028500000001, -11.9994455 best moves, rot -3, -1 current moves, rot 0, 1
+0
+best score, score -6.926028500000001, -14.6003335 best moves, rot -3, -1 current moves, rot 1, 1
+0
+best score, score -6.926028500000001, -208.6630255 best moves, rot -3, -1 current moves, rot 2, 1
+0
+best score, score -6.926028500000001, -409.0327904999999 best moves, rot -3, -1 current moves, rot 3, 1
+0
+best score, score -6.926028500000001, -9.211675 best moves, rot -3, -1 current moves, rot -4, 2
+0
+best score, score -6.926028500000001, -9.765925 best moves, rot -3, -1 current moves, rot -3, 2
+0
+best score, score -6.926028500000001, -8.659820999999999 best moves, rot -3, -1 current moves, rot -2, 2
+0
+best score, score -6.926028500000001, -12.367613 best moves, rot -3, -1 current moves, rot -1, 2
+0
+best score, score -6.926028500000001, -9.768324999999999 best moves, rot -3, -1 current moves, rot 0, 2
+0
+best score, score -6.926028500000001, -8.164494999999999 best moves, rot -3, -1 current moves, rot 1, 2
+0
+best score, score -6.926028500000001, -8.663025 best moves, rot -3, -1 current moves, rot 2, 2
+0
+best score, score -6.926028500000001, -309.77072499999997 best moves, rot -3, -1 current moves, rot 3, 2
+0
+best score, score -6.926028500000001, -609.218073 best moves, rot -3, -1 current moves, rot 4, 2
+0
+best score, score -7.232301999999999, -11.809991 best moves, rot -5, 1 current moves, rot -2, 2
+0
+best score, score -1e+24, -7.479480500000001 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -7.479480500000001, -7.6647645 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -7.479480500000001, -6.927628500000001 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -6.927628500000001, -12.8665415 best moves, rot -2, -1 current moves, rot -1, -1
+0
+best score, score -6.927628500000001, -10.267252999999998 best moves, rot -2, -1 current moves, rot 0, -1
+0
+best score, score -6.927628500000001, -10.268052999999998 best moves, rot -2, -1 current moves, rot 1, -1
+0
+best score, score -6.927628500000001, -512.8689415 best moves, rot -2, -1 current moves, rot 2, -1
+0
+best score, score -6.927628500000001, -306.9316305 best moves, rot -2, -1 current moves, rot 3, -1
+0
+best score, score -6.927628500000001, -7.478680500000001 best moves, rot -2, -1 current moves, rot -5, 0
+0
+best score, score -6.927628500000001, -8.032932500000001 best moves, rot -2, -1 current moves, rot -4, 0
+0
+best score, score -6.927628500000001, -8.033732500000001 best moves, rot -2, -1 current moves, rot -3, 0
+0
+best score, score -6.927628500000001, -7.6655645 best moves, rot -2, -1 current moves, rot -2, 0
+0
+best score, score -6.927628500000001, -10.635421 best moves, rot -2, -1 current moves, rot -1, 0
+0
+best score, score -6.927628500000001, -8.0361325 best moves, rot -2, -1 current moves, rot 0, 0
+0
+best score, score -6.927628500000001, -10.637020999999999 best moves, rot -2, -1 current moves, rot 1, 0
+0
+best score, score -6.927628500000001, -106.93083250000002 best moves, rot -2, -1 current moves, rot 2, 0
+0
+best score, score -6.927628500000001, -407.8540485 best moves, rot -2, -1 current moves, rot 3, 0
+0
+best score, score -6.927628500000001, -9.027989499999999 best moves, rot -2, -1 current moves, rot -4, 1
+0
+best score, score -6.927628500000001, -9.397757499999999 best moves, rot -2, -1 current moves, rot -3, 1
+0
+best score, score -6.927628500000001, -8.660623499999998 best moves, rot -2, -1 current moves, rot -2, 1
+0
+best score, score -6.927628500000001, -11.6304795 best moves, rot -2, -1 current moves, rot -1, 1
+0
+best score, score -6.927628500000001, -9.031188999999998 best moves, rot -2, -1 current moves, rot 0, 1
+0
+best score, score -6.927628500000001, -12.001045500000002 best moves, rot -2, -1 current moves, rot 1, 1
+0
+best score, score -6.927628500000001, -514.6019335 best moves, rot -2, -1 current moves, rot 2, 1
+0
+best score, score -6.927628500000001, -408.29565849999994 best moves, rot -2, -1 current moves, rot 3, 1
+0
+best score, score -6.927628500000001, -9.212475 best moves, rot -2, -1 current moves, rot -4, 2
+0
+best score, score -6.927628500000001, -9.766725 best moves, rot -2, -1 current moves, rot -3, 2
+0
+best score, score -6.927628500000001, -9.767525 best moves, rot -2, -1 current moves, rot -2, 2
+0
+best score, score -6.927628500000001, -8.661420999999999 best moves, rot -2, -1 current moves, rot -1, 2
+0
+best score, score -6.927628500000001, -12.369213 best moves, rot -2, -1 current moves, rot 0, 2
+0
+best score, score -6.927628500000001, -9.769925 best moves, rot -2, -1 current moves, rot 1, 2
+0
+best score, score -6.927628500000001, -8.166095 best moves, rot -2, -1 current moves, rot 2, 2
+0
+best score, score -6.927628500000001, -308.66462499999994 best moves, rot -2, -1 current moves, rot 3, 2
+0
+best score, score -6.927628500000001, -609.218873 best moves, rot -2, -1 current moves, rot 4, 2
+0
+best score, score -7.232301999999999, -11.812391000000002 best moves, rot -5, 1 current moves, rot -1, 2
+0
+best score, score -1e+24, -7.480280500000001 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -7.480280500000001, -7.6655645 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -7.480280500000001, -7.6663645 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -7.480280500000001, -6.929228500000001 best moves, rot -4, -1 current moves, rot -1, -1
+0
+best score, score -6.929228500000001, -12.8681415 best moves, rot -1, -1 current moves, rot 0, -1
+0
+best score, score -6.929228500000001, -10.268852999999998 best moves, rot -1, -1 current moves, rot 1, -1
+0
+best score, score -6.929228500000001, -510.26965299999995 best moves, rot -1, -1 current moves, rot 2, -1
+0
+best score, score -6.929228500000001, -911.9481245000001 best moves, rot -1, -1 current moves, rot 3, -1
+0
+best score, score -6.929228500000001, -7.479480500000001 best moves, rot -1, -1 current moves, rot -5, 0
+0
+best score, score -6.929228500000001, -8.033732500000001 best moves, rot -1, -1 current moves, rot -4, 0
+0
+best score, score -6.929228500000001, -8.034532500000001 best moves, rot -1, -1 current moves, rot -3, 0
+0
+best score, score -6.929228500000001, -8.0353325 best moves, rot -1, -1 current moves, rot -2, 0
+0
+best score, score -6.929228500000001, -7.6671645 best moves, rot -1, -1 current moves, rot -1, 0
+0
+best score, score -6.929228500000001, -10.637020999999999 best moves, rot -1, -1 current moves, rot 0, 0
+0
+best score, score -6.929228500000001, -8.0377325 best moves, rot -1, -1 current moves, rot 1, 0
+0
+best score, score -6.929228500000001, -410.638621 best moves, rot -1, -1 current moves, rot 2, 0
+0
+best score, score -6.929228500000001, -406.74794849999995 best moves, rot -1, -1 current moves, rot 3, 0
+0
+best score, score -6.929228500000001, -9.028789499999998 best moves, rot -1, -1 current moves, rot -4, 1
+0
+best score, score -6.929228500000001, -9.398557499999999 best moves, rot -1, -1 current moves, rot -3, 1
+0
+best score, score -6.929228500000001, -9.399357499999999 best moves, rot -1, -1 current moves, rot -2, 1
+0
+best score, score -6.929228500000001, -8.662223499999998 best moves, rot -1, -1 current moves, rot -1, 1
+0
+best score, score -6.929228500000001, -11.632079500000001 best moves, rot -1, -1 current moves, rot 0, 1
+0
+best score, score -6.929228500000001, -9.032789 best moves, rot -1, -1 current moves, rot 1, 1
+0
+best score, score -6.929228500000001, -512.0026455 best moves, rot -1, -1 current moves, rot 2, 1
+0
+best score, score -6.929228500000001, -1013.6811175 best moves, rot -1, -1 current moves, rot 3, 1
+0
+best score, score -6.929228500000001, -9.213275 best moves, rot -1, -1 current moves, rot -4, 2
+0
+best score, score -6.929228500000001, -9.767525 best moves, rot -1, -1 current moves, rot -3, 2
+0
+best score, score -6.929228500000001, -9.768324999999999 best moves, rot -1, -1 current moves, rot -2, 2
+0
+best score, score -6.929228500000001, -9.769124999999999 best moves, rot -1, -1 current moves, rot -1, 2
+0
+best score, score -6.929228500000001, -8.663021 best moves, rot -1, -1 current moves, rot 0, 2
+0
+best score, score -6.929228500000001, -12.370813000000002 best moves, rot -1, -1 current moves, rot 1, 2
+0
+best score, score -6.929228500000001, -9.771525 best moves, rot -1, -1 current moves, rot 2, 2
+0
+best score, score -6.929228500000001, -408.1676949999999 best moves, rot -1, -1 current moves, rot 3, 2
+0
+best score, score -6.929228500000001, -608.112773 best moves, rot -1, -1 current moves, rot 4, 2
+0
+best score, score -7.232301999999999, -11.814791 best moves, rot -5, 1 current moves, rot 0, 2
+0
+best score, score -1e+24, -307.48108049999996 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -307.48108049999996, -307.6663645 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -307.48108049999996, -307.66716449999996 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -307.48108049999996, -307.6679645 best moves, rot -4, -1 current moves, rot -1, -1
+0
+best score, score -307.48108049999996, -306.93082849999996 best moves, rot -4, -1 current moves, rot 0, -1
+0
+best score, score -306.93082849999996, -312.8697415 best moves, rot 0, -1 current moves, rot 1, -1
+0
+best score, score -306.93082849999996, -510.2704529999999 best moves, rot 0, -1 current moves, rot 2, -1
+0
+best score, score -306.93082849999996, -909.3488359999999 best moves, rot 0, -1 current moves, rot 3, -1
+0
+best score, score -306.93082849999996, -307.48028049999994 best moves, rot 0, -1 current moves, rot -5, 0
+0
+best score, score -306.93082849999996, -308.0345325 best moves, rot 0, -1 current moves, rot -4, 0
+0
+best score, score -306.93082849999996, -308.03533250000004 best moves, rot 0, -1 current moves, rot -3, 0
+0
+best score, score -306.93082849999996, -308.0361325 best moves, rot 0, -1 current moves, rot -2, 0
+0
+best score, score -306.93082849999996, -308.03693250000003 best moves, rot 0, -1 current moves, rot -1, 0
+0
+best score, score -306.93082849999996, -307.66876449999995 best moves, rot 0, -1 current moves, rot 0, 0
+0
+best score, score -306.93082849999996, -310.638621 best moves, rot 0, -1 current moves, rot 1, 0
+0
+best score, score -306.93082849999996, -408.0393325 best moves, rot 0, -1 current moves, rot 2, 0
+0
+best score, score -306.93082849999996, -1009.9022879999999 best moves, rot 0, -1 current moves, rot 3, 0
+0
+best score, score -306.93082849999996, -309.02958949999993 best moves, rot 0, -1 current moves, rot -4, 1
+0
+best score, score -306.93082849999996, -309.39935749999995 best moves, rot 0, -1 current moves, rot -3, 1
+0
+best score, score -306.93082849999996, -309.4001574999999 best moves, rot 0, -1 current moves, rot -2, 1
+0
+best score, score -306.93082849999996, -309.40095749999995 best moves, rot 0, -1 current moves, rot -1, 1
+0
+best score, score -306.93082849999996, -308.6638234999999 best moves, rot 0, -1 current moves, rot 0, 1
+0
+best score, score -306.93082849999996, -311.63367949999997 best moves, rot 0, -1 current moves, rot 1, 1
+0
+best score, score -306.93082849999996, -409.0343889999999 best moves, rot 0, -1 current moves, rot 2, 1
+0
+best score, score -306.93082849999996, -1011.0818294999999 best moves, rot 0, -1 current moves, rot 3, 1
+0
+best score, score -306.93082849999996, -309.2140749999999 best moves, rot 0, -1 current moves, rot -4, 2
+0
+best score, score -306.93082849999996, -309.768325 best moves, rot 0, -1 current moves, rot -3, 2
+0
+best score, score -306.93082849999996, -309.769125 best moves, rot 0, -1 current moves, rot -2, 2
+0
+best score, score -306.93082849999996, -309.769925 best moves, rot 0, -1 current moves, rot -1, 2
+0
+best score, score -306.93082849999996, -309.77072499999997 best moves, rot 0, -1 current moves, rot 0, 2
+0
+best score, score -306.93082849999996, -308.66462099999995 best moves, rot 0, -1 current moves, rot 1, 2
+0
+best score, score -306.93082849999996, -312.372413 best moves, rot 0, -1 current moves, rot 2, 2
+0
+best score, score -306.93082849999996, -609.7731249999999 best moves, rot 0, -1 current moves, rot 3, 2
+0
+best score, score -306.93082849999996, -807.4313599999999 best moves, rot 0, -1 current moves, rot 4, 2
+0
+best score, score -7.232301999999999, -611.817191 best moves, rot -5, 1 current moves, rot 1, 2
+0
+best score, score -1e+24, -606.9284305 best moves, rot 0, 0 current moves, rot -4, -1
+0
+best score, score -606.9284305, -607.1137145 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -606.9284305, -607.1145144999999 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -606.9284305, -607.1153145 best moves, rot -4, -1 current moves, rot -1, -1
+0
+best score, score -606.9284305, -607.1161145 best moves, rot -4, -1 current moves, rot 0, -1
+0
+best score, score -606.9284305, -606.3789785 best moves, rot -4, -1 current moves, rot 1, -1
+0
+best score, score -606.3789785, -812.3178915 best moves, rot 1, -1 current moves, rot 2, -1
+0
+best score, score -606.3789785, -909.3496349999999 best moves, rot 1, -1 current moves, rot 3, -1
+0
+best score, score -606.3789785, -606.9276305 best moves, rot 1, -1 current moves, rot -5, 0
+0
+best score, score -606.3789785, -607.4818825 best moves, rot 1, -1 current moves, rot -4, 0
+0
+best score, score -606.3789785, -607.4826825 best moves, rot 1, -1 current moves, rot -3, 0
+0
+best score, score -606.3789785, -607.4834824999999 best moves, rot 1, -1 current moves, rot -2, 0
+0
+best score, score -606.3789785, -607.4842825 best moves, rot 1, -1 current moves, rot -1, 0
+0
+best score, score -606.3789785, -607.4850825 best moves, rot 1, -1 current moves, rot 0, 0
+0
+best score, score -606.3789785, -607.1169145 best moves, rot 1, -1 current moves, rot 1, 0
+0
+best score, score -606.3789785, -710.0867709999999 best moves, rot 1, -1 current moves, rot 2, 0
+0
+best score, score -606.3789785, -1007.3029985 best moves, rot 1, -1 current moves, rot 3, 0
+0
+best score, score -606.3789785, -608.4769395000001 best moves, rot 1, -1 current moves, rot -4, 1
+0
+best score, score -606.3789785, -608.8467075000001 best moves, rot 1, -1 current moves, rot -3, 1
+0
+best score, score -606.3789785, -608.8475075 best moves, rot 1, -1 current moves, rot -2, 1
+0
+best score, score -606.3789785, -608.8483075 best moves, rot 1, -1 current moves, rot -1, 1
+0
+best score, score -606.3789785, -608.8491075000001 best moves, rot 1, -1 current moves, rot 0, 1
+0
+best score, score -606.3789785, -608.1119735000001 best moves, rot 1, -1 current moves, rot 1, 1
+0
+best score, score -606.3789785, -711.0818294999999 best moves, rot 1, -1 current moves, rot 2, 1
+0
+best score, score -606.3789785, -808.298055 best moves, rot 1, -1 current moves, rot 3, 1
+0
+best score, score -606.3789785, -608.661425 best moves, rot 1, -1 current moves, rot -4, 2
+0
+best score, score -606.3789785, -609.215675 best moves, rot 1, -1 current moves, rot -3, 2
+0
+best score, score -606.3789785, -609.216475 best moves, rot 1, -1 current moves, rot -2, 2
+0
+best score, score -606.3789785, -609.217275 best moves, rot 1, -1 current moves, rot -1, 2
+0
+best score, score -606.3789785, -609.218075 best moves, rot 1, -1 current moves, rot 0, 2
+0
+best score, score -606.3789785, -609.218875 best moves, rot 1, -1 current moves, rot 1, 2
+0
+best score, score -606.3789785, -608.112771 best moves, rot 1, -1 current moves, rot 2, 2
+0
+best score, score -606.3789785, -911.8205629999999 best moves, rot 1, -1 current moves, rot 3, 2
+0
+best score, score -606.3789785, -1208.667823 best moves, rot 1, -1 current moves, rot 4, 2
+0
+best score, score -7.232301999999999, -1210.7126910000002 best moves, rot -5, 1 current moves, rot 2, 2
+0
+best score, score -1e+24, -12.058544500000002 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -12.058544500000002, -11.192647000000001 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -11.192647000000001, -12.557875500000002 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -11.192647000000001, -13.425371500000002 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -11.192647000000001, -12.061743500000002 best moves, rot -4, -1 current moves, rot -1, -1
+0
+best score, score -11.192647000000001, -12.929241500000002 best moves, rot -4, -1 current moves, rot 0, -1
+0
+best score, score -11.192647000000001, -211.6943775 best moves, rot -4, -1 current moves, rot 1, -1
+0
+best score, score -11.192647000000001, -412.06414349999994 best moves, rot -4, -1 current moves, rot 2, -1
+0
+best score, score -11.192647000000001, -10.878202499999999 best moves, rot -4, -1 current moves, rot -5, 0
+0
+best score, score -10.878202499999999, -11.063486499999998 best moves, rot -5, 0 current moves, rot -4, 0
+0
+best score, score -10.878202499999999, -12.797679 best moves, rot -5, 0 current moves, rot -3, 0
+0
+best score, score -10.878202499999999, -10.327150499999998 best moves, rot -5, 0 current moves, rot -2, 0
+0
+best score, score -10.327150499999998, -11.932583000000001 best moves, rot -2, 0 current moves, rot -1, 0
+0
+best score, score -10.327150499999998, -12.800079000000002 best moves, rot -2, 0 current moves, rot 0, 0
+0
+best score, score -10.327150499999998, -10.6985185 best moves, rot -2, 0 current moves, rot 1, 0
+0
+best score, score -10.327150499999998, -311.0682865 best moves, rot -2, 0 current moves, rot 2, 0
+0
+best score, score -10.327150499999998, -410.5156345 best moves, rot -2, 0 current moves, rot 3, 0
+0
+best score, score -10.327150499999998, -10.324750499999999 best moves, rot -2, 0 current moves, rot -5, 1
+0
+best score, score -10.324750499999999, -12.427911000000002 best moves, rot -5, 1 current moves, rot -4, 1
+0
+best score, score -10.324750499999999, -13.7931375 best moves, rot -5, 1 current moves, rot -3, 1
+0
+best score, score -10.324750499999999, -11.691577500000003 best moves, rot -5, 1 current moves, rot -2, 1
+0
+best score, score -10.324750499999999, -13.297007500000003 best moves, rot -5, 1 current moves, rot -1, 1
+0
+best score, score -10.324750499999999, -14.164503500000002 best moves, rot -5, 1 current moves, rot 0, 1
+0
+best score, score -10.324750499999999, -109.9605825 best moves, rot -5, 1 current moves, rot 1, 1
+0
+best score, score -10.324750499999999, -210.5148345 best moves, rot -5, 1 current moves, rot 2, 1
+0
+best score, score -10.324750499999999, -12.242227000000002 best moves, rot -5, 1 current moves, rot -6, 2
+0
+best score, score -10.324750499999999, -12.796479000000001 best moves, rot -5, 1 current moves, rot -5, 2
+0
+best score, score -10.324750499999999, -14.530671 best moves, rot -5, 1 current moves, rot -4, 2
+0
+best score, score -10.324750499999999, -11.691177000000003 best moves, rot -5, 1 current moves, rot -3, 2
+0
+best score, score -10.324750499999999, -11.563215000000001 best moves, rot -5, 1 current moves, rot -2, 2
+0
+best score, score -10.324750499999999, -14.533071 best moves, rot -5, 1 current moves, rot -1, 2
+0
+best score, score -10.324750499999999, -12.062543000000002 best moves, rot -5, 1 current moves, rot 0, 2
+0
+best score, score -10.324750499999999, -312.801279 best moves, rot -5, 1 current moves, rot 1, 2
+0
+best score, score -10.324750499999999, -612.2486289999999 best moves, rot -5, 1 current moves, rot 2, 2
+0
+best score, score -1e+24, -18.239666999999997 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -1e+24, -13.792738 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -13.792738, -13.480292 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -13.480292, -11.876461500000003 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -11.876461500000003, -12.7439595 best moves, rot -3, -1 current moves, rot -2, -1
+0
+best score, score -11.876461500000003, -12.37579 best moves, rot -3, -1 current moves, rot -1, -1
+0
+best score, score -11.876461500000003, -13.981221999999999 best moves, rot -3, -1 current moves, rot 0, -1
+0
+best score, score -11.876461500000003, -212.74635800000001 best moves, rot -3, -1 current moves, rot 1, -1
+0
+best score, score -11.876461500000003, -413.11612399999996 best moves, rot -3, -1 current moves, rot 2, -1
+0
+best score, score -11.876461500000003, -12.612396500000001 best moves, rot -3, -1 current moves, rot -5, 0
+0
+best score, score -11.876461500000003, -12.115467 best moves, rot -3, -1 current moves, rot -4, 0
+0
+best score, score -11.876461500000003, -12.116267 best moves, rot -3, -1 current moves, rot -3, 0
+0
+best score, score -11.876461500000003, -13.481493500000003 best moves, rot -3, -1 current moves, rot -2, 0
+0
+best score, score -11.876461500000003, -12.246629500000003 best moves, rot -3, -1 current moves, rot -1, 0
+0
+best score, score -11.876461500000003, -13.852059500000003 best moves, rot -3, -1 current moves, rot 0, 0
+0
+best score, score -11.876461500000003, -11.750499000000001 best moves, rot -3, -1 current moves, rot 1, 0
+0
+best score, score -11.750499000000001, -312.120267 best moves, rot 1, 0 current moves, rot 2, 0
+0
+best score, score -11.750499000000001, -411.567615 best moves, rot 1, 0 current moves, rot 3, 0
+0
+best score, score -11.750499000000001, -12.0589445 best moves, rot 1, 0 current moves, rot -5, 1
+0
+best score, score -11.750499000000001, -11.746499 best moves, rot 1, 0 current moves, rot -4, 1
+0
+best score, score -11.746499, -13.1117255 best moves, rot -4, 1 current moves, rot -3, 1
+0
+best score, score -11.746499, -13.979222 best moves, rot -4, 1 current moves, rot -2, 1
+0
+best score, score -11.746499, -13.611054000000001 best moves, rot -4, 1 current moves, rot -1, 1
+0
+best score, score -11.746499, -15.216484000000001 best moves, rot -4, 1 current moves, rot 0, 1
+0
+best score, score -11.746499, -111.01256300000001 best moves, rot -4, 1 current moves, rot 1, 1
+0
+best score, score -11.746499, -211.566815 best moves, rot -4, 1 current moves, rot 2, 1
+0
+best score, score -11.746499, -12.058543500000003 best moves, rot -4, 1 current moves, rot -6, 2
+0
+best score, score -11.746499, -13.848459500000002 best moves, rot -4, 1 current moves, rot -5, 2
+0
+best score, score -11.746499, -13.849259500000002 best moves, rot -4, 1 current moves, rot -4, 2
+0
+best score, score -11.746499, -15.214485500000002 best moves, rot -4, 1 current moves, rot -3, 2
+0
+best score, score -11.746499, -11.877259500000003 best moves, rot -4, 1 current moves, rot -2, 2
+0
+best score, score -11.746499, -15.585051500000002 best moves, rot -4, 1 current moves, rot -1, 2
+0
+best score, score -11.746499, -13.1145235 best moves, rot -4, 1 current moves, rot 0, 2
+0
+best score, score -11.746499, -313.8532595 best moves, rot -4, 1 current moves, rot 1, 2
+0
+best score, score -11.746499, -613.3006095 best moves, rot -4, 1 current moves, rot 2, 2
+0
+best score, score -18.239666999999997, -20.713396000000003 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -1e+24, -15.157962000000003 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -15.157962000000003, -14.845516 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -14.845516, -13.48189 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -13.48189, -11.380329 best moves, rot -3, -1 current moves, rot -2, -1
+0
+best score, score -11.380329, -13.981219999999999 best moves, rot -2, -1 current moves, rot -1, -1
+0
+best score, score -11.380329, -13.613052 best moves, rot -2, -1 current moves, rot 0, -1
+0
+best score, score -11.380329, -212.74715600000005 best moves, rot -2, -1 current moves, rot 1, -1
+0
+best score, score -11.380329, -413.11692199999993 best moves, rot -2, -1 current moves, rot 2, -1
+0
+best score, score -11.380329, -12.059743500000002 best moves, rot -2, -1 current moves, rot -5, 0
+0
+best score, score -11.380329, -13.4806915 best moves, rot -2, -1 current moves, rot -4, 0
+0
+best score, score -11.380329, -12.117065000000002 best moves, rot -2, -1 current moves, rot -3, 0
+0
+best score, score -11.380329, -12.117865000000002 best moves, rot -2, -1 current moves, rot -2, 0
+0
+best score, score -11.380329, -12.985361500000003 best moves, rot -2, -1 current moves, rot -1, 0
+0
+best score, score -11.380329, -13.483889500000002 best moves, rot -2, -1 current moves, rot 0, 0
+0
+best score, score -11.380329, -11.751297000000001 best moves, rot -2, -1 current moves, rot 1, 0
+0
+best score, score -11.380329, -312.12106500000004 best moves, rot -2, -1 current moves, rot 2, 0
+0
+best score, score -11.380329, -411.56841299999996 best moves, rot -2, -1 current moves, rot 3, 0
+0
+best score, score -11.380329, -13.424169 best moves, rot -2, -1 current moves, rot -5, 1
+0
+best score, score -11.380329, -13.1117235 best moves, rot -2, -1 current moves, rot -4, 1
+0
+best score, score -11.380329, -11.748097000000001 best moves, rot -2, -1 current moves, rot -3, 1
+0
+best score, score -11.380329, -12.615593500000003 best moves, rot -2, -1 current moves, rot -2, 1
+0
+best score, score -11.380329, -15.216482000000001 best moves, rot -2, -1 current moves, rot -1, 1
+0
+best score, score -11.380329, -14.848314 best moves, rot -2, -1 current moves, rot 0, 1
+0
+best score, score -11.380329, -111.01336100000002 best moves, rot -2, -1 current moves, rot 1, 1
+0
+best score, score -11.380329, -211.567613 best moves, rot -2, -1 current moves, rot 2, 1
+0
+best score, score -11.380329, -13.423769500000002 best moves, rot -2, -1 current moves, rot -6, 2
+0
+best score, score -11.380329, -11.008963000000001 best moves, rot -2, -1 current moves, rot -5, 2
+0
+best score, score -11.008963000000001, -13.850057500000002 best moves, rot -5, 2 current moves, rot -4, 2
+0
+best score, score -11.008963000000001, -13.850857500000002 best moves, rot -5, 2 current moves, rot -3, 2
+0
+best score, score -11.008963000000001, -14.718353500000001 best moves, rot -5, 2 current moves, rot -2, 2
+0
+best score, score -11.008963000000001, -15.216881500000001 best moves, rot -5, 2 current moves, rot -1, 2
+0
+best score, score -11.008963000000001, -13.1153215 best moves, rot -5, 2 current moves, rot 0, 2
+0
+best score, score -11.008963000000001, -313.8540575 best moves, rot -5, 2 current moves, rot 1, 2
+0
+best score, score -11.008963000000001, -613.3014075 best moves, rot -5, 2 current moves, rot 2, 2
+0
+best score, score -18.239666999999997, -19.976658000000004 best moves, rot -5, -1 current moves, rot -3, -1
+0
+best score, score -1e+24, -13.425371500000002 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -13.425371500000002, -20.415460000000003 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -13.425371500000002, -18.185138000000006 best moves, rot -5, -1 current moves, rot -3, -1
+0
+best score, score -13.425371500000002, -15.58585 best moves, rot -5, -1 current moves, rot -2, -1
+0
+best score, score -13.425371500000002, -16.084377500000002 best moves, rot -5, -1 current moves, rot -1, -1
+0
+best score, score -13.425371500000002, -19.551963999999998 best moves, rot -5, -1 current moves, rot 0, -1
+0
+best score, score -13.425371500000002, -214.85031600000002 best moves, rot -5, -1 current moves, rot 1, -1
+0
+best score, score -13.425371500000002, -415.22008199999993 best moves, rot -5, -1 current moves, rot 2, -1
+0
+best score, score -13.425371500000002, -14.9008375 best moves, rot -5, -1 current moves, rot -5, 0
+0
+best score, score -13.425371500000002, -12.743557000000001 best moves, rot -5, -1 current moves, rot -4, 0
+0
+best score, score -12.743557000000001, -16.8203135 best moves, rot -4, 0 current moves, rot -3, 0
+0
+best score, score -12.743557000000001, -14.221025000000003 best moves, rot -4, 0 current moves, rot -2, 0
+0
+best score, score -12.743557000000001, -14.221825000000003 best moves, rot -4, 0 current moves, rot -1, 0
+0
+best score, score -12.743557000000001, -17.6894095 best moves, rot -4, 0 current moves, rot 0, 0
+0
+best score, score -12.743557000000001, -13.854457000000002 best moves, rot -4, 0 current moves, rot 1, 0
+0
+best score, score -12.743557000000001, -314.224225 best moves, rot -4, 0 current moves, rot 2, 0
+0
+best score, score -12.743557000000001, -413.67157299999997 best moves, rot -4, 0 current moves, rot 3, 0
+0
+best score, score -12.743557000000001, -14.47615 best moves, rot -4, 0 current moves, rot -5, 1
+0
+best score, score -12.743557000000001, -18.681668000000002 best moves, rot -4, 0 current moves, rot -4, 1
+0
+best score, score -12.743557000000001, -16.451345500000002 best moves, rot -4, 0 current moves, rot -3, 1
+0
+best score, score -12.743557000000001, -13.852057000000002 best moves, rot -4, 0 current moves, rot -2, 1
+0
+best score, score -12.743557000000001, -17.3196415 best moves, rot -4, 0 current moves, rot -1, 1
+0
+best score, score -12.743557000000001, -20.787226000000004 best moves, rot -4, 0 current moves, rot 0, 1
+0
+best score, score -12.743557000000001, -113.11652099999999 best moves, rot -4, 0 current moves, rot 1, 1
+0
+best score, score -12.743557000000001, -213.67077300000003 best moves, rot -4, 0 current moves, rot 2, 1
+0
+best score, score -12.743557000000001, -16.264861500000002 best moves, rot -4, 0 current moves, rot -6, 2
+0
+best score, score -12.743557000000001, -14.476549500000003 best moves, rot -4, 0 current moves, rot -5, 2
+0
+best score, score -12.743557000000001, -14.3485875 best moves, rot -4, 0 current moves, rot -4, 2
+0
+best score, score -12.743557000000001, -15.954017500000003 best moves, rot -4, 0 current moves, rot -3, 2
+0
+best score, score -12.743557000000001, -15.954817500000003 best moves, rot -4, 0 current moves, rot -2, 2
+0
+best score, score -12.743557000000001, -19.4224015 best moves, rot -4, 0 current moves, rot -1, 2
+0
+best score, score -12.743557000000001, -14.8495135 best moves, rot -4, 0 current moves, rot 0, 2
+0
+best score, score -12.743557000000001, -315.95721749999996 best moves, rot -4, 0 current moves, rot 1, 2
+0
+best score, score -12.743557000000001, -615.4045675 best moves, rot -4, 0 current moves, rot 2, 2
+0
+best score, score -18.239666999999997, -23.814412 best moves, rot -5, -1 current moves, rot -2, -1
+0
+best score, score -1e+24, -12.061743500000002 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -12.061743500000002, -12.37579 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -12.061743500000002, -16.950273999999997 best moves, rot -5, -1 current moves, rot -3, -1
+0
+best score, score -12.061743500000002, -15.217682 best moves, rot -5, -1 current moves, rot -2, -1
+0
+best score, score -12.061743500000002, -13.48509 best moves, rot -5, -1 current moves, rot -1, -1
+0
+best score, score -12.061743500000002, -13.1169215 best moves, rot -5, -1 current moves, rot 0, -1
+0
+best score, score -12.061743500000002, -415.717812 best moves, rot -5, -1 current moves, rot 1, -1
+0
+best score, score -12.061743500000002, -412.38058799999993 best moves, rot -5, -1 current moves, rot 2, -1
+0
+best score, score -12.061743500000002, -12.799277500000004 best moves, rot -5, -1 current moves, rot -5, 0
+0
+best score, score -12.061743500000002, -11.748897000000001 best moves, rot -5, -1 current moves, rot -4, 0
+0
+best score, score -11.748897000000001, -11.380731 best moves, rot -4, 0 current moves, rot -3, 0
+0
+best score, score -11.380731, -13.852857500000002 best moves, rot -3, 0 current moves, rot -2, 0
+0
+best score, score -11.380731, -12.120265000000002 best moves, rot -3, 0 current moves, rot -1, 0
+0
+best score, score -11.380731, -12.121065000000002 best moves, rot -3, 0 current moves, rot 0, 0
+0
+best score, score -11.380731, -14.721953500000001 best moves, rot -3, 0 current moves, rot 1, 0
+0
+best score, score -11.380731, -311.75369900000004 best moves, rot -3, 0 current moves, rot 2, 0
+0
+best score, score -11.380731, -411.57001299999996 best moves, rot -3, 0 current moves, rot 3, 0
+0
+best score, score -11.380731, -13.112522 best moves, rot -3, 0 current moves, rot -5, 1
+0
+best score, score -11.380731, -11.010963000000002 best moves, rot -3, 0 current moves, rot -4, 1
+0
+best score, score -11.010963000000002, -15.216482000000001 best moves, rot -4, 1 current moves, rot -3, 1
+0
+best score, score -11.010963000000002, -13.483889500000002 best moves, rot -4, 1 current moves, rot -2, 1
+0
+best score, score -11.010963000000002, -11.751297000000001 best moves, rot -4, 1 current moves, rot -1, 1
+0
+best score, score -11.010963000000002, -14.352185500000001 best moves, rot -4, 1 current moves, rot 0, 1
+0
+best score, score -11.010963000000002, -416.95307399999996 best moves, rot -4, 1 current moves, rot 1, 1
+0
+best score, score -11.010963000000002, -210.831279 best moves, rot -4, 1 current moves, rot 2, 1
+0
+best score, score -11.010963000000002, -14.163301500000001 best moves, rot -4, 1 current moves, rot -6, 2
+0
+best score, score -11.010963000000002, -13.481889500000001 best moves, rot -4, 1 current moves, rot -5, 2
+0
+best score, score -11.010963000000002, -13.113725500000001 best moves, rot -4, 1 current moves, rot -4, 2
+0
+best score, score -11.010963000000002, -11.381131 best moves, rot -4, 1 current moves, rot -3, 2
+0
+best score, score -11.010963000000002, -13.853257500000002 best moves, rot -4, 1 current moves, rot -2, 2
+0
+best score, score -11.010963000000002, -13.854057500000001 best moves, rot -4, 1 current moves, rot -1, 2
+0
+best score, score -11.010963000000002, -16.454945500000004 best moves, rot -4, 1 current moves, rot 0, 2
+0
+best score, score -11.010963000000002, -312.74875549999996 best moves, rot -4, 1 current moves, rot 1, 2
+0
+best score, score -11.010963000000002, -613.3030075 best moves, rot -4, 1 current moves, rot 2, 2
+0
+best score, score -18.239666999999997, -19.980258000000006 best moves, rot -5, -1 current moves, rot -1, -1
+0
+best score, score -1e+24, -12.929241500000002 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -12.929241500000002, -13.981221999999999 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -12.929241500000002, -13.613052 best moves, rot -5, -1 current moves, rot -3, -1
+0
+best score, score -12.929241500000002, -17.818572000000003 best moves, rot -5, -1 current moves, rot -2, -1
+0
+best score, score -12.929241500000002, -16.085980000000003 best moves, rot -5, -1 current moves, rot -1, -1
+0
+best score, score -12.929241500000002, -14.353387999999999 best moves, rot -5, -1 current moves, rot 0, -1
+0
+best score, score -12.929241500000002, -413.9852194999999 best moves, rot -5, -1 current moves, rot 1, -1
+0
+best score, score -12.929241500000002, -815.8481759999999 best moves, rot -5, -1 current moves, rot 2, -1
+0
+best score, score -12.929241500000002, -13.666775500000002 best moves, rot -5, -1 current moves, rot -5, 0
+0
+best score, score -12.929241500000002, -12.616395000000002 best moves, rot -5, -1 current moves, rot -4, 0
+0
+best score, score -12.616395000000002, -12.986163000000003 best moves, rot -4, 0 current moves, rot -3, 0
+0
+best score, score -12.616395000000002, -12.249027000000002 best moves, rot -4, 0 current moves, rot -2, 0
+0
+best score, score -12.249027000000002, -14.721155500000002 best moves, rot -2, 0 current moves, rot -1, 0
+0
+best score, score -12.249027000000002, -12.988563000000003 best moves, rot -2, 0 current moves, rot 0, 0
+0
+best score, score -12.249027000000002, -12.989363000000003 best moves, rot -2, 0 current moves, rot 1, 0
+0
+best score, score -12.249027000000002, -615.5902515 best moves, rot -2, 0 current moves, rot 2, 0
+0
+best score, score -12.249027000000002, -412.068545 best moves, rot -2, 0 current moves, rot 3, 0
+0
+best score, score -12.249027000000002, -13.98002 best moves, rot -2, 0 current moves, rot -5, 1
+0
+best score, score -12.249027000000002, -12.247427000000002 best moves, rot -2, 0 current moves, rot -4, 1
+0
+best score, score -12.247427000000002, -12.248227000000002 best moves, rot -4, 1 current moves, rot -3, 1
+0
+best score, score -12.247427000000002, -16.084780000000002 best moves, rot -4, 1 current moves, rot -2, 1
+0
+best score, score -12.247427000000002, -14.352187500000001 best moves, rot -4, 1 current moves, rot -1, 1
+0
+best score, score -12.247427000000002, -12.619595000000002 best moves, rot -4, 1 current moves, rot 0, 1
+0
+best score, score -12.247427000000002, -415.2204835 best moves, rot -4, 1 current moves, rot 1, 1
+0
+best score, score -12.247427000000002, -817.083439 best moves, rot -4, 1 current moves, rot 2, 1
+0
+best score, score -12.247427000000002, -15.030799500000002 best moves, rot -4, 1 current moves, rot -6, 2
+0
+best score, score -12.247427000000002, -14.3493875 best moves, rot -4, 1 current moves, rot -5, 2
+0
+best score, score -12.247427000000002, -14.719155500000001 best moves, rot -4, 1 current moves, rot -4, 2
+0
+best score, score -12.247427000000002, -13.9820235 best moves, rot -4, 1 current moves, rot -3, 2
+0
+best score, score -12.247427000000002, -12.249427 best moves, rot -4, 1 current moves, rot -2, 2
+0
+best score, score -12.247427000000002, -14.721555500000001 best moves, rot -4, 1 current moves, rot -1, 2
+0
+best score, score -12.247427000000002, -14.7223555 best moves, rot -4, 1 current moves, rot 0, 2
+0
+best score, score -12.247427000000002, -617.3232435 best moves, rot -4, 1 current moves, rot 1, 2
+0
+best score, score -12.247427000000002, -613.0636034999999 best moves, rot -4, 1 current moves, rot 2, 2
+0
+best score, score -18.239666999999997, -22.084220000000002 best moves, rot -5, -1 current moves, rot 0, -1
+0
+best score, score -1e+24, -211.6943775 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -211.6943775, -212.74635800000001 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -211.6943775, -212.74715600000005 best moves, rot -5, -1 current moves, rot -3, -1
+0
+best score, score -211.6943775, -214.85031600000002 best moves, rot -5, -1 current moves, rot -2, -1
+0
+best score, score -211.6943775, -213.98442000000003 best moves, rot -5, -1 current moves, rot -1, -1
+0
+best score, score -211.6943775, -213.11852400000004 best moves, rot -5, -1 current moves, rot 0, -1
+0
+best score, score -211.6943775, -413.11932399999995 best moves, rot -5, -1 current moves, rot 1, -1
+0
+best score, score -211.6943775, -611.3310084999999 best moves, rot -5, -1 current moves, rot 2, -1
+0
+best score, score -211.6943775, -212.4319115 best moves, rot -5, -1 current moves, rot -5, 0
+0
+best score, score -211.6943775, -211.381531 best moves, rot -5, -1 current moves, rot -4, 0
+0
+best score, score -211.381531, -211.751299 best moves, rot -4, 0 current moves, rot -3, 0
+0
+best score, score -211.381531, -211.383131 best moves, rot -4, 0 current moves, rot -2, 0
+0
+best score, score -211.381531, -212.6195955 best moves, rot -4, 0 current moves, rot -1, 0
+0
+best score, score -211.381531, -211.75369899999998 best moves, rot -4, 0 current moves, rot 0, 0
+0
+best score, score -211.381531, -211.75449899999998 best moves, rot -4, 0 current moves, rot 1, 0
+0
+best score, score -211.381531, -511.75529900000004 best moves, rot -4, 0 current moves, rot 2, 0
+0
+best score, score -211.381531, -812.5670735 best moves, rot -4, 0 current moves, rot 3, 0
+0
+best score, score -211.381531, -212.74515600000004 best moves, rot -4, 0 current moves, rot -5, 1
+0
+best score, score -211.381531, -211.012563 best moves, rot -4, 0 current moves, rot -4, 1
+0
+best score, score -211.012563, -211.013363 best moves, rot -4, 1 current moves, rot -3, 1
+0
+best score, score -211.012563, -213.11652400000003 best moves, rot -4, 1 current moves, rot -2, 1
+0
+best score, score -211.012563, -212.2506275 best moves, rot -4, 1 current moves, rot -1, 1
+0
+best score, score -211.012563, -211.384731 best moves, rot -4, 1 current moves, rot 0, 1
+0
+best score, score -211.012563, -311.38553099999996 best moves, rot -4, 1 current moves, rot 1, 1
+0
+best score, score -211.012563, -612.5662735 best moves, rot -4, 1 current moves, rot 2, 1
+0
+best score, score -211.012563, -213.7959355 best moves, rot -4, 1 current moves, rot -6, 2
+0
+best score, score -211.012563, -213.11452350000002 best moves, rot -4, 1 current moves, rot -5, 2
+0
+best score, score -211.012563, -213.4842915 best moves, rot -4, 1 current moves, rot -4, 2
+0
+best score, score -211.012563, -213.11612550000004 best moves, rot -4, 1 current moves, rot -3, 2
+0
+best score, score -211.012563, -212.25022750000002 best moves, rot -4, 1 current moves, rot -2, 2
+0
+best score, score -211.012563, -213.48669150000003 best moves, rot -4, 1 current moves, rot -1, 2
+0
+best score, score -211.012563, -213.48749150000003 best moves, rot -4, 1 current moves, rot 0, 2
+0
+best score, score -211.012563, -513.4882915 best moves, rot -4, 1 current moves, rot 1, 2
+0
+best score, score -211.012563, -1014.3000675 best moves, rot -4, 1 current moves, rot 2, 2
+0
+best score, score -18.239666999999997, -419.61449200000004 best moves, rot -5, -1 current moves, rot 1, -1
+0
+best score, score -1e+24, -412.06414349999994 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -412.06414349999994, -413.11612399999996 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -412.06414349999994, -413.11692199999993 best moves, rot -5, -1 current moves, rot -3, -1
+0
+best score, score -412.06414349999994, -415.22008199999993 best moves, rot -5, -1 current moves, rot -2, -1
+0
+best score, score -412.06414349999994, -412.38058799999993 best moves, rot -5, -1 current moves, rot -1, -1
+0
+best score, score -412.06414349999994, -414.48374999999993 best moves, rot -5, -1 current moves, rot 0, -1
+0
+best score, score -412.06414349999994, -614.4845499999999 best moves, rot -5, -1 current moves, rot 1, -1
+0
+best score, score -412.06414349999994, -813.120922 best moves, rot -5, -1 current moves, rot 2, -1
+0
+best score, score -412.06414349999994, -412.8016774999999 best moves, rot -5, -1 current moves, rot -5, 0
+0
+best score, score -412.06414349999994, -411.75129699999997 best moves, rot -5, -1 current moves, rot -4, 0
+0
+best score, score -411.75129699999997, -412.12106500000004 best moves, rot -4, 0 current moves, rot -3, 0
+0
+best score, score -411.75129699999997, -411.75289699999996 best moves, rot -4, 0 current moves, rot -2, 0
+0
+best score, score -411.75129699999997, -412.98936150000003 best moves, rot -4, 0 current moves, rot -1, 0
+0
+best score, score -411.75129699999997, -413.1189255 best moves, rot -4, 0 current moves, rot 0, 0
+0
+best score, score -411.75129699999997, -413.1197255 best moves, rot -4, 0 current moves, rot 1, 0
+0
+best score, score -411.75129699999997, -712.125065 best moves, rot -4, 0 current moves, rot 2, 0
+0
+best score, score -411.75129699999997, -811.572413 best moves, rot -4, 0 current moves, rot 3, 0
+0
+best score, score -411.75129699999997, -413.1149219999999 best moves, rot -4, 0 current moves, rot -5, 1
+0
+best score, score -411.75129699999997, -411.38232899999997 best moves, rot -4, 0 current moves, rot -4, 1
+0
+best score, score -411.38232899999997, -411.383129 best moves, rot -4, 1 current moves, rot -3, 1
+0
+best score, score -411.38232899999997, -413.48628999999994 best moves, rot -4, 1 current moves, rot -2, 1
+0
+best score, score -411.38232899999997, -413.61585399999996 best moves, rot -4, 1 current moves, rot -1, 1
+0
+best score, score -411.38232899999997, -412.74995749999994 best moves, rot -4, 1 current moves, rot 0, 1
+0
+best score, score -411.38232899999997, -512.7507575 best moves, rot -4, 1 current moves, rot 1, 1
+0
+best score, score -411.38232899999997, -611.571613 best moves, rot -4, 1 current moves, rot 2, 1
+0
+best score, score -411.38232899999997, -414.16570149999995 best moves, rot -4, 1 current moves, rot -6, 2
+0
+best score, score -411.38232899999997, -413.48428949999993 best moves, rot -4, 1 current moves, rot -5, 2
+0
+best score, score -411.38232899999997, -413.8540575 best moves, rot -4, 1 current moves, rot -4, 2
+0
+best score, score -411.38232899999997, -413.4858915 best moves, rot -4, 1 current moves, rot -3, 2
+0
+best score, score -411.38232899999997, -412.61999349999996 best moves, rot -4, 1 current moves, rot -2, 2
+0
+best score, score -411.38232899999997, -414.85191749999996 best moves, rot -4, 1 current moves, rot -1, 2
+0
+best score, score -411.38232899999997, -410.647995 best moves, rot -4, 1 current moves, rot 0, 2
+0
+best score, score -410.647995, -713.8580575 best moves, rot 0, 2 current moves, rot 1, 2
+0
+best score, score -410.647995, -1013.3054075 best moves, rot 0, 2 current moves, rot 2, 2
+0
+best score, score -18.239666999999997, -819.61969 best moves, rot -5, -1 current moves, rot 2, -1
+0
+best score, score -1e+24, -14.8427155 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -14.8427155, -17.130359499999997 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -14.8427155, -12.059743500000002 best moves, rot -5, -1 current moves, rot -3, -1
+0
+best score, score -12.059743500000002, -14.9008375 best moves, rot -3, -1 current moves, rot -2, -1
+0
+best score, score -12.059743500000002, -12.799277500000004 best moves, rot -3, -1 current moves, rot -1, -1
+0
+best score, score -12.059743500000002, -13.666775500000002 best moves, rot -3, -1 current moves, rot 0, -1
+0
+best score, score -12.059743500000002, -212.4319115 best moves, rot -3, -1 current moves, rot 1, -1
+0
+best score, score -12.059743500000002, -412.8016774999999 best moves, rot -3, -1 current moves, rot 2, -1
+0
+best score, score -12.059743500000002, -12.980163000000003 best moves, rot -3, -1 current moves, rot -5, 0
+0
+best score, score -12.059743500000002, -15.267805 best moves, rot -3, -1 current moves, rot -4, 0
+0
+best score, score -12.059743500000002, -11.4328545 best moves, rot -3, -1 current moves, rot -3, 0
+0
+best score, score -11.4328545, -11.433652499999999 best moves, rot -3, 0 current moves, rot -2, 0
+0
+best score, score -11.4328545, -12.670117 best moves, rot -3, 0 current moves, rot -1, 0
+0
+best score, score -11.4328545, -13.537613 best moves, rot -3, 0 current moves, rot 0, 0
+0
+best score, score -11.4328545, -11.436052499999999 best moves, rot -3, 0 current moves, rot 1, 0
+0
+best score, score -11.4328545, -311.80582050000004 best moves, rot -3, 0 current moves, rot 2, 0
+0
+best score, score -11.4328545, -411.2531685 best moves, rot -3, 0 current moves, rot 3, 0
+0
+best score, score -11.4328545, -15.893495500000004 best moves, rot -3, 0 current moves, rot -5, 1
+0
+best score, score -11.4328545, -18.3656215 best moves, rot -3, 0 current moves, rot -4, 1
+0
+best score, score -11.4328545, -10.3259505 best moves, rot -3, 0 current moves, rot -3, 1
+0
+best score, score -10.3259505, -13.167045500000002 best moves, rot -3, 1 current moves, rot -2, 1
+0
+best score, score -10.3259505, -14.034541500000001 best moves, rot -3, 1 current moves, rot -1, 1
+0
+best score, score -10.3259505, -14.9020375 best moves, rot -3, 1 current moves, rot 0, 1
+0
+best score, score -10.3259505, -110.69811650000001 best moves, rot -3, 1 current moves, rot 1, 1
+0
+best score, score -10.3259505, -211.2523685 best moves, rot -3, 1 current moves, rot 2, 1
+0
+best score, score -10.3259505, -10.508432499999998 best moves, rot -3, 1 current moves, rot -6, 2
+0
+best score, score -10.3259505, -17.000797000000002 best moves, rot -3, 1 current moves, rot -5, 2
+0
+best score, score -10.3259505, -12.427911000000002 best moves, rot -3, 1 current moves, rot -4, 2
+0
+best score, score -10.3259505, -13.166647000000001 best moves, rot -3, 1 current moves, rot -3, 2
+0
+best score, score -10.3259505, -12.300749 best moves, rot -3, 1 current moves, rot -2, 2
+0
+best score, score -10.3259505, -15.270605 best moves, rot -3, 1 current moves, rot -1, 2
+0
+best score, score -10.3259505, -12.800077000000003 best moves, rot -3, 1 current moves, rot 0, 2
+0
+best score, score -10.3259505, -313.538813 best moves, rot -3, 1 current moves, rot 1, 2
+0
+best score, score -10.3259505, -612.9861629999999 best moves, rot -3, 1 current moves, rot 2, 2
+0
+best score, score -18.239666999999997, -18.978400999999998 best moves, rot -5, -1 current moves, rot -5, 0
+0
+best score, score -1e+24, -14.843516000000001 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -14.843516000000001, -13.479889 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -13.479889, -13.978420999999999 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -13.479889, -12.743557000000001 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -12.743557000000001, -11.748897000000001 best moves, rot -2, -1 current moves, rot -1, -1
+0
+best score, score -11.748897000000001, -12.616395000000002 best moves, rot -1, -1 current moves, rot 0, -1
+0
+best score, score -11.748897000000001, -211.381531 best moves, rot -1, -1 current moves, rot 1, -1
+0
+best score, score -11.748897000000001, -411.75129699999997 best moves, rot -1, -1 current moves, rot 2, -1
+0
+best score, score -11.748897000000001, -9.82742 best moves, rot -1, -1 current moves, rot -5, 0
+0
+best score, score -9.82742, -12.484032500000001 best moves, rot -5, 0 current moves, rot -4, 0
+0
+best score, score -9.82742, -13.351528500000002 best moves, rot -5, 0 current moves, rot -3, 0
+0
+best score, score -9.82742, -10.014304 best moves, rot -5, 0 current moves, rot -2, 0
+0
+best score, score -9.82742, -11.6197365 best moves, rot -5, 0 current moves, rot -1, 0
+0
+best score, score -9.82742, -12.487232500000001 best moves, rot -5, 0 current moves, rot 0, 0
+0
+best score, score -9.82742, -10.385672 best moves, rot -5, 0 current moves, rot 1, 0
+0
+best score, score -9.82742, -310.75543999999996 best moves, rot -5, 0 current moves, rot 2, 0
+0
+best score, score -9.82742, -410.20278799999994 best moves, rot -5, 0 current moves, rot 3, 0
+0
+best score, score -9.82742, -13.109723 best moves, rot -5, 0 current moves, rot -5, 1
+0
+best score, score -9.82742, -14.715153 best moves, rot -5, 0 current moves, rot -4, 1
+0
+best score, score -9.82742, -15.213683000000001 best moves, rot -5, 0 current moves, rot -3, 1
+0
+best score, score -9.82742, -11.009763000000001 best moves, rot -5, 0 current moves, rot -2, 1
+0
+best score, score -9.82742, -12.984161000000002 best moves, rot -5, 0 current moves, rot -1, 1
+0
+best score, score -9.82742, -13.851657000000001 best moves, rot -5, 0 current moves, rot 0, 1
+0
+best score, score -9.82742, -109.647736 best moves, rot -5, 0 current moves, rot 1, 1
+0
+best score, score -9.82742, -210.201988 best moves, rot -5, 0 current moves, rot 2, 1
+0
+best score, score -9.82742, -11.1914485 best moves, rot -5, 0 current moves, rot -6, 2
+0
+best score, score -9.82742, -10.012303999999999 best moves, rot -5, 0 current moves, rot -5, 2
+0
+best score, score -9.82742, -15.0845205 best moves, rot -5, 0 current moves, rot -4, 2
+0
+best score, score -9.82742, -11.0093625 best moves, rot -5, 0 current moves, rot -3, 2
+0
+best score, score -9.82742, -11.2503685 best moves, rot -5, 0 current moves, rot -2, 2
+0
+best score, score -9.82742, -14.220224500000002 best moves, rot -5, 0 current moves, rot -1, 2
+0
+best score, score -9.82742, -11.7496965 best moves, rot -5, 0 current moves, rot 0, 2
+0
+best score, score -9.82742, -312.4884325 best moves, rot -5, 0 current moves, rot 1, 2
+0
+best score, score -9.82742, -611.9357825 best moves, rot -5, 0 current moves, rot 2, 2
+0
+best score, score -18.239666999999997, -17.42949 best moves, rot -5, -1 current moves, rot -4, 0
+0
+best score, score -1e+24, -11.875260000000003 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -11.875260000000003, -16.449747 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -11.875260000000003, -13.481491000000002 best moves, rot -5, -1 current moves, rot -3, -1
+0
+best score, score -11.875260000000003, -13.482293000000002 best moves, rot -5, -1 current moves, rot -2, -1
+0
+best score, score -11.875260000000003, -11.380731 best moves, rot -5, -1 current moves, rot -1, -1
+0
+best score, score -11.380731, -12.986163000000003 best moves, rot -1, -1 current moves, rot 0, -1
+0
+best score, score -11.380731, -211.751299 best moves, rot -1, -1 current moves, rot 1, -1
+0
+best score, score -11.380731, -412.12106500000004 best moves, rot -1, -1 current moves, rot 2, -1
+0
+best score, score -11.380731, -11.4328545 best moves, rot -1, -1 current moves, rot -5, 0
+0
+best score, score -11.380731, -10.8802025 best moves, rot -1, -1 current moves, rot -4, 0
+0
+best score, score -10.8802025, -12.8546005 best moves, rot -4, 0 current moves, rot -3, 0
+0
+best score, score -10.8802025, -13.353130500000002 best moves, rot -4, 0 current moves, rot -2, 0
+0
+best score, score -10.8802025, -11.2515705 best moves, rot -4, 0 current moves, rot -1, 0
+0
+best score, score -10.8802025, -12.8570005 best moves, rot -4, 0 current moves, rot 0, 0
+0
+best score, score -10.8802025, -10.75544 best moves, rot -4, 0 current moves, rot 1, 0
+0
+best score, score -10.75544, -311.125208 best moves, rot 1, 0 current moves, rot 2, 0
+0
+best score, score -10.75544, -410.57255599999996 best moves, rot 1, 0 current moves, rot 3, 0
+0
+best score, score -10.75544, -10.510434499999999 best moves, rot 1, 0 current moves, rot -5, 1
+0
+best score, score -10.510434499999999, -14.715955000000001 best moves, rot -5, 1 current moves, rot -4, 1
+0
+best score, score -10.510434499999999, -14.716755000000001 best moves, rot -5, 1 current moves, rot -3, 1
+0
+best score, score -10.510434499999999, -14.717555 best moves, rot -5, 1 current moves, rot -2, 1
+0
+best score, score -10.510434499999999, -12.247027000000001 best moves, rot -5, 1 current moves, rot -1, 1
+0
+best score, score -10.510434499999999, -14.221425000000002 best moves, rot -5, 1 current moves, rot 0, 1
+0
+best score, score -10.510434499999999, -110.017504 best moves, rot -5, 1 current moves, rot 1, 1
+0
+best score, score -10.510434499999999, -210.57175600000002 best moves, rot -5, 1 current moves, rot 2, 1
+0
+best score, score -10.510434499999999, -12.7968785 best moves, rot -5, 1 current moves, rot -6, 2
+0
+best score, score -10.510434499999999, -10.510834499999998 best moves, rot -5, 1 current moves, rot -5, 2
+0
+best score, score -10.510434499999999, -10.382871999999999 best moves, rot -5, 1 current moves, rot -4, 2
+0
+best score, score -10.382871999999999, -15.086122500000002 best moves, rot -4, 2 current moves, rot -3, 2
+0
+best score, score -10.382871999999999, -10.513232499999999 best moves, rot -4, 2 current moves, rot -2, 2
+0
+best score, score -10.382871999999999, -14.589992500000003 best moves, rot -4, 2 current moves, rot -1, 2
+0
+best score, score -10.382871999999999, -12.119464500000001 best moves, rot -4, 2 current moves, rot 0, 2
+0
+best score, score -10.382871999999999, -312.8582005 best moves, rot -4, 2 current moves, rot 1, 2
+0
+best score, score -10.382871999999999, -612.3055505 best moves, rot -4, 2 current moves, rot 2, 2
+0
+best score, score -17.42949, -18.354709999999997 best moves, rot -4, 0 current moves, rot -3, 0
+0
+best score, score -1e+24, -10.327150499999998 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -10.327150499999998, -12.743555 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -10.327150499999998, -16.451345 best moves, rot -5, -1 current moves, rot -3, -1
+0
+best score, score -10.327150499999998, -12.616393000000002 best moves, rot -5, -1 current moves, rot -2, -1
+0
+best score, score -10.327150499999998, -14.350587 best moves, rot -5, -1 current moves, rot -1, -1
+0
+best score, score -10.327150499999998, -12.249027000000002 best moves, rot -5, -1 current moves, rot 0, -1
+0
+best score, score -10.327150499999998, -211.383131 best moves, rot -5, -1 current moves, rot 1, -1
+0
+best score, score -10.327150499999998, -411.75289699999996 best moves, rot -5, -1 current moves, rot 2, -1
+0
+best score, score -10.327150499999998, -11.433652499999999 best moves, rot -5, -1 current moves, rot -5, 0
+0
+best score, score -10.327150499999998, -10.014304 best moves, rot -5, -1 current moves, rot -4, 0
+0
+best score, score -10.014304, -10.881800499999999 best moves, rot -4, 0 current moves, rot -3, 0
+0
+best score, score -10.014304, -12.487232500000001 best moves, rot -4, 0 current moves, rot -2, 0
+0
+best score, score -10.014304, -12.488032500000001 best moves, rot -4, 0 current moves, rot -1, 0
+0
+best score, score -10.014304, -12.1198645 best moves, rot -4, 0 current moves, rot 0, 0
+0
+best score, score -10.014304, -10.387272 best moves, rot -4, 0 current moves, rot 1, 0
+0
+best score, score -10.014304, -310.75703999999996 best moves, rot -4, 0 current moves, rot 2, 0
+0
+best score, score -10.014304, -410.20438799999994 best moves, rot -4, 0 current moves, rot 3, 0
+0
+best score, score -10.014304, -11.377931 best moves, rot -4, 0 current moves, rot -5, 1
+0
+best score, score -10.014304, -11.378731 best moves, rot -4, 0 current moves, rot -4, 1
+0
+best score, score -10.014304, -14.717553 best moves, rot -4, 0 current moves, rot -3, 1
+0
+best score, score -10.014304, -13.851657000000001 best moves, rot -4, 0 current moves, rot -2, 1
+0
+best score, score -10.014304, -15.585849000000001 best moves, rot -4, 0 current moves, rot -1, 1
+0
+best score, score -10.014304, -13.115321 best moves, rot -4, 0 current moves, rot 0, 1
+0
+best score, score -10.014304, -109.64933599999999 best moves, rot -4, 0 current moves, rot 1, 1
+0
+best score, score -10.014304, -210.20358800000002 best moves, rot -4, 0 current moves, rot 2, 1
+0
+best score, score -10.014304, -12.797676500000001 best moves, rot -4, 0 current moves, rot -6, 2
+0
+best score, score -10.014304, -11.7472985 best moves, rot -4, 0 current moves, rot -5, 2
+0
+best score, score -10.014304, -10.5124345 best moves, rot -4, 0 current moves, rot -4, 2
+0
+best score, score -10.014304, -10.015504 best moves, rot -4, 0 current moves, rot -3, 2
+0
+best score, score -10.014304, -14.221024500000002 best moves, rot -4, 0 current moves, rot -2, 2
+0
+best score, score -10.014304, -13.4838885 best moves, rot -4, 0 current moves, rot -1, 2
+0
+best score, score -10.014304, -11.7512965 best moves, rot -4, 0 current moves, rot 0, 2
+0
+best score, score -10.014304, -312.49003250000004 best moves, rot -4, 0 current moves, rot 1, 2
+0
+best score, score -10.014304, -611.9373825 best moves, rot -4, 0 current moves, rot 2, 2
+0
+best score, score -17.42949, -17.617973999999997 best moves, rot -4, 0 current moves, rot -2, 0
+0
+best score, score -1e+24, -11.932583000000001 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -11.932583000000001, -12.246629500000003 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -11.932583000000001, -16.0831775 best moves, rot -5, -1 current moves, rot -3, -1
+0
+best score, score -11.932583000000001, -18.5553055 best moves, rot -5, -1 current moves, rot -2, -1
+0
+best score, score -11.932583000000001, -16.453745500000004 best moves, rot -5, -1 current moves, rot -1, -1
+0
+best score, score -11.932583000000001, -19.0546355 best moves, rot -5, -1 current moves, rot 0, -1
+0
+best score, score -11.932583000000001, -212.6195955 best moves, rot -5, -1 current moves, rot 1, -1
+0
+best score, score -11.932583000000001, -412.98936150000003 best moves, rot -5, -1 current moves, rot 2, -1
+0
+best score, score -11.932583000000001, -12.670117 best moves, rot -5, -1 current moves, rot -5, 0
+0
+best score, score -11.932583000000001, -11.6197365 best moves, rot -5, -1 current moves, rot -4, 0
+0
+best score, score -11.6197365, -11.2515705 best moves, rot -4, 0 current moves, rot -3, 0
+0
+best score, score -11.2515705, -12.985761000000002 best moves, rot -3, 0 current moves, rot -2, 0
+0
+best score, score -11.2515705, -13.724497000000001 best moves, rot -3, 0 current moves, rot -1, 0
+0
+best score, score -11.2515705, -16.325384999999997 best moves, rot -3, 0 current moves, rot 0, 0
+0
+best score, score -11.2515705, -11.6237365 best moves, rot -3, 0 current moves, rot 1, 0
+0
+best score, score -11.2515705, -311.99350450000003 best moves, rot -3, 0 current moves, rot 2, 0
+0
+best score, score -11.2515705, -411.4408525 best moves, rot -3, 0 current moves, rot 3, 0
+0
+best score, score -11.2515705, -12.983361500000003 best moves, rot -3, 0 current moves, rot -5, 1
+0
+best score, score -11.2515705, -10.8818025 best moves, rot -3, 0 current moves, rot -4, 1
+0
+best score, score -10.8818025, -14.718353500000001 best moves, rot -4, 1 current moves, rot -3, 1
+0
+best score, score -10.8818025, -16.821513500000002 best moves, rot -4, 1 current moves, rot -2, 1
+0
+best score, score -10.8818025, -17.6890095 best moves, rot -4, 1 current moves, rot -1, 1
+0
+best score, score -10.8818025, -20.2898975 best moves, rot -4, 1 current moves, rot 0, 1
+0
+best score, score -10.8818025, -110.8858005 best moves, rot -4, 1 current moves, rot 1, 1
+0
+best score, score -10.8818025, -211.4400525 best moves, rot -4, 1 current moves, rot 2, 1
+0
+best score, score -10.8818025, -14.034141 best moves, rot -4, 1 current moves, rot -6, 2
+0
+best score, score -10.8818025, -13.352729000000004 best moves, rot -4, 1 current moves, rot -5, 2
+0
+best score, score -10.8818025, -12.984565000000003 best moves, rot -4, 1 current moves, rot -4, 2
+0
+best score, score -10.8818025, -10.8830025 best moves, rot -4, 1 current moves, rot -3, 2
+0
+best score, score -10.8818025, -11.2527685 best moves, rot -4, 1 current moves, rot -2, 2
+0
+best score, score -10.8818025, -18.058376999999997 best moves, rot -4, 1 current moves, rot -1, 2
+0
+best score, score -10.8818025, -12.618793000000002 best moves, rot -4, 1 current moves, rot 0, 2
+0
+best score, score -10.8818025, -313.726497 best moves, rot -4, 1 current moves, rot 1, 2
+0
+best score, score -10.8818025, -613.1738469999999 best moves, rot -4, 1 current moves, rot 2, 2
+0
+best score, score -17.42949, -19.721936999999997 best moves, rot -4, 0 current moves, rot -1, 0
+0
+best score, score -1e+24, -12.800079000000002 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -12.800079000000002, -13.852059500000003 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -12.800079000000002, -13.483889500000002 best moves, rot -5, -1 current moves, rot -3, -1
+0
+best score, score -12.800079000000002, -16.9514735 best moves, rot -5, -1 current moves, rot -2, -1
+0
+best score, score -12.800079000000002, -19.423601499999997 best moves, rot -5, -1 current moves, rot -1, -1
+0
+best score, score -12.800079000000002, -17.3220415 best moves, rot -5, -1 current moves, rot 0, -1
+0
+best score, score -12.800079000000002, -619.9229315 best moves, rot -5, -1 current moves, rot 1, -1
+0
+best score, score -12.800079000000002, -413.1189255 best moves, rot -5, -1 current moves, rot 2, -1
+0
+best score, score -12.800079000000002, -13.537613 best moves, rot -5, -1 current moves, rot -5, 0
+0
+best score, score -12.800079000000002, -12.487232500000001 best moves, rot -5, -1 current moves, rot -4, 0
+0
+best score, score -12.487232500000001, -12.8570005 best moves, rot -4, 0 current moves, rot -3, 0
+0
+best score, score -12.487232500000001, -12.1198645 best moves, rot -4, 0 current moves, rot -2, 0
+0
+best score, score -12.1198645, -13.854057000000001 best moves, rot -2, 0 current moves, rot -1, 0
+0
+best score, score -12.1198645, -14.592793000000002 best moves, rot -2, 0 current moves, rot 0, 0
+0
+best score, score -12.1198645, -17.193680999999998 best moves, rot -2, 0 current moves, rot 1, 0
+0
+best score, score -12.1198645, -312.4920345 best moves, rot -2, 0 current moves, rot 2, 0
+0
+best score, score -12.1198645, -412.3083485 best moves, rot -2, 0 current moves, rot 3, 0
+0
+best score, score -12.1198645, -13.850857500000002 best moves, rot -2, 0 current moves, rot -5, 1
+0
+best score, score -12.1198645, -12.1182645 best moves, rot -2, 0 current moves, rot -4, 1
+0
+best score, score -12.1182645, -12.1190645 best moves, rot -4, 1 current moves, rot -3, 1
+0
+best score, score -12.1182645, -15.586649500000002 best moves, rot -4, 1 current moves, rot -2, 1
+0
+best score, score -12.1182645, -17.6898095 best moves, rot -4, 1 current moves, rot -1, 1
+0
+best score, score -12.1182645, -18.557305500000002 best moves, rot -4, 1 current moves, rot 0, 1
+0
+best score, score -12.1182645, -621.1581934999999 best moves, rot -4, 1 current moves, rot 1, 1
+0
+best score, score -12.1182645, -211.5696165 best moves, rot -4, 1 current moves, rot 2, 1
+0
+best score, score -12.1182645, -14.901637000000001 best moves, rot -4, 1 current moves, rot -6, 2
+0
+best score, score -12.1182645, -14.220225000000003 best moves, rot -4, 1 current moves, rot -5, 2
+0
+best score, score -12.1182645, -14.589993000000003 best moves, rot -4, 1 current moves, rot -4, 2
+0
+best score, score -12.1182645, -13.852861000000003 best moves, rot -4, 1 current moves, rot -3, 2
+0
+best score, score -12.1182645, -11.7512965 best moves, rot -4, 1 current moves, rot -2, 2
+0
+best score, score -11.7512965, -12.121064500000001 best moves, rot -2, 2 current moves, rot -1, 2
+0
+best score, score -11.7512965, -18.926672999999997 best moves, rot -2, 2 current moves, rot 0, 2
+0
+best score, score -11.7512965, -313.487093 best moves, rot -2, 2 current moves, rot 1, 2
+0
+best score, score -11.7512965, -614.041343 best moves, rot -2, 2 current moves, rot 2, 2
+0
+best score, score -17.42949, -21.458927 best moves, rot -4, 0 current moves, rot 0, 0
+0
+best score, score -1e+24, -10.6985185 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -10.6985185, -11.750499000000001 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -10.6985185, -11.751297000000001 best moves, rot -5, -1 current moves, rot -3, -1
+0
+best score, score -10.6985185, -13.854457000000002 best moves, rot -5, -1 current moves, rot -2, -1
+0
+best score, score -10.6985185, -10.148264500000002 best moves, rot -5, -1 current moves, rot -1, -1
+0
+best score, score -10.148264500000002, -14.353787 best moves, rot -1, -1 current moves, rot 0, -1
+0
+best score, score -10.148264500000002, -413.11892299999994 best moves, rot -1, -1 current moves, rot 1, -1
+0
+best score, score -10.148264500000002, -813.6174529999998 best moves, rot -1, -1 current moves, rot 2, -1
+0
+best score, score -10.148264500000002, -11.436052499999999 best moves, rot -1, -1 current moves, rot -5, 0
+0
+best score, score -10.148264500000002, -10.385672 best moves, rot -1, -1 current moves, rot -4, 0
+0
+best score, score -10.148264500000002, -10.75544 best moves, rot -1, -1 current moves, rot -3, 0
+0
+best score, score -10.148264500000002, -10.387272 best moves, rot -1, -1 current moves, rot -2, 0
+0
+best score, score -10.148264500000002, -11.6237365 best moves, rot -1, -1 current moves, rot -1, 0
+0
+best score, score -10.148264500000002, -10.886602499999999 best moves, rot -1, -1 current moves, rot 0, 0
+0
+best score, score -10.148264500000002, -12.1230665 best moves, rot -1, -1 current moves, rot 1, 0
+0
+best score, score -10.148264500000002, -613.3595284999999 best moves, rot -1, -1 current moves, rot 2, 0
+0
+best score, score -10.148264500000002, -205.488821 best moves, rot -1, -1 current moves, rot 3, 0
+0
+best score, score -10.148264500000002, -11.749297 best moves, rot -1, -1 current moves, rot -5, 1
+0
+best score, score -10.148264500000002, -10.016703999999999 best moves, rot -1, -1 current moves, rot -4, 1
+0
+best score, score -10.016703999999999, -10.017503999999999 best moves, rot -4, 1 current moves, rot -3, 1
+0
+best score, score -10.016703999999999, -12.120665 best moves, rot -4, 1 current moves, rot -2, 1
+0
+best score, score -10.016703999999999, -11.383531 best moves, rot -4, 1 current moves, rot -1, 1
+0
+best score, score -10.016703999999999, -12.619995000000001 best moves, rot -4, 1 current moves, rot 0, 1
+0
+best score, score -10.016703999999999, -414.35418699999997 best moves, rot -4, 1 current moves, rot 1, 1
+0
+best score, score -10.016703999999999, -814.8527159999999 best moves, rot -4, 1 current moves, rot 2, 1
+0
+best score, score -10.016703999999999, -12.800076500000003 best moves, rot -4, 1 current moves, rot -6, 2
+0
+best score, score -10.016703999999999, -12.118664500000001 best moves, rot -4, 1 current moves, rot -5, 2
+0
+best score, score -10.016703999999999, -12.488432500000002 best moves, rot -4, 1 current moves, rot -4, 2
+0
+best score, score -10.016703999999999, -12.120266500000001 best moves, rot -4, 1 current moves, rot -3, 2
+0
+best score, score -10.016703999999999, -11.2543685 best moves, rot -4, 1 current moves, rot -2, 2
+0
+best score, score -10.016703999999999, -12.619596500000002 best moves, rot -4, 1 current moves, rot -1, 2
+0
+best score, score -10.016703999999999, -9.651335999999999 best moves, rot -4, 1 current moves, rot 0, 2
+0
+best score, score -9.651335999999999, -615.0925205 best moves, rot 0, 2 current moves, rot 1, 2
+0
+best score, score -9.651335999999999, -610.8328785 best moves, rot 0, 2 current moves, rot 2, 2
+0
+best score, score -17.42949, -17.257406 best moves, rot -4, 0 current moves, rot 1, 0
+0
+best score, score -1e+24, -311.0682865 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -311.0682865, -312.120267 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -311.0682865, -312.12106500000004 best moves, rot -5, -1 current moves, rot -3, -1
+0
+best score, score -311.0682865, -314.224225 best moves, rot -5, -1 current moves, rot -2, -1
+0
+best score, score -311.0682865, -311.75369900000004 best moves, rot -5, -1 current moves, rot -1, -1
+0
+best score, score -311.0682865, -311.01656449999996 best moves, rot -5, -1 current moves, rot 0, -1
+0
+best score, score -311.01656449999996, -516.0887809999999 best moves, rot 0, -1 current moves, rot 1, -1
+0
+best score, score -311.01656449999996, -813.1205229999999 best moves, rot 0, -1 current moves, rot 2, -1
+0
+best score, score -311.01656449999996, -311.80582050000004 best moves, rot 0, -1 current moves, rot -5, 0
+0
+best score, score -311.01656449999996, -310.75543999999996 best moves, rot 0, -1 current moves, rot -4, 0
+0
+best score, score -310.75543999999996, -311.125208 best moves, rot -4, 0 current moves, rot -3, 0
+0
+best score, score -310.75543999999996, -310.75703999999996 best moves, rot -4, 0 current moves, rot -2, 0
+0
+best score, score -310.75543999999996, -311.99350450000003 best moves, rot -4, 0 current moves, rot -1, 0
+0
+best score, score -310.75543999999996, -312.4920345 best moves, rot -4, 0 current moves, rot 0, 0
+0
+best score, score -310.75543999999996, -310.5192345 best moves, rot -4, 0 current moves, rot 1, 0
+0
+best score, score -310.5192345, -612.8626005 best moves, rot 1, 0 current moves, rot 2, 0
+0
+best score, score -310.5192345, -1012.6231955 best moves, rot 1, 0 current moves, rot 3, 0
+0
+best score, score -310.5192345, -312.11906500000003 best moves, rot 1, 0 current moves, rot -5, 1
+0
+best score, score -310.5192345, -310.38647199999997 best moves, rot 1, 0 current moves, rot -4, 1
+0
+best score, score -310.38647199999997, -310.387272 best moves, rot -4, 1 current moves, rot -3, 1
+0
+best score, score -310.38647199999997, -312.490433 best moves, rot -4, 1 current moves, rot -2, 1
+0
+best score, score -310.38647199999997, -312.988963 best moves, rot -4, 1 current moves, rot -1, 1
+0
+best score, score -310.38647199999997, -312.251829 best moves, rot -4, 1 current moves, rot 0, 1
+0
+best score, score -310.38647199999997, -414.354989 best moves, rot -4, 1 current moves, rot 1, 1
+0
+best score, score -310.38647199999997, -814.3557879999998 best moves, rot -4, 1 current moves, rot 2, 1
+0
+best score, score -310.38647199999997, -313.1698445 best moves, rot -4, 1 current moves, rot -6, 2
+0
+best score, score -310.38647199999997, -312.4884325 best moves, rot -4, 1 current moves, rot -5, 2
+0
+best score, score -310.38647199999997, -312.8582005 best moves, rot -4, 1 current moves, rot -4, 2
+0
+best score, score -310.38647199999997, -312.49003450000004 best moves, rot -4, 1 current moves, rot -3, 2
+0
+best score, score -310.38647199999997, -311.6241365 best moves, rot -4, 1 current moves, rot -2, 2
+0
+best score, score -310.38647199999997, -314.2250265 best moves, rot -4, 1 current moves, rot -1, 2
+0
+best score, score -310.38647199999997, -310.1498665 best moves, rot -4, 1 current moves, rot 0, 2
+0
+best score, score -310.1498665, -410.390872 best moves, rot 0, 2 current moves, rot 1, 2
+0
+best score, score -310.1498665, -1214.3561895 best moves, rot 0, 2 current moves, rot 2, 2
+0
+best score, score -17.257406, -618.1257045 best moves, rot 1, 0 current moves, rot 2, 0
+0
+best score, score -1e+24, -410.5156345 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -410.5156345, -411.567615 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -410.5156345, -411.56841299999996 best moves, rot -5, -1 current moves, rot -3, -1
+0
+best score, score -410.5156345, -413.67157299999997 best moves, rot -5, -1 current moves, rot -2, -1
+0
+best score, score -410.5156345, -411.57001299999996 best moves, rot -5, -1 current moves, rot -1, -1
+0
+best score, score -410.5156345, -412.068545 best moves, rot -5, -1 current moves, rot 0, -1
+0
+best score, score -410.5156345, -612.1981049999999 best moves, rot -5, -1 current moves, rot 1, -1
+0
+best score, score -410.5156345, -1015.905893 best moves, rot -5, -1 current moves, rot 2, -1
+0
+best score, score -410.5156345, -411.2531685 best moves, rot -5, -1 current moves, rot -5, 0
+0
+best score, score -410.5156345, -410.20278799999994 best moves, rot -5, -1 current moves, rot -4, 0
+0
+best score, score -410.20278799999994, -410.57255599999996 best moves, rot -4, 0 current moves, rot -3, 0
+0
+best score, score -410.20278799999994, -410.20438799999994 best moves, rot -4, 0 current moves, rot -2, 0
+0
+best score, score -410.20278799999994, -411.4408525 best moves, rot -4, 0 current moves, rot -1, 0
+0
+best score, score -410.20278799999994, -412.3083485 best moves, rot -4, 0 current moves, rot 0, 0
+0
+best score, score -410.20278799999994, -205.488821 best moves, rot -4, 0 current moves, rot 1, 0
+0
+best score, score -205.488821, -710.7053165 best moves, rot 1, 0 current moves, rot 2, 0
+0
+best score, score -205.488821, -1011.7572965 best moves, rot 1, 0 current moves, rot 3, 0
+0
+best score, score -205.488821, -411.56641299999995 best moves, rot 1, 0 current moves, rot -5, 1
+0
+best score, score -205.488821, -409.83381999999995 best moves, rot 1, 0 current moves, rot -4, 1
+0
+best score, score -205.488821, -409.8346199999999 best moves, rot 1, 0 current moves, rot -3, 1
+0
+best score, score -205.488821, -411.937781 best moves, rot 1, 0 current moves, rot -2, 1
+0
+best score, score -205.488821, -412.80527699999993 best moves, rot 1, 0 current moves, rot -1, 1
+0
+best score, score -205.488821, -413.30380699999995 best moves, rot 1, 0 current moves, rot 0, 1
+0
+best score, score -205.488821, -510.83327899999995 best moves, rot 1, 0 current moves, rot 1, 1
+0
+best score, score -205.488821, -814.3565849999999 best moves, rot 1, 0 current moves, rot 2, 1
+0
+best score, score -205.488821, -412.61719249999993 best moves, rot 1, 0 current moves, rot -6, 2
+0
+best score, score -205.488821, -411.93578049999996 best moves, rot 1, 0 current moves, rot -5, 2
+0
+best score, score -205.488821, -412.30554850000004 best moves, rot 1, 0 current moves, rot -4, 2
+0
+best score, score -205.488821, -411.9373825 best moves, rot 1, 0 current moves, rot -3, 2
+0
+best score, score -205.488821, -411.0714845 best moves, rot 1, 0 current moves, rot -2, 2
+0
+best score, score -205.488821, -414.0413405 best moves, rot 1, 0 current moves, rot -1, 2
+0
+best score, score -205.488821, -411.2018465 best moves, rot 1, 0 current moves, rot 0, 2
+0
+best score, score -205.488821, -610.3359505 best moves, rot 1, 0 current moves, rot 1, 2
+0
+best score, score -205.488821, -809.654536 best moves, rot 1, 0 current moves, rot 2, 2
+0
+best score, score -17.257406, -612.912007 best moves, rot 1, 0 current moves, rot 3, 0
+0
+best score, score -1e+24, -12.058143500000002 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -12.058143500000002, -11.874457500000004 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -11.874457500000004, -13.608654 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -11.874457500000004, -14.47615 best moves, rot -4, -1 current moves, rot -2, -1
+0
+best score, score -11.874457500000004, -13.112522 best moves, rot -4, -1 current moves, rot -1, -1
+0
+best score, score -11.874457500000004, -13.98002 best moves, rot -4, -1 current moves, rot 0, -1
+0
+best score, score -11.874457500000004, -212.74515600000004 best moves, rot -4, -1 current moves, rot 1, -1
+0
+best score, score -11.874457500000004, -413.1149219999999 best moves, rot -4, -1 current moves, rot 2, -1
+0
+best score, score -11.874457500000004, -12.795677500000004 best moves, rot -4, -1 current moves, rot -5, 0
+0
+best score, score -11.874457500000004, -11.745297 best moves, rot -4, -1 current moves, rot -4, 0
+0
+best score, score -11.745297, -13.848457500000002 best moves, rot -4, 0 current moves, rot -3, 0
+0
+best score, score -11.745297, -11.377931 best moves, rot -4, 0 current moves, rot -2, 0
+0
+best score, score -11.377931, -12.983361500000003 best moves, rot -2, 0 current moves, rot -1, 0
+0
+best score, score -11.377931, -13.850857500000002 best moves, rot -2, 0 current moves, rot 0, 0
+0
+best score, score -11.377931, -11.749297 best moves, rot -2, 0 current moves, rot 1, 0
+0
+best score, score -11.377931, -312.11906500000003 best moves, rot -2, 0 current moves, rot 2, 0
+0
+best score, score -11.377931, -411.56641299999995 best moves, rot -2, 0 current moves, rot 3, 0
+0
+best score, score -11.377931, -13.108922 best moves, rot -2, 0 current moves, rot -5, 1
+0
+best score, score -11.377931, -13.109721500000001 best moves, rot -2, 0 current moves, rot -4, 1
+0
+best score, score -11.377931, -14.843916 best moves, rot -2, 0 current moves, rot -3, 1
+0
+best score, score -11.377931, -12.742356 best moves, rot -2, 0 current moves, rot -2, 1
+0
+best score, score -11.377931, -14.347786 best moves, rot -2, 0 current moves, rot -1, 1
+0
+best score, score -11.377931, -15.215282 best moves, rot -2, 0 current moves, rot 0, 1
+0
+best score, score -11.377931, -111.01136100000002 best moves, rot -2, 0 current moves, rot 1, 1
+0
+best score, score -11.377931, -211.56561299999998 best moves, rot -2, 0 current moves, rot 2, 1
+0
+best score, score -11.377931, -14.1597015 best moves, rot -2, 0 current moves, rot -6, 2
+0
+best score, score -11.377931, -13.4782895 best moves, rot -2, 0 current moves, rot -5, 2
+0
+best score, score -11.377931, -15.581449500000002 best moves, rot -2, 0 current moves, rot -4, 2
+0
+best score, score -11.377931, -12.7419575 best moves, rot -2, 0 current moves, rot -3, 2
+0
+best score, score -11.377931, -12.613993500000001 best moves, rot -2, 0 current moves, rot -2, 2
+0
+best score, score -11.377931, -15.583849500000003 best moves, rot -2, 0 current moves, rot -1, 2
+0
+best score, score -11.377931, -13.113321500000001 best moves, rot -2, 0 current moves, rot 0, 2
+0
+best score, score -11.377931, -313.8520575 best moves, rot -2, 0 current moves, rot 1, 2
+0
+best score, score -11.377931, -613.2994075 best moves, rot -2, 0 current moves, rot 2, 2
+0
+best score, score -17.257406, -20.343626 best moves, rot 1, 0 current moves, rot -5, 1
+0
+best score, score -1e+24, -10.1410655 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -10.1410655, -10.510834499999998 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -10.1410655, -8.907 best moves, rot -5, -1 current moves, rot -3, -1
+0
+best score, score -8.907, -12.245827000000002 best moves, rot -3, -1 current moves, rot -2, -1
+0
+best score, score -8.907, -11.010963000000002 best moves, rot -3, -1 current moves, rot -1, -1
+0
+best score, score -8.907, -12.247427000000002 best moves, rot -3, -1 current moves, rot 0, -1
+0
+best score, score -8.907, -211.012563 best moves, rot -3, -1 current moves, rot 1, -1
+0
+best score, score -8.907, -411.38232899999997 best moves, rot -3, -1 current moves, rot 2, -1
+0
+best score, score -8.907, -10.8786015 best moves, rot -3, -1 current moves, rot -5, 0
+0
+best score, score -8.907, -11.2483685 best moves, rot -3, -1 current moves, rot -4, 0
+0
+best score, score -8.907, -10.013504 best moves, rot -3, -1 current moves, rot -3, 0
+0
+best score, score -8.907, -10.8810025 best moves, rot -3, -1 current moves, rot -2, 0
+0
+best score, score -8.907, -10.8818025 best moves, rot -3, -1 current moves, rot -1, 0
+0
+best score, score -8.907, -12.1182645 best moves, rot -3, -1 current moves, rot 0, 0
+0
+best score, score -8.907, -10.016703999999999 best moves, rot -3, -1 current moves, rot 1, 0
+0
+best score, score -8.907, -310.38647199999997 best moves, rot -3, -1 current moves, rot 2, 0
+0
+best score, score -8.907, -409.83381999999995 best moves, rot -3, -1 current moves, rot 3, 0
+0
+best score, score -8.907, -11.191846 best moves, rot -3, -1 current moves, rot -5, 1
+0
+best score, score -8.907, -11.746097 best moves, rot -3, -1 current moves, rot -4, 1
+0
+best score, score -8.907, -10.1422665 best moves, rot -3, -1 current moves, rot -3, 1
+0
+best score, score -8.907, -10.512034499999999 best moves, rot -3, -1 current moves, rot -2, 1
+0
+best score, score -8.907, -12.246227000000001 best moves, rot -3, -1 current moves, rot -1, 1
+0
+best score, score -8.907, -13.482689 best moves, rot -3, -1 current moves, rot 0, 1
+0
+best score, score -8.907, -109.278768 best moves, rot -3, -1 current moves, rot 1, 1
+0
+best score, score -8.907, -209.83302 best moves, rot -3, -1 current moves, rot 2, 1
+0
+best score, score -8.907, -10.324748499999998 best moves, rot -3, -1 current moves, rot -6, 2
+0
+best score, score -8.907, -12.981360500000001 best moves, rot -3, -1 current moves, rot -5, 2
+0
+best score, score -8.907, -11.7464965 best moves, rot -3, -1 current moves, rot -4, 2
+0
+best score, score -8.907, -12.6139945 best moves, rot -3, -1 current moves, rot -3, 2
+0
+best score, score -8.907, -10.5124325 best moves, rot -3, -1 current moves, rot -2, 2
+0
+best score, score -8.907, -13.851256500000002 best moves, rot -3, -1 current moves, rot -1, 2
+0
+best score, score -8.907, -11.3807285 best moves, rot -3, -1 current moves, rot 0, 2
+0
+best score, score -8.907, -312.1194645 best moves, rot -3, -1 current moves, rot 1, 2
+0
+best score, score -8.907, -611.5668145 best moves, rot -3, -1 current moves, rot 2, 2
+0
+best score, score -17.257406, -16.140102 best moves, rot 1, 0 current moves, rot -4, 1
+0
+best score, score -1e+24, -13.424169000000001 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -13.424169000000001, -11.0093625 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -11.0093625, -10.5124345 best moves, rot -4, -1 current moves, rot -3, -1
+0
+best score, score -10.5124345, -11.379931000000001 best moves, rot -3, -1 current moves, rot -2, -1
+0
+best score, score -10.5124345, -10.514032499999999 best moves, rot -3, -1 current moves, rot -1, -1
+0
+best score, score -10.5124345, -12.248227000000002 best moves, rot -3, -1 current moves, rot 0, -1
+0
+best score, score -10.5124345, -211.013363 best moves, rot -3, -1 current moves, rot 1, -1
+0
+best score, score -10.5124345, -411.383129 best moves, rot -3, -1 current moves, rot 2, -1
+0
+best score, score -10.5124345, -10.3259505 best moves, rot -3, -1 current moves, rot -5, 0
+0
+best score, score -10.3259505, -11.7468985 best moves, rot -5, 0 current moves, rot -4, 0
+0
+best score, score -10.3259505, -11.2499685 best moves, rot -5, 0 current moves, rot -3, 0
+0
+best score, score -10.3259505, -10.015104 best moves, rot -5, 0 current moves, rot -2, 0
+0
+best score, score -10.015104, -10.384872 best moves, rot -2, 0 current moves, rot -1, 0
+0
+best score, score -10.015104, -12.1190645 best moves, rot -2, 0 current moves, rot 0, 0
+0
+best score, score -10.015104, -10.017503999999999 best moves, rot -2, 0 current moves, rot 1, 0
+0
+best score, score -10.015104, -310.387272 best moves, rot -2, 0 current moves, rot 2, 0
+0
+best score, score -10.015104, -409.8346199999999 best moves, rot -2, 0 current moves, rot 3, 0
+0
+best score, score -10.015104, -11.690376000000002 best moves, rot -2, 0 current moves, rot -5, 1
+0
+best score, score -10.015104, -12.244627000000001 best moves, rot -2, 0 current moves, rot -4, 1
+0
+best score, score -10.015104, -11.747697 best moves, rot -2, 0 current moves, rot -3, 1
+0
+best score, score -10.015104, -9.646135999999998 best moves, rot -2, 0 current moves, rot -2, 1
+0
+best score, score -9.646135999999998, -11.7492965 best moves, rot -2, 1 current moves, rot -1, 1
+0
+best score, score -9.646135999999998, -13.483489 best moves, rot -2, 1 current moves, rot 0, 1
+0
+best score, score -9.646135999999998, -109.279568 best moves, rot -2, 1 current moves, rot 1, 1
+0
+best score, score -9.646135999999998, -209.83382000000003 best moves, rot -2, 1 current moves, rot 2, 1
+0
+best score, score -9.646135999999998, -11.689976500000002 best moves, rot -2, 1 current moves, rot -6, 2
+0
+best score, score -9.646135999999998, -9.275167999999999 best moves, rot -2, 1 current moves, rot -5, 2
+0
+best score, score -9.275167999999999, -12.9829605 best moves, rot -5, 2 current moves, rot -4, 2
+0
+best score, score -9.275167999999999, -11.7480965 best moves, rot -5, 2 current moves, rot -3, 2
+0
+best score, score -9.275167999999999, -12.117864500000001 best moves, rot -5, 2 current moves, rot -2, 2
+0
+best score, score -9.275167999999999, -13.852056500000002 best moves, rot -5, 2 current moves, rot -1, 2
+0
+best score, score -9.275167999999999, -11.3815285 best moves, rot -5, 2 current moves, rot 0, 2
+0
+best score, score -9.275167999999999, -312.1202645 best moves, rot -5, 2 current moves, rot 1, 2
+0
+best score, score -9.275167999999999, -611.5676145 best moves, rot -5, 2 current moves, rot 2, 2
+0
+best score, score -16.140102, -16.509069999999998 best moves, rot -4, 1 current moves, rot -3, 1
+0
+best score, score -1e+24, -11.691577500000003 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -11.691577500000003, -18.681668000000002 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -11.691577500000003, -14.348985500000001 best moves, rot -5, -1 current moves, rot -3, -1
+0
+best score, score -11.691577500000003, -12.616395500000003 best moves, rot -5, -1 current moves, rot -2, -1
+0
+best score, score -11.691577500000003, -13.114921500000001 best moves, rot -5, -1 current moves, rot -1, -1
+0
+best score, score -11.691577500000003, -16.084780000000002 best moves, rot -5, -1 current moves, rot 0, -1
+0
+best score, score -11.691577500000003, -213.11652400000003 best moves, rot -5, -1 current moves, rot 1, -1
+0
+best score, score -11.691577500000003, -413.48628999999994 best moves, rot -5, -1 current moves, rot 2, -1
+0
+best score, score -11.691577500000003, -13.167045500000002 best moves, rot -5, -1 current moves, rot -5, 0
+0
+best score, score -11.691577500000003, -11.009763000000001 best moves, rot -5, -1 current moves, rot -4, 0
+0
+best score, score -11.009763000000001, -15.086521500000002 best moves, rot -4, 0 current moves, rot -3, 0
+0
+best score, score -11.009763000000001, -13.353929500000003 best moves, rot -4, 0 current moves, rot -2, 0
+0
+best score, score -11.009763000000001, -12.119065 best moves, rot -4, 0 current moves, rot -1, 0
+0
+best score, score -11.009763000000001, -15.088921500000001 best moves, rot -4, 0 current moves, rot 0, 0
+0
+best score, score -11.009763000000001, -12.120665 best moves, rot -4, 0 current moves, rot 1, 0
+0
+best score, score -11.009763000000001, -312.490433 best moves, rot -4, 0 current moves, rot 2, 0
+0
+best score, score -11.009763000000001, -411.937781 best moves, rot -4, 0 current moves, rot 3, 0
+0
+best score, score -11.009763000000001, -12.742356 best moves, rot -4, 0 current moves, rot -5, 1
+0
+best score, score -11.009763000000001, -16.947876 best moves, rot -4, 0 current moves, rot -4, 1
+0
+best score, score -11.009763000000001, -15.58425 best moves, rot -4, 0 current moves, rot -3, 1
+0
+best score, score -11.009763000000001, -13.851658 best moves, rot -4, 0 current moves, rot -2, 1
+0
+best score, score -11.009763000000001, -14.3501855 best moves, rot -4, 0 current moves, rot -1, 1
+0
+best score, score -11.009763000000001, -17.320042 best moves, rot -4, 0 current moves, rot 0, 1
+0
+best score, score -11.009763000000001, -111.38272900000001 best moves, rot -4, 0 current moves, rot 1, 1
+0
+best score, score -11.009763000000001, -211.936981 best moves, rot -4, 0 current moves, rot 2, 1
+0
+best score, score -11.009763000000001, -14.531069500000001 best moves, rot -4, 0 current moves, rot -6, 2
+0
+best score, score -11.009763000000001, -12.7427575 best moves, rot -4, 0 current moves, rot -5, 2
+0
+best score, score -11.009763000000001, -12.614793500000003 best moves, rot -4, 0 current moves, rot -4, 2
+0
+best score, score -11.009763000000001, -15.086921500000003 best moves, rot -4, 0 current moves, rot -3, 2
+0
+best score, score -11.009763000000001, -13.852057500000003 best moves, rot -4, 0 current moves, rot -2, 2
+0
+best score, score -11.009763000000001, -16.8219135 best moves, rot -4, 0 current moves, rot -1, 2
+0
+best score, score -11.009763000000001, -13.115721500000001 best moves, rot -4, 0 current moves, rot 0, 2
+0
+best score, score -11.009763000000001, -314.2234255 best moves, rot -4, 0 current moves, rot 1, 2
+0
+best score, score -11.009763000000001, -613.6707755 best moves, rot -4, 0 current moves, rot 2, 2
+0
+best score, score -16.140102, -20.346826 best moves, rot -4, 1 current moves, rot -2, 1
+0
+best score, score -1e+24, -13.297007500000003 best moves, rot 0, 0 current moves, rot -5, -1
+0
+best score, score -13.297007500000003, -13.611054000000001 best moves, rot -5, -1 current moves, rot -4, -1
+0
+best score, score -13.297007500000003, -19.91893 best moves, rot -5, -1 current moves, rot -3, -1
+0
+best score, score -13.297007500000003, -15.217281500000002 best moves, rot -5, -1 current moves, rot -2, -1
+0
+best score, score -13.297007500000003, -13.484691500000002 best moves, rot -5, -1 current moves, rot -1, -1
+0
+best score, score -13.297007500000003, -13.9832175 best moves, rot -5, -1 current moves, rot 0, -1
+0
+best score, score -13.297007500000003, -416.953076 best moves, rot -5, -1 current moves, rot 1, -1
+0
+best score, score -13.297007500000003, -413.61585399999996 best moves, rot -5, -1 current moves, rot 2, -1
+0
+best score, score -13.297007500000003, -14.034541500000001 best moves, rot -5, -1 current moves, rot -5, 0
+0
+best score, score -13.297007500000003, -12.984161000000002 best moves, rot -5, -1 current moves, rot -4, 0
+0
+best score, score -12.984161000000002, -12.247027000000001 best moves, rot -4, 0 current moves, rot -3, 0
+0
+best score, score -12.247027000000001, -15.954817500000003 best moves, rot -3, 0 current moves, rot -2, 0
+0
+best score, score -12.247027000000001, -14.222225500000002 best moves, rot -3, 0 current moves, rot -1, 0
+0
+best score, score -12.247027000000001, -12.987361000000002 best moves, rot -3, 0 current moves, rot 0, 0
+0
+best score, score -12.247027000000001, -15.957217500000002 best moves, rot -3, 0 current moves, rot 1, 0
+0
+best score, score -12.247027000000001, -312.988963 best moves, rot -3, 0 current moves, rot 2, 0
+0
+best score, score -12.247027000000001, -412.80527699999993 best moves, rot -3, 0 current moves, rot 3, 0
+0
+best score, score -12.247027000000001, -14.347786 best moves, rot -3, 0 current moves, rot -5, 1
+0
+best score, score -12.247027000000001, -12.246227000000001 best moves, rot -3, 0 current moves, rot -4, 1
+0
+best score, score -12.246227000000001, -18.185138000000006 best moves, rot -4, 1 current moves, rot -3, 1
+0
+best score, score -12.246227000000001, -16.452546 best moves, rot -4, 1 current moves, rot -2, 1
+0
+best score, score -12.246227000000001, -14.719954 best moves, rot -4, 1 current moves, rot -1, 1
+0
+best score, score -12.246227000000001, -15.218481500000001 best moves, rot -4, 1 current moves, rot 0, 1
+0
+best score, score -12.246227000000001, -418.188338 best moves, rot -4, 1 current moves, rot 1, 1
+0
+best score, score -12.246227000000001, -212.06654500000002 best moves, rot -4, 1 current moves, rot 2, 1
+0
+best score, score -12.246227000000001, -15.398565500000002 best moves, rot -4, 1 current moves, rot -6, 2
+0
+best score, score -12.246227000000001, -14.717153500000002 best moves, rot -4, 1 current moves, rot -5, 2
+0
+best score, score -12.246227000000001, -13.980021500000001 best moves, rot -4, 1 current moves, rot -4, 2
+0
+best score, score -12.246227000000001, -13.483089500000002 best moves, rot -4, 1 current moves, rot -3, 2
+0
+best score, score -12.246227000000001, -15.955217500000003 best moves, rot -4, 1 current moves, rot -2, 2
+0
+best score, score -12.246227000000001, -14.720353500000002 best moves, rot -4, 1 current moves, rot -1, 2
+0
+best score, score -12.246227000000001, -17.690209499999998 best moves, rot -4, 1 current moves, rot 0, 2
+0
+best score, score -12.246227000000001, -313.9840215 best moves, rot -4, 1 current moves, rot 1, 2
+0
+best score, score -12.246227000000001, -614.5382715 best moves, rot -4, 1 current moves, rot 2, 2
+0
+best score, score -16.140102, -22.450786 best moves, rot -4, 1 current moves, rot -1, 1
+0
+best score, score -1e+24, -14.164503500000002 best moves, rot 0, 0 current moves, rot -5, -1
+Traceback (most recent call last):
+  File "headless.py", line 27, in <module>
+    run()
+  File "headless.py", line 19, in run
+    for move in board.run(player, adversary):
+  File "D:\Projects\University\UCL\Year 1, 2025-2026\tetris\board.py", line 533, in run
+    yield from self.run_player(player)
+  File "D:\Projects\University\UCL\Year 1, 2025-2026\tetris\board.py", line 492, in run_player
+    for action in actions:
+  File "D:\Projects\University\UCL\Year 1, 2025-2026\tetris\player.py", line 506, in choose_action
+    first_moves, second_moves = self.simulate_iterations(board)
+  File "D:\Projects\University\UCL\Year 1, 2025-2026\tetris\player.py", line 375, in simulate_iterations
+    second_score, second_moves = self.simulate_iterations(newer_board, True)
+  File "D:\Projects\University\UCL\Year 1, 2025-2026\tetris\player.py", line 377, in simulate_iterations
+    score = self.scorefunc(newer_board, board.score) + second_factor*second_score
+  File "D:\Projects\University\UCL\Year 1, 2025-2026\tetris\player.py", line 199, in scorefunc
+    row_transitions += 1 if board_array[x][y] != board_array[x+1][y] else 0
+KeyboardInterrupt

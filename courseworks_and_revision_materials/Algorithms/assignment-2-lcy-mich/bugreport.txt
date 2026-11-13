@@ -1,0 +1,45 @@
+Bomb stops dropping if missed
+Bomb is dropped and falls between gaps of building
+then bomb stops being able to drop
+Bomb should be able to drop after bomb explodes or falls into abyss
+Caused by bomb not being checked for misses
+Fixed on line 121 by adding extra condition
+
+Bomb drop has to wait for a while if plane drops after going off screen
+Space bar is pressed right as plane flies offscreen
+then as plane is respawned, bomb doesn't drop until a while later
+Bomb shouldn't be able to drop after plane flies offscreen
+Caused by bomb being able to fall offscreen, taking time
+Fixed on line 234 by adding a condition
+
+from math import sqrt includes only sqrt in namespace
+Fixed on line 46 by removing math
+
+Theres an extra tower offscreen
+There shouldn't be an extra tower offscreen
+Caused by an 'off-by-one' error
+Fixed on line 228 by changing 1200 to CANVAS_WIDTH
+
+The first tower cannot be hit
+Caused by plane spawning on top of first tower instead of slightly right of it
+Fixed on line 174 and 197 by making plane spawn top right of first tower
+
+Tower height can go negative
+Happens when you explode a tower thats almost leveled
+Fixed on line 82-83 by adding a check for height
+
+Game over on plane land
+Caused as buildings aren't actually destroyed (only visually)
+and as win condition is an equivalence relation
+Fixed on line 74 by changing condition to include height of building
+and on line 262 by turning equivalence relation to greater than equal to
+
+Bomb can clip on edge of building
+Happens when bomb is falling right next to edge of building
+Caused as only centre of bomb is checked for collision
+Fixed on line 243 by checking only sides of bomb for collision
+
+Restart is broken
+Error outputted when r is pressed
+Caused by self.text being in argument (there is no self.text)
+Fixed on line 287
